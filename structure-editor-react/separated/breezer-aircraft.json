@@ -1,0 +1,30 @@
+[
+  {
+    "hash": "2075002317",
+    "labelMake": "BREEZER AIRCRAFT",
+    "labelModel": "BREEZER II",
+    "oraeroModel": "BREEZER II",
+    "oraeroMake": "BREEZER AIRCRAFT",
+    "iatMake": "Cessna",
+    "iatModel": "BREEZER II",
+    "rokstoneMake": "BREEZER AIRCRAFT",
+    "rokstoneModel": "BREEZER II",
+    "sfMake": "Not correlation to SF",
+    "sfModel": "BREEZER II",
+    "year": "2007"
+  },
+  {
+    "hash": "2075002318",
+    "labelMake": "BREEZER AIRCRAFT",
+    "labelModel": "BREEZER II",
+    "oraeroModel": "BREEZER II",
+    "oraeroMake": "BREEZER AIRCRAFT",
+    "iatMake": "Cessna",
+    "iatModel": "BREEZER II",
+    "rokstoneMake": "BREEZER AIRCRAFT",
+    "rokstoneModel": "BREEZER II",
+    "sfMake": "Not correlation to SF",
+    "sfModel": "BREEZER II",
+    "year": "2008"
+  }
+]
