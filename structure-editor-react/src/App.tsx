@@ -14,16 +14,13 @@ import {
   DialogActions,
   DialogContent,
   DialogTitle,
-  Grid,
   IconButton,
-  MenuItem,
-  Select,
   Stack,
   TextField,
   Toolbar,
   Typography,
 } from '@mui/material'
-import { Add, Delete, Edit, FileUpload, Save } from '@mui/icons-material'
+import { Add, Delete, Edit, Save } from '@mui/icons-material'
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper } from '@mui/material'
 
 type StructureItem = {
@@ -150,28 +147,7 @@ function App() {
       }
     }
     
-    const loadFile = async (filename: string) => {
-      try {
-        const res = await fetch(`/separated/${filename}`, { cache: 'no-store' })
-        if (!res.ok) {
-          console.log(`File ${filename} not found, falling back to database.json`)
-          await loadDatabaseJson()
-          return
-        }
-        const json = await res.json()
-        const parsed = z.array(itemSchema).safeParse(json)
-        if (parsed.success && isMounted) {
-          setItems(parsed.data)
-        }
-      } catch (error) {
-        console.log(`Error loading ${filename}:`, error)
-        await loadDatabaseJson()
-      } finally {
-        if (isMounted) {
-          setLoading(false)
-        }
-      }
-    }
+    // Removed unused loadFile function
     
     loadSeparatedFiles()
     
@@ -232,9 +208,7 @@ function App() {
     setItems(prev => prev.filter((_, i) => i !== index))
   }
 
-  async function onClickImport() {
-    fileInputRef.current?.click()
-  }
+  // Removed unused onClickImport function
 
   function onFileSelected(e: React.ChangeEvent<HTMLInputElement>) {
     const file = e.target.files?.[0]
