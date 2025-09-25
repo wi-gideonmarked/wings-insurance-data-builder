@@ -1,13 +1,8 @@
-module.exports = {
+export default {
   apps: [{
     name: 'structure-editor-react',
-    script: 'serve',
-    env: {
-      PM2_SERVE_PATH: './dist',
-      PM2_SERVE_PORT: 80,
-      PM2_SERVE_SPA: 'true',
-      PM2_SERVE_HOMEPAGE: '/index.html'
-    },
+    script: './node_modules/.bin/serve',
+    args: '-s dist -l 3000',
     instances: 1,
     exec_mode: 'fork',
     watch: false,
