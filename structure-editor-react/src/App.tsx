@@ -20,7 +20,7 @@ import {
   Toolbar,
   Typography,
 } from '@mui/material'
-import { Add, Delete, Edit, Save } from '@mui/icons-material'
+import { Add, Delete, Edit, Save, Tag } from '@mui/icons-material'
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper } from '@mui/material'
 
 type StructureItem = {
@@ -39,7 +39,7 @@ type StructureItem = {
 }
 
 const itemSchema = z.object({
-  hash: z.string().min(1),
+  hash: z.string().optional().default(''), // Hash will be auto-generated for new items
   labelMake: z.string().optional().default(''),
   labelModel: z.string().optional().default(''),
   oraeroModel: z.string().optional().default(''),
@@ -52,6 +52,9 @@ const itemSchema = z.object({
   sfModel: z.string().optional().default(''),
   year: z.coerce.number().int().min(1900).max(2100),
 })
+
+// Hash code generator function
+const hashCode = (s: string): string => s.split('').reduce((a, b) => (((a << 5) - a) + b.charCodeAt(0)) | 0, 0).toString()
 
 const theme = createTheme({
   palette: {
@@ -84,6 +87,11 @@ function App() {
   const [selectedFile, setSelectedFile] = useState<string>('')
   const [showTable, setShowTable] = useState(false)
   const [searchQuery, setSearchQuery] = useState('')
+  
+  // Authentication state
+  const [isAuthenticated, setIsAuthenticated] = useState(false)
+  const [password, setPassword] = useState('')
+  const [authError, setAuthError] = useState('')
 
   const isEditing = useMemo(() => editingIndex !== null, [editingIndex])
 
@@ -178,6 +186,14 @@ function App() {
     setDraft(prev => ({ ...prev, [field]: field === 'year' ? Number(value) : value }))
   }
 
+  function generateHashForField(field: keyof StructureItem) {
+    const currentValue = draft[field]
+    if (currentValue && typeof currentValue === 'string' && currentValue.trim() !== '') {
+      const generatedHash = hashCode(currentValue.trim())
+      setDraft(prev => ({ ...prev, [field]: generatedHash }))
+    }
+  }
+
   function validateDraft(): StructureItem | null {
     const parsed = itemSchema.safeParse(draft)
     if (!parsed.success) {
@@ -196,6 +212,14 @@ function App() {
   function saveDraft() {
     const valid = validateDraft()
     if (!valid) return
+    
+    // If this is a new item (not editing), generate hash automatically
+    if (!isEditing) {
+      // Create a unique string from the item data for hash generation
+      const hashString = `${valid.labelMake}-${valid.labelModel}-${valid.year}-${Date.now()}`
+      valid.hash = hashCode(hashString)
+    }
+    
     if (isEditing && editingIndex !== null) {
       setItems(prev => prev.map((it, i) => (i === editingIndex ? valid : it)))
     } else {
@@ -306,6 +330,83 @@ function App() {
     setItems([])
   }
 
+  // Authentication functions
+  function handlePasswordSubmit(e: React.FormEvent) {
+    e.preventDefault()
+    const correctPassword = 'wings@important2025'
+    
+    if (password === correctPassword) {
+      setIsAuthenticated(true)
+      setAuthError('')
+    } else {
+      setAuthError('Incorrect password. Please try again.')
+      setPassword('')
+    }
+  }
+
+  function handleLogout() {
+    setIsAuthenticated(false)
+    setPassword('')
+    setAuthError('')
+    setShowTable(false)
+    setSelectedFile('')
+    setItems([])
+  }
+
+  // If not authenticated, show login form
+  if (!isAuthenticated) {
+    return (
+      <ThemeProvider theme={theme}>
+        <Box 
+          sx={{ 
+            minHeight: '100vh', 
+            bgcolor: 'background.default',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center'
+          }}
+        >
+          <Container maxWidth="sm">
+            <Card sx={{ p: 4, boxShadow: 3 }}>
+              <Box sx={{ textAlign: 'center', mb: 3 }}>
+                <Typography variant="h4" sx={{ color: 'primary.main', mb: 1 }}>
+                  Makes Models Builder
+                </Typography>
+                <Typography variant="subtitle1" color="text.secondary">
+                  Enter password to access the application
+                </Typography>
+              </Box>
+              
+              <form onSubmit={handlePasswordSubmit}>
+                <TextField
+                  fullWidth
+                  type="password"
+                  label="Password"
+                  value={password}
+                  onChange={(e) => setPassword(e.target.value)}
+                  error={Boolean(authError)}
+                  helperText={authError}
+                  sx={{ mb: 3 }}
+                  autoFocus
+                />
+                
+                <Button
+                  fullWidth
+                  type="submit"
+                  variant="contained"
+                  size="large"
+                  disabled={!password.trim()}
+                >
+                  Access Application
+                </Button>
+              </form>
+            </Card>
+          </Container>
+        </Box>
+      </ThemeProvider>
+    )
+  }
+
   return (
     <ThemeProvider theme={theme}>
       <Box sx={{ minHeight: '100vh', bgcolor: 'background.default' }}>
@@ -323,6 +424,9 @@ function App() {
           />
           <Button color="inherit" startIcon={<Save />} onClick={exportJson} disabled={availableFiles.length === 0}>
             Export
+          </Button>
+          <Button color="inherit" onClick={handleLogout} sx={{ ml: 1 }}>
+            Logout
           </Button>
         </Toolbar>
       </AppBar>
@@ -452,21 +556,189 @@ function App() {
         <DialogTitle>{isEditing ? 'Edit item' : 'Add item'}</DialogTitle>
         <DialogContent>
           <Box sx={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 2, mt: 1 }}>
-            <TextField label="hash" value={draft.hash ?? ''} onChange={(e) => handleDraftChange('hash', e.target.value)} error={Boolean(errors.hash)} helperText={errors.hash} />
-            <TextField label="labelMake" value={draft.labelMake ?? ''} onChange={(e) => handleDraftChange('labelMake', e.target.value)} error={Boolean(errors.labelMake)} helperText={errors.labelMake} />
-            <TextField label="labelModel" value={draft.labelModel ?? ''} onChange={(e) => handleDraftChange('labelModel', e.target.value)} error={Boolean(errors.labelModel)} helperText={errors.labelModel} />
+            <TextField 
+              label="hash" 
+              value={draft.hash ?? ''} 
+              onChange={(e) => handleDraftChange('hash', e.target.value)} 
+              error={Boolean(errors.hash)} 
+              helperText={isEditing ? errors.hash : "Auto-generated for new items"} 
+              disabled={!isEditing}
+              placeholder={isEditing ? "" : "Auto-generated"}
+            />
+            
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+              <TextField 
+                label="labelMake" 
+                value={draft.labelMake ?? ''} 
+                onChange={(e) => handleDraftChange('labelMake', e.target.value)} 
+                error={Boolean(errors.labelMake)} 
+                helperText={errors.labelMake}
+                fullWidth
+              />
+              <IconButton 
+                onClick={() => generateHashForField('labelMake')} 
+                size="small" 
+                title="Generate hash for this field"
+                disabled={!draft.labelMake || draft.labelMake.trim() === ''}
+              >
+                <Tag />
+              </IconButton>
+            </Box>
+            
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+              <TextField 
+                label="labelModel" 
+                value={draft.labelModel ?? ''} 
+                onChange={(e) => handleDraftChange('labelModel', e.target.value)} 
+                error={Boolean(errors.labelModel)} 
+                helperText={errors.labelModel}
+                fullWidth
+              />
+              <IconButton 
+                onClick={() => generateHashForField('labelModel')} 
+                size="small" 
+                title="Generate hash for this field"
+                disabled={!draft.labelModel || draft.labelModel.trim() === ''}
+              >
+                <Tag />
+              </IconButton>
+            </Box>
 
-            <TextField label="oraeroMake" value={draft.oraeroMake ?? ''} onChange={(e) => handleDraftChange('oraeroMake', e.target.value)} />
-            <TextField label="oraeroModel" value={draft.oraeroModel ?? ''} onChange={(e) => handleDraftChange('oraeroModel', e.target.value)} />
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+              <TextField 
+                label="oraeroMake" 
+                value={draft.oraeroMake ?? ''} 
+                onChange={(e) => handleDraftChange('oraeroMake', e.target.value)}
+                fullWidth
+              />
+              <IconButton 
+                onClick={() => generateHashForField('oraeroMake')} 
+                size="small" 
+                title="Generate hash for this field"
+                disabled={!draft.oraeroMake || draft.oraeroMake.trim() === ''}
+              >
+                <Tag />
+              </IconButton>
+            </Box>
+            
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+              <TextField 
+                label="oraeroModel" 
+                value={draft.oraeroModel ?? ''} 
+                onChange={(e) => handleDraftChange('oraeroModel', e.target.value)}
+                fullWidth
+              />
+              <IconButton 
+                onClick={() => generateHashForField('oraeroModel')} 
+                size="small" 
+                title="Generate hash for this field"
+                disabled={!draft.oraeroModel || draft.oraeroModel.trim() === ''}
+              >
+                <Tag />
+              </IconButton>
+            </Box>
 
-            <TextField label="iatMake" value={draft.iatMake ?? ''} onChange={(e) => handleDraftChange('iatMake', e.target.value)} />
-            <TextField label="iatModel" value={draft.iatModel ?? ''} onChange={(e) => handleDraftChange('iatModel', e.target.value)} />
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+              <TextField 
+                label="iatMake" 
+                value={draft.iatMake ?? ''} 
+                onChange={(e) => handleDraftChange('iatMake', e.target.value)}
+                fullWidth
+              />
+              <IconButton 
+                onClick={() => generateHashForField('iatMake')} 
+                size="small" 
+                title="Generate hash for this field"
+                disabled={!draft.iatMake || draft.iatMake.trim() === ''}
+              >
+                <Tag />
+              </IconButton>
+            </Box>
+            
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+              <TextField 
+                label="iatModel" 
+                value={draft.iatModel ?? ''} 
+                onChange={(e) => handleDraftChange('iatModel', e.target.value)}
+                fullWidth
+              />
+              <IconButton 
+                onClick={() => generateHashForField('iatModel')} 
+                size="small" 
+                title="Generate hash for this field"
+                disabled={!draft.iatModel || draft.iatModel.trim() === ''}
+              >
+                <Tag />
+              </IconButton>
+            </Box>
 
-            <TextField label="rokstoneMake" value={draft.rokstoneMake ?? ''} onChange={(e) => handleDraftChange('rokstoneMake', e.target.value)} />
-            <TextField label="rokstoneModel" value={draft.rokstoneModel ?? ''} onChange={(e) => handleDraftChange('rokstoneModel', e.target.value)} />
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+              <TextField 
+                label="rokstoneMake" 
+                value={draft.rokstoneMake ?? ''} 
+                onChange={(e) => handleDraftChange('rokstoneMake', e.target.value)}
+                fullWidth
+              />
+              <IconButton 
+                onClick={() => generateHashForField('rokstoneMake')} 
+                size="small" 
+                title="Generate hash for this field"
+                disabled={!draft.rokstoneMake || draft.rokstoneMake.trim() === ''}
+              >
+                <Tag />
+              </IconButton>
+            </Box>
+            
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+              <TextField 
+                label="rokstoneModel" 
+                value={draft.rokstoneModel ?? ''} 
+                onChange={(e) => handleDraftChange('rokstoneModel', e.target.value)}
+                fullWidth
+              />
+              <IconButton 
+                onClick={() => generateHashForField('rokstoneModel')} 
+                size="small" 
+                title="Generate hash for this field"
+                disabled={!draft.rokstoneModel || draft.rokstoneModel.trim() === ''}
+              >
+                <Tag />
+              </IconButton>
+            </Box>
 
-            <TextField label="sfMake" value={draft.sfMake ?? ''} onChange={(e) => handleDraftChange('sfMake', e.target.value)} />
-            <TextField label="sfModel" value={draft.sfModel ?? ''} onChange={(e) => handleDraftChange('sfModel', e.target.value)} />
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+              <TextField 
+                label="sfMake" 
+                value={draft.sfMake ?? ''} 
+                onChange={(e) => handleDraftChange('sfMake', e.target.value)}
+                fullWidth
+              />
+              <IconButton 
+                onClick={() => generateHashForField('sfMake')} 
+                size="small" 
+                title="Generate hash for this field"
+                disabled={!draft.sfMake || draft.sfMake.trim() === ''}
+              >
+                <Tag />
+              </IconButton>
+            </Box>
+            
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+              <TextField 
+                label="sfModel" 
+                value={draft.sfModel ?? ''} 
+                onChange={(e) => handleDraftChange('sfModel', e.target.value)}
+                fullWidth
+              />
+              <IconButton 
+                onClick={() => generateHashForField('sfModel')} 
+                size="small" 
+                title="Generate hash for this field"
+                disabled={!draft.sfModel || draft.sfModel.trim() === ''}
+              >
+                <Tag />
+              </IconButton>
+            </Box>
 
             <TextField type="number" label="year" value={draft.year ?? ''} onChange={(e) => handleDraftChange('year', e.target.value)} error={Boolean(errors.year)} helperText={errors.year} />
           </Box>

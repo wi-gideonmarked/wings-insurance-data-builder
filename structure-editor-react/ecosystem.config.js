@@ -2,7 +2,7 @@ export default {
   apps: [{
     name: 'structure-editor-react',
     script: './node_modules/.bin/serve',
-    args: '-s dist -l 80',
+    args: '-s dist -l 3000',
     instances: 1,
     exec_mode: 'fork',
     watch: false,
