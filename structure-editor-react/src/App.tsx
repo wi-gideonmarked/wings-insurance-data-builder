@@ -21,7 +21,7 @@ import {
   Typography,
 } from '@mui/material'
 import { Add, Delete, Edit, Save, Tag } from '@mui/icons-material'
-import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper } from '@mui/material'
+import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, TableSortLabel } from '@mui/material'
 
 type StructureItem = {
   hash: string
@@ -92,6 +92,10 @@ function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false)
   const [password, setPassword] = useState('')
   const [authError, setAuthError] = useState('')
+  
+  // Sorting state
+  const [sortBy, setSortBy] = useState<keyof StructureItem | null>(null)
+  const [sortDirection, setSortDirection] = useState<'asc' | 'desc'>('asc')
 
   const isEditing = useMemo(() => editingIndex !== null, [editingIndex])
 
@@ -328,7 +332,42 @@ function App() {
     setShowTable(false)
     setSelectedFile('')
     setItems([])
+    setSortBy(null)
+    setSortDirection('asc')
   }
+
+  // Sorting functions
+  function handleSort(column: keyof StructureItem) {
+    const isAsc = sortBy === column && sortDirection === 'asc'
+    setSortDirection(isAsc ? 'desc' : 'asc')
+    setSortBy(column)
+  }
+
+  const sortedItems = useMemo(() => {
+    if (!sortBy) return items
+    
+    return [...items].sort((a, b) => {
+      const aVal = a[sortBy]
+      const bVal = b[sortBy]
+      
+      // Handle number sorting for year
+      if (sortBy === 'year') {
+        const aNum = Number(aVal)
+        const bNum = Number(bVal)
+        return sortDirection === 'asc' ? aNum - bNum : bNum - aNum
+      }
+      
+      // Handle string sorting for other columns
+      const aStr = String(aVal).toLowerCase()
+      const bStr = String(bVal).toLowerCase()
+      
+      if (sortDirection === 'asc') {
+        return aStr < bStr ? -1 : aStr > bStr ? 1 : 0
+      } else {
+        return aStr > bStr ? -1 : aStr < bStr ? 1 : 0
+      }
+    })
+  }, [items, sortBy, sortDirection])
 
   // Authentication functions
   function handlePasswordSubmit(e: React.FormEvent) {
@@ -508,42 +547,132 @@ function App() {
                 <Table size="small">
                   <TableHead>
                     <TableRow>
-                      <TableCell>hash</TableCell>
-                      <TableCell>labelMake</TableCell>
-                      <TableCell>labelModel</TableCell>
-                      <TableCell>oraeroMake</TableCell>
-                      <TableCell>oraeroModel</TableCell>
-                      <TableCell>iatMake</TableCell>
-                      <TableCell>iatModel</TableCell>
-                      <TableCell>rokstoneMake</TableCell>
-                      <TableCell>rokstoneModel</TableCell>
-                      <TableCell>sfMake</TableCell>
-                      <TableCell>sfModel</TableCell>
-                      <TableCell>year</TableCell>
+                      <TableCell>
+                        <TableSortLabel
+                          active={sortBy === 'year'}
+                          direction={sortBy === 'year' ? sortDirection : 'asc'}
+                          onClick={() => handleSort('year')}
+                        >
+                          Year
+                        </TableSortLabel>
+                      </TableCell>
+                      <TableCell>
+                        <TableSortLabel
+                          active={sortBy === 'labelMake'}
+                          direction={sortBy === 'labelMake' ? sortDirection : 'asc'}
+                          onClick={() => handleSort('labelMake')}
+                        >
+                          Label Make
+                        </TableSortLabel>
+                      </TableCell>
+                      <TableCell>
+                        <TableSortLabel
+                          active={sortBy === 'labelModel'}
+                          direction={sortBy === 'labelModel' ? sortDirection : 'asc'}
+                          onClick={() => handleSort('labelModel')}
+                        >
+                          Label Model
+                        </TableSortLabel>
+                      </TableCell>
+                      <TableCell>
+                        <TableSortLabel
+                          active={sortBy === 'oraeroMake'}
+                          direction={sortBy === 'oraeroMake' ? sortDirection : 'asc'}
+                          onClick={() => handleSort('oraeroMake')}
+                        >
+                          Oraero Make
+                        </TableSortLabel>
+                      </TableCell>
+                      <TableCell>
+                        <TableSortLabel
+                          active={sortBy === 'oraeroModel'}
+                          direction={sortBy === 'oraeroModel' ? sortDirection : 'asc'}
+                          onClick={() => handleSort('oraeroModel')}
+                        >
+                          Oraero Model
+                        </TableSortLabel>
+                      </TableCell>
+                      <TableCell>
+                        <TableSortLabel
+                          active={sortBy === 'iatMake'}
+                          direction={sortBy === 'iatMake' ? sortDirection : 'asc'}
+                          onClick={() => handleSort('iatMake')}
+                        >
+                          IAT Make
+                        </TableSortLabel>
+                      </TableCell>
+                      <TableCell>
+                        <TableSortLabel
+                          active={sortBy === 'iatModel'}
+                          direction={sortBy === 'iatModel' ? sortDirection : 'asc'}
+                          onClick={() => handleSort('iatModel')}
+                        >
+                          IAT Model
+                        </TableSortLabel>
+                      </TableCell>
+                      <TableCell>
+                        <TableSortLabel
+                          active={sortBy === 'rokstoneMake'}
+                          direction={sortBy === 'rokstoneMake' ? sortDirection : 'asc'}
+                          onClick={() => handleSort('rokstoneMake')}
+                        >
+                          Rokstone Make
+                        </TableSortLabel>
+                      </TableCell>
+                      <TableCell>
+                        <TableSortLabel
+                          active={sortBy === 'rokstoneModel'}
+                          direction={sortBy === 'rokstoneModel' ? sortDirection : 'asc'}
+                          onClick={() => handleSort('rokstoneModel')}
+                        >
+                          Rokstone Model
+                        </TableSortLabel>
+                      </TableCell>
+                      <TableCell>
+                        <TableSortLabel
+                          active={sortBy === 'sfMake'}
+                          direction={sortBy === 'sfMake' ? sortDirection : 'asc'}
+                          onClick={() => handleSort('sfMake')}
+                        >
+                          SF Make
+                        </TableSortLabel>
+                      </TableCell>
+                      <TableCell>
+                        <TableSortLabel
+                          active={sortBy === 'sfModel'}
+                          direction={sortBy === 'sfModel' ? sortDirection : 'asc'}
+                          onClick={() => handleSort('sfModel')}
+                        >
+                          SF Model
+                        </TableSortLabel>
+                      </TableCell>
                       <TableCell align="right">Actions</TableCell>
                     </TableRow>
                   </TableHead>
                   <TableBody>
-                    {items.map((it, i) => (
-                      <TableRow key={i} hover>
-                        <TableCell>{it.hash}</TableCell>
-                        <TableCell>{it.labelMake}</TableCell>
-                        <TableCell>{it.labelModel}</TableCell>
-                        <TableCell>{it.oraeroMake}</TableCell>
-                        <TableCell>{it.oraeroModel}</TableCell>
-                        <TableCell>{it.iatMake}</TableCell>
-                        <TableCell>{it.iatModel}</TableCell>
-                        <TableCell>{it.rokstoneMake}</TableCell>
-                        <TableCell>{it.rokstoneModel}</TableCell>
-                        <TableCell>{it.sfMake}</TableCell>
-                        <TableCell>{it.sfModel}</TableCell>
-                        <TableCell>{it.year}</TableCell>
-                        <TableCell align="right">
-                          <IconButton color="primary" onClick={() => openEditDialog(i)}><Edit /></IconButton>
-                          <IconButton color="error" onClick={() => removeItem(i)}><Delete /></IconButton>
-                        </TableCell>
-                      </TableRow>
-                    ))}
+                    {sortedItems.map((it) => {
+                      // Find the original index for edit/delete operations
+                      const originalIndex = items.findIndex(item => item.hash === it.hash)
+                      return (
+                        <TableRow key={it.hash} hover>
+                          <TableCell>{it.year}</TableCell>
+                          <TableCell>{it.labelMake}</TableCell>
+                          <TableCell>{it.labelModel}</TableCell>
+                          <TableCell>{it.oraeroMake}</TableCell>
+                          <TableCell>{it.oraeroModel}</TableCell>
+                          <TableCell>{it.iatMake}</TableCell>
+                          <TableCell>{it.iatModel}</TableCell>
+                          <TableCell>{it.rokstoneMake}</TableCell>
+                          <TableCell>{it.rokstoneModel}</TableCell>
+                          <TableCell>{it.sfMake}</TableCell>
+                          <TableCell>{it.sfModel}</TableCell>
+                          <TableCell align="right">
+                            <IconButton color="primary" onClick={() => openEditDialog(originalIndex)}><Edit /></IconButton>
+                            <IconButton color="error" onClick={() => removeItem(originalIndex)}><Delete /></IconButton>
+                          </TableCell>
+                        </TableRow>
+                      )
+                    })}
                   </TableBody>
                 </Table>
               </TableContainer>
