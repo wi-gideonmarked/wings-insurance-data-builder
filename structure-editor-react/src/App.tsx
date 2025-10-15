@@ -38,6 +38,11 @@ type StructureItem = {
   year: number
 }
 
+type AppConfig = {
+  dataSource: 'local' | 'remote'
+  remoteBaseUrl?: string
+}
+
 const itemSchema = z.object({
   hash: z.string().optional().default(''), // Hash will be auto-generated for new items
   labelMake: z.string().optional().default(''),
@@ -87,6 +92,7 @@ function App() {
   const [selectedFile, setSelectedFile] = useState<string>('')
   const [showTable, setShowTable] = useState(false)
   const [searchQuery, setSearchQuery] = useState('')
+  const [appConfig, setAppConfig] = useState<AppConfig>({ dataSource: 'local', remoteBaseUrl: '' })
   
   // Authentication state
   const [isAuthenticated, setIsAuthenticated] = useState(false)
@@ -99,10 +105,51 @@ function App() {
 
   const isEditing = useMemo(() => editingIndex !== null, [editingIndex])
 
+  // Helper: effective data source considering runtime override via localStorage
+  const effectiveSource: 'local' | 'remote' = useMemo(() => {
+    const override = localStorage.getItem('dataSourceOverride')
+    if (override === 'local' || override === 'remote') return override
+    return appConfig.dataSource
+  }, [appConfig])
+
+  function resolveSeparatedUrl(filename: string): string {
+    if (effectiveSource === 'remote') {
+      const base = (appConfig.remoteBaseUrl || '').replace(/\/?$/, '')
+      return `${base}/separated/${filename}`
+    }
+    return `/separated/${filename}`
+  }
+
+  function toggleDataSource() {
+    const next = effectiveSource === 'local' ? 'remote' : 'local'
+    if (next === 'remote' && !appConfig.remoteBaseUrl) {
+      alert('Remote base URL is not configured in app-config.json')
+      return
+    }
+    localStorage.setItem('dataSourceOverride', next)
+    if (selectedFile) {
+      handleFileChange(selectedFile)
+    }
+  }
+
   // Load available files and initial data
   useEffect(() => {
     let isMounted = true
     
+    const loadAppConfig = async () => {
+      try {
+        const res = await fetch('/app-config.json', { cache: 'no-store' })
+        if (res.ok) {
+          const cfg = await res.json()
+          const ds = cfg?.dataSource === 'remote' ? 'remote' : 'local'
+          const rb = typeof cfg?.remoteBaseUrl === 'string' ? cfg.remoteBaseUrl : ''
+          if (isMounted) setAppConfig({ dataSource: ds, remoteBaseUrl: rb })
+        }
+      } catch {
+        // ignore
+      }
+    }
+
     // First, try to load the separated files
     const loadSeparatedFiles = async () => {
       try {
@@ -160,7 +207,7 @@ function App() {
     }
     
     // Removed unused loadFile function
-    
+    loadAppConfig()
     loadSeparatedFiles()
     
     return () => {
@@ -265,7 +312,7 @@ function App() {
       
       for (const file of availableFiles) {
         try {
-          const res = await fetch(`/separated/${file}`, { cache: 'no-store' })
+          const res = await fetch(resolveSeparatedUrl(file), { cache: 'no-store' })
           if (res.ok) {
             const json = await res.json()
             const parsed = z.array(itemSchema).safeParse(json)
@@ -274,7 +321,7 @@ function App() {
             }
           }
         } catch (error) {
-          console.log(`Error loading ${file}:`, error)
+          console.log(`Error loading ${file} from ${effectiveSource}:`, error)
         }
       }
       
@@ -301,9 +348,10 @@ function App() {
     // Load the selected file
     const loadFile = async () => {
       try {
-        const res = await fetch(`/separated/${filename}`, { cache: 'no-store' })
+        const url = resolveSeparatedUrl(filename)
+        const res = await fetch(url, { cache: 'no-store' })
         if (!res.ok) {
-          console.log(`File ${filename} not found`)
+          console.log(`File ${filename} not found from ${effectiveSource}`)
           return
         }
         const json = await res.json()
@@ -312,7 +360,7 @@ function App() {
           setItems(parsed.data)
         }
       } catch (error) {
-        console.log(`Error loading ${filename}:`, error)
+        console.log(`Error loading ${filename} from ${effectiveSource}:`, error)
       } finally {
         setLoading(false)
       }
@@ -463,6 +511,9 @@ function App() {
           />
           <Button color="inherit" startIcon={<Save />} onClick={exportJson} disabled={availableFiles.length === 0}>
             Export
+          </Button>
+          <Button color="inherit" onClick={toggleDataSource} sx={{ ml: 1 }}>
+            Source: {effectiveSource === 'local' ? 'Local' : 'Remote'}
           </Button>
           <Button color="inherit" onClick={handleLogout} sx={{ ml: 1 }}>
             Logout
