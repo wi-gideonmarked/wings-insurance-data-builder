@@ -1,1136 +1,1215 @@
 [
   {
-    "hash": "-1425935357",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21",
-    "oraeroModel": "F-21",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21",
+    "hash": "-509732289",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1938,
     "sfMake": "Taylorcraft",
-    "sfModel": "F-21",
-    "year": "1980"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1425935356",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21",
-    "oraeroModel": "F-21",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21",
+    "hash": "-509732288",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1939,
     "sfMake": "Taylorcraft",
-    "sfModel": "F-21",
-    "year": "1981"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1425935355",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21",
-    "oraeroModel": "F-21",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21",
+    "hash": "-509732266",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1940,
     "sfMake": "Taylorcraft",
-    "sfModel": "F-21",
-    "year": "1982"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1425935354",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21",
-    "oraeroModel": "F-21",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21",
+    "hash": "-452473964",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model D",
+    "year": 1940,
     "sfMake": "Taylorcraft",
-    "sfModel": "F-21",
-    "year": "1983"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1425935353",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21",
-    "oraeroModel": "F-21",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-21",
-    "year": "1984"
-  },
-  {
-    "hash": "-1425935352",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21",
-    "oraeroModel": "F-21",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-21",
-    "year": "1985"
-  },
-  {
-    "hash": "-1239783840",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21A",
-    "oraeroModel": "F-21A",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21A",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21A",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-21A",
-    "year": "1982"
-  },
-  {
-    "hash": "-1239783839",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21A",
-    "oraeroModel": "F-21A",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21A",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21A",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-21A",
-    "year": "1983"
-  },
-  {
-    "hash": "-1239783838",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21A",
-    "oraeroModel": "F-21A",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21A",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21A",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-21A",
-    "year": "1984"
-  },
-  {
-    "hash": "-1238860315",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21B",
-    "oraeroModel": "F-21B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-21B",
-    "year": "1986"
-  },
-  {
-    "hash": "-1238860314",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21B",
-    "oraeroModel": "F-21B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-21B",
-    "year": "1987"
-  },
-  {
-    "hash": "-1238860313",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21B",
-    "oraeroModel": "F-21B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-21B",
-    "year": "1988"
-  },
-  {
-    "hash": "-1238860312",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21B",
-    "oraeroModel": "F-21B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-21B",
-    "year": "1989"
-  },
-  {
-    "hash": "-1238860290",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-21B",
-    "oraeroModel": "F-21B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-21B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-21B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-21B",
-    "year": "1990"
-  },
-  {
-    "hash": "-1425011804",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22",
-    "oraeroModel": "F-22",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22",
-    "year": "1991"
-  },
-  {
-    "hash": "-1425011803",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22",
-    "oraeroModel": "F-22",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22",
-    "year": "1992"
-  },
-  {
-    "hash": "-1425011802",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22",
-    "oraeroModel": "F-22",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22",
-    "year": "1993"
-  },
-  {
-    "hash": "-1425011801",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22",
-    "oraeroModel": "F-22",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22",
-    "year": "1994"
-  },
-  {
-    "hash": "-1211154659",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22A",
-    "oraeroModel": "F-22A",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22A",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22A",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22A",
-    "year": "1991"
-  },
-  {
-    "hash": "-1211154658",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22A",
-    "oraeroModel": "F-22A",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22A",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22A",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22A",
-    "year": "1992"
-  },
-  {
-    "hash": "-1211154657",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22A",
-    "oraeroModel": "F-22A",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22A",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22A",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22A",
-    "year": "1993"
-  },
-  {
-    "hash": "-1211154656",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22A",
-    "oraeroModel": "F-22A",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22A",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22A",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22A",
-    "year": "1994"
-  },
-  {
-    "hash": "-1210231138",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22B",
-    "oraeroModel": "F-22B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22B",
-    "year": "1991"
-  },
-  {
-    "hash": "-1210231137",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22B",
-    "oraeroModel": "F-22B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22B",
-    "year": "1992"
-  },
-  {
-    "hash": "-1210231136",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22B",
-    "oraeroModel": "F-22B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22B",
-    "year": "1993"
-  },
-  {
-    "hash": "-1210231135",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22B",
-    "oraeroModel": "F-22B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22B",
-    "year": "1994"
-  },
-  {
-    "hash": "-1209307617",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22C",
-    "oraeroModel": "F-22C",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22C",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22C",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22C",
-    "year": "1991"
-  },
-  {
-    "hash": "-1209307616",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22C",
-    "oraeroModel": "F-22C",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22C",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22C",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22C",
-    "year": "1992"
-  },
-  {
-    "hash": "-1209307615",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22C",
-    "oraeroModel": "F-22C",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22C",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22C",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22C",
-    "year": "1993"
-  },
-  {
-    "hash": "-1209307614",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "F-22C",
-    "oraeroModel": "F-22C",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "F-22C",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "F-22C",
-    "sfMake": "Taylorcraft",
-    "sfModel": "F-22C",
-    "year": "1994"
-  },
-  {
-    "hash": "1212900579",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-1674410329",
+    "labelMake": "Taylorcraft",
     "labelModel": "L-2 Grasshopper",
-    "oraeroModel": "L-2 Grasshopper",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "L-2 Grasshopper",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "L-2 Grasshopper",
+    "year": 1941,
     "sfMake": "Taylorcraft",
-    "sfModel": "L-2 Grasshopper",
-    "year": "1941"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1212900580",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-509732265",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1941,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-452473963",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model D",
+    "year": 1941,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1674410328",
+    "labelMake": "Taylorcraft",
     "labelModel": "L-2 Grasshopper",
-    "oraeroModel": "L-2 Grasshopper",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "L-2 Grasshopper",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "L-2 Grasshopper",
+    "year": 1942,
     "sfMake": "Taylorcraft",
-    "sfModel": "L-2 Grasshopper",
-    "year": "1942"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1212900581",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-509732264",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1942,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-452473962",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model D",
+    "year": 1942,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1674410327",
+    "labelMake": "Taylorcraft",
     "labelModel": "L-2 Grasshopper",
-    "oraeroModel": "L-2 Grasshopper",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "L-2 Grasshopper",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "L-2 Grasshopper",
+    "year": 1943,
     "sfMake": "Taylorcraft",
-    "sfModel": "L-2 Grasshopper",
-    "year": "1943"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1212900582",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-509732263",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1943,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-452473961",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model D",
+    "year": 1943,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1674410326",
+    "labelMake": "Taylorcraft",
     "labelModel": "L-2 Grasshopper",
-    "oraeroModel": "L-2 Grasshopper",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "L-2 Grasshopper",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "L-2 Grasshopper",
+    "year": 1944,
     "sfMake": "Taylorcraft",
-    "sfModel": "L-2 Grasshopper",
-    "year": "1944"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1212900583",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-509732262",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1944,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-452473960",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model D",
+    "year": 1944,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1674410325",
+    "labelMake": "Taylorcraft",
     "labelModel": "L-2 Grasshopper",
-    "oraeroModel": "L-2 Grasshopper",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "L-2 Grasshopper",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "L-2 Grasshopper",
+    "year": 1945,
     "sfMake": "Taylorcraft",
-    "sfModel": "L-2 Grasshopper",
-    "year": "1945"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-630843591",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-509732261",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1945,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-452473959",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model D",
+    "year": 1945,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-509732260",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1946,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-452473958",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model D",
+    "year": 1946,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-509732259",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1947,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-452473957",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model D",
+    "year": 1947,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-509732258",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1948,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-509732257",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1949,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-452473955",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model D",
+    "year": 1949,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-509732235",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1950,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-509732233",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1952,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-509732232",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1953,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-452473930",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model D",
+    "year": 1953,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "144971983",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model 20",
-    "oraeroModel": "Model 20",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model 20",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model 20",
+    "year": 1954,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model 20",
-    "year": "1954"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-630843590",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-509732231",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1954,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "144971984",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model 20",
-    "oraeroModel": "Model 20",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model 20",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model 20",
+    "year": 1955,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model 20",
-    "year": "1955"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-630843589",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-509732230",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1955,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "144971985",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model 20",
-    "oraeroModel": "Model 20",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model 20",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model 20",
+    "year": 1956,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model 20",
-    "year": "1956"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "2072673819",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-509732227",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
+    "year": 1958,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1938"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "2072673820",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-509732226",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
+    "year": 1959,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1939"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "2072673842",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1940"
-  },
-  {
-    "hash": "2072673843",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1941"
-  },
-  {
-    "hash": "2072673844",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1942"
-  },
-  {
-    "hash": "2072673845",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1943"
-  },
-  {
-    "hash": "2072673846",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1944"
-  },
-  {
-    "hash": "2072673847",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1945"
-  },
-  {
-    "hash": "2072673848",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1946"
-  },
-  {
-    "hash": "2072673849",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1947"
-  },
-  {
-    "hash": "2072673850",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1948"
-  },
-  {
-    "hash": "2072673851",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1949"
-  },
-  {
-    "hash": "2072673873",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1950"
-  },
-  {
-    "hash": "2072673875",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1952"
-  },
-  {
-    "hash": "2072673876",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1953"
-  },
-  {
-    "hash": "2072673877",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1954"
-  },
-  {
-    "hash": "2072673878",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1955"
-  },
-  {
-    "hash": "2072673881",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1958"
-  },
-  {
-    "hash": "2072673882",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1959"
-  },
-  {
-    "hash": "2072673911",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1967"
-  },
-  {
-    "hash": "2072673997",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1990"
-  },
-  {
-    "hash": "2072673999",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "1992"
-  },
-  {
-    "hash": "2072694860",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model B",
-    "oraeroModel": "Model B",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model B",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model B",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model B",
-    "year": "2000"
-  },
-  {
-    "hash": "2074520884",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-452473924",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
+    "year": 1959,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1940"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "2074520885",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
+    "hash": "-509732197",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1967,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1941"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "2074520886",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1942"
-  },
-  {
-    "hash": "2074520887",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1943"
-  },
-  {
-    "hash": "2074520888",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1944"
-  },
-  {
-    "hash": "2074520889",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1945"
-  },
-  {
-    "hash": "2074520890",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1946"
-  },
-  {
-    "hash": "2074520891",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1947"
-  },
-  {
-    "hash": "2074520893",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1949"
-  },
-  {
-    "hash": "2074520918",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1953"
-  },
-  {
-    "hash": "2074520924",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1959"
-  },
-  {
-    "hash": "2074520986",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model D",
-    "oraeroModel": "Model D",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model D",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model D",
-    "sfMake": "Taylorcraft",
-    "sfModel": "Model D",
-    "year": "1979"
-  },
-  {
-    "hash": "-693201727",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-158410305",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model F-19 Sportsman",
-    "oraeroModel": "Model F-19 Sportsman",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model F-19 Sportsman",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model F-19 Sportsman",
+    "year": 1972,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model F-19 Sportsman",
-    "year": "1972"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-693201726",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-158410304",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model F-19 Sportsman",
-    "oraeroModel": "Model F-19 Sportsman",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model F-19 Sportsman",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model F-19 Sportsman",
+    "year": 1973,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model F-19 Sportsman",
-    "year": "1973"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-693201725",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-158410303",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model F-19 Sportsman",
-    "oraeroModel": "Model F-19 Sportsman",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model F-19 Sportsman",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model F-19 Sportsman",
+    "year": 1974,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model F-19 Sportsman",
-    "year": "1974"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-693201724",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-158410302",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model F-19 Sportsman",
-    "oraeroModel": "Model F-19 Sportsman",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model F-19 Sportsman",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model F-19 Sportsman",
+    "year": 1975,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model F-19 Sportsman",
-    "year": "1975"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-693201723",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-158410301",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model F-19 Sportsman",
-    "oraeroModel": "Model F-19 Sportsman",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model F-19 Sportsman",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model F-19 Sportsman",
+    "year": 1976,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model F-19 Sportsman",
-    "year": "1976"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-693201722",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-158410300",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model F-19 Sportsman",
-    "oraeroModel": "Model F-19 Sportsman",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model F-19 Sportsman",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model F-19 Sportsman",
+    "year": 1977,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model F-19 Sportsman",
-    "year": "1977"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-693201721",
-    "labelMake": "TAYLORCRAFT",
+    "hash": "-158410299",
+    "labelMake": "Taylorcraft",
     "labelModel": "Model F-19 Sportsman",
-    "oraeroModel": "Model F-19 Sportsman",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model F-19 Sportsman",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model F-19 Sportsman",
+    "year": 1978,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model F-19 Sportsman",
-    "year": "1978"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-693201720",
-    "labelMake": "TAYLORCRAFT",
-    "labelModel": "Model F-19 Sportsman",
-    "oraeroModel": "Model F-19 Sportsman",
-    "oraeroMake": "TAYLORCRAFT",
-    "iatMake": "TAYLORCRAFT",
-    "iatModel": "Model F-19 Sportsman",
-    "rokstoneMake": "TAYLORCRAFT",
-    "rokstoneModel": "Model F-19 Sportsman",
+    "hash": "-452473862",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model D",
+    "year": 1979,
     "sfMake": "Taylorcraft",
-    "sfModel": "Model F-19 Sportsman",
-    "year": "1979"
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-158410298",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model F-19 Sportsman",
+    "year": 1979,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "473504087",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21",
+    "year": 1980,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "473504088",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21",
+    "year": 1981,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "473504089",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21",
+    "year": 1982,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1932590620",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21A",
+    "year": 1982,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "473504090",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21",
+    "year": 1983,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1932590619",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21A",
+    "year": 1983,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "797786986",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F19 / F21 / F22",
+    "year": 1984,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "473504091",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21",
+    "year": 1984,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1932590618",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21A",
+    "year": 1984,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "797786987",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F19 / F21 / F22",
+    "year": 1985,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "473504092",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21",
+    "year": 1985,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "797786988",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F19 / F21 / F22",
+    "year": 1986,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1903961465",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21B",
+    "year": 1986,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "797786989",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F19 / F21 / F22",
+    "year": 1987,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1903961464",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21B",
+    "year": 1987,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "797786990",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F19 / F21 / F22",
+    "year": 1988,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1903961463",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21B",
+    "year": 1988,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "797786991",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F19 / F21 / F22",
+    "year": 1989,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1903961462",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21B",
+    "year": 1989,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "797787013",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F19 / F21 / F22",
+    "year": 1990,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1903961440",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-21B",
+    "year": 1990,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-509732111",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1990,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "797787014",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F19 / F21 / F22",
+    "year": 1991,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "502133270",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22",
+    "year": 1991,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1045086909",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22A",
+    "year": 1991,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1016457758",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22B",
+    "year": 1991,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-987828607",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22C",
+    "year": 1991,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "797787015",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F19 / F21 / F22",
+    "year": 1992,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "502133271",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22",
+    "year": 1992,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1045086908",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22A",
+    "year": 1992,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1016457757",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22B",
+    "year": 1992,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-987828606",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22C",
+    "year": 1992,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-509732109",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 1992,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "797787016",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F19 / F21 / F22",
+    "year": 1993,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "502133272",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22",
+    "year": 1993,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1045086907",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22A",
+    "year": 1993,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1016457756",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22B",
+    "year": 1993,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-987828605",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22C",
+    "year": 1993,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "797787017",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F19 / F21 / F22",
+    "year": 1994,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "502133273",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22",
+    "year": 1994,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1045086906",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22A",
+    "year": 1994,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1016457755",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22B",
+    "year": 1994,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-987828604",
+    "labelMake": "Taylorcraft",
+    "labelModel": "F-22C",
+    "year": 1994,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "rokstoneMake": "Taylorcraft",
+    "rokstoneModel": "F19 / F21 / F22",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Taylorcraft",
+        "providerModel": "F19 / F21 / F22",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-509711248",
+    "labelMake": "Taylorcraft",
+    "labelModel": "Model B",
+    "year": 2000,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "providers": []
   }
 ]

@@ -3,112 +3,320 @@
     "hash": "1888176240",
     "labelMake": "ZLIN",
     "labelModel": "SAVAGE",
-    "oraeroModel": "SAVAGE",
-    "oraeroMake": "ZLIN",
-    "iatMake": "ZLIN",
-    "iatModel": "SAVAGE",
-    "rokstoneMake": "ZLIN",
-    "rokstoneModel": "SAVAGE",
+    "year": 2004,
     "sfMake": "ZLIN Aviation SRO",
     "sfModel": "SAVAGE",
-    "year": "2004"
+    "iatMake": "ZLIN",
+    "iatModel": "SAVAGE",
+    "oraeroMake": "ZLIN",
+    "oraeroModel": "SAVAGE",
+    "rokstoneMake": "ZLIN",
+    "rokstoneModel": "SAVAGE",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1888176241",
     "labelMake": "ZLIN",
     "labelModel": "SAVAGE",
-    "oraeroModel": "SAVAGE",
-    "oraeroMake": "ZLIN",
-    "iatMake": "ZLIN",
-    "iatModel": "SAVAGE",
-    "rokstoneMake": "ZLIN",
-    "rokstoneModel": "SAVAGE",
+    "year": 2005,
     "sfMake": "ZLIN Aviation SRO",
     "sfModel": "SAVAGE",
-    "year": "2005"
+    "iatMake": "ZLIN",
+    "iatModel": "SAVAGE",
+    "oraeroMake": "ZLIN",
+    "oraeroModel": "SAVAGE",
+    "rokstoneMake": "ZLIN",
+    "rokstoneModel": "SAVAGE",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1888176242",
     "labelMake": "ZLIN",
     "labelModel": "SAVAGE",
-    "oraeroModel": "SAVAGE",
-    "oraeroMake": "ZLIN",
-    "iatMake": "ZLIN",
-    "iatModel": "SAVAGE",
-    "rokstoneMake": "ZLIN",
-    "rokstoneModel": "SAVAGE",
+    "year": 2006,
     "sfMake": "ZLIN Aviation SRO",
     "sfModel": "SAVAGE",
-    "year": "2006"
+    "iatMake": "ZLIN",
+    "iatModel": "SAVAGE",
+    "oraeroMake": "ZLIN",
+    "oraeroModel": "SAVAGE",
+    "rokstoneMake": "ZLIN",
+    "rokstoneModel": "SAVAGE",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1888176243",
     "labelMake": "ZLIN",
     "labelModel": "SAVAGE",
-    "oraeroModel": "SAVAGE",
-    "oraeroMake": "ZLIN",
-    "iatMake": "ZLIN",
-    "iatModel": "SAVAGE",
-    "rokstoneMake": "ZLIN",
-    "rokstoneModel": "SAVAGE",
+    "year": 2007,
     "sfMake": "ZLIN Aviation SRO",
     "sfModel": "SAVAGE",
-    "year": "2007"
+    "iatMake": "ZLIN",
+    "iatModel": "SAVAGE",
+    "oraeroMake": "ZLIN",
+    "oraeroModel": "SAVAGE",
+    "rokstoneMake": "ZLIN",
+    "rokstoneModel": "SAVAGE",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1888176244",
     "labelMake": "ZLIN",
     "labelModel": "SAVAGE",
-    "oraeroModel": "SAVAGE",
-    "oraeroMake": "ZLIN",
-    "iatMake": "ZLIN",
-    "iatModel": "SAVAGE",
-    "rokstoneMake": "ZLIN",
-    "rokstoneModel": "SAVAGE",
+    "year": 2008,
     "sfMake": "ZLIN Aviation SRO",
     "sfModel": "SAVAGE",
-    "year": "2008"
-  },
-  {
-    "hash": "698042189",
-    "labelMake": "ZLIN",
-    "labelModel": "SAVAGE BOBBER",
-    "oraeroModel": "SAVAGE BOBBER",
-    "oraeroMake": "ZLIN",
     "iatMake": "ZLIN",
-    "iatModel": "SAVAGE BOBBER",
+    "iatModel": "SAVAGE",
+    "oraeroMake": "ZLIN",
+    "oraeroModel": "SAVAGE",
     "rokstoneMake": "ZLIN",
-    "rokstoneModel": "SAVAGE BOBBER",
-    "sfMake": "ZLIN Aviation SRO",
-    "sfModel": "SAVAGE BOBBER",
-    "year": "2014"
+    "rokstoneModel": "SAVAGE",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-374234681",
     "labelMake": "ZLIN",
     "labelModel": "SAVAGE CLASSIC",
-    "oraeroModel": "SAVAGE CLASSIC",
-    "oraeroMake": "ZLIN",
-    "iatMake": "ZLIN",
-    "iatModel": "SAVAGE CLASSIC",
-    "rokstoneMake": "ZLIN",
-    "rokstoneModel": "SAVAGE CLASSIC",
+    "year": 2009,
     "sfMake": "ZLIN Aviation SRO",
     "sfModel": "SAVAGE CLASSIC",
-    "year": "2009"
+    "iatMake": "ZLIN",
+    "iatModel": "SAVAGE CLASSIC",
+    "oraeroMake": "ZLIN",
+    "oraeroModel": "SAVAGE CLASSIC",
+    "rokstoneMake": "ZLIN",
+    "rokstoneModel": "SAVAGE CLASSIC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE CLASSIC",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE CLASSIC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE CLASSIC",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "698042189",
+    "labelMake": "ZLIN",
+    "labelModel": "SAVAGE BOBBER",
+    "year": 2014,
+    "sfMake": "ZLIN Aviation SRO",
+    "sfModel": "SAVAGE BOBBER",
+    "iatMake": "ZLIN",
+    "iatModel": "SAVAGE BOBBER",
+    "oraeroMake": "ZLIN",
+    "oraeroModel": "SAVAGE BOBBER",
+    "rokstoneMake": "ZLIN",
+    "rokstoneModel": "SAVAGE BOBBER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE BOBBER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE BOBBER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE BOBBER",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1892720955",
     "labelMake": "ZLIN",
     "labelModel": "SAVAGE CUB-S",
-    "oraeroModel": "SAVAGE CUB-S",
-    "oraeroMake": "ZLIN",
-    "iatMake": "ZLIN",
-    "iatModel": "SAVAGE CUB-S",
-    "rokstoneMake": "ZLIN",
-    "rokstoneModel": "SAVAGE CUB-S",
+    "year": 2014,
     "sfMake": "ZLIN Aviation SRO",
     "sfModel": "SAVAGE CUB-S",
-    "year": "2014"
+    "iatMake": "ZLIN",
+    "iatModel": "SAVAGE CUB-S",
+    "oraeroMake": "ZLIN",
+    "oraeroModel": "SAVAGE CUB-S",
+    "rokstoneMake": "ZLIN",
+    "rokstoneModel": "SAVAGE CUB-S",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE CUB-S",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE CUB-S",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ZLIN",
+        "providerModel": "SAVAGE CUB-S",
+        "isActive": true
+      }
+    ]
   }
 ]

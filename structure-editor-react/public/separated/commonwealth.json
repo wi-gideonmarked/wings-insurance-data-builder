@@ -3,42 +3,120 @@
     "hash": "-748289355",
     "labelMake": "COMMONWEALTH",
     "labelModel": "185 Skyranger",
-    "oraeroModel": "185 Skyranger",
-    "oraeroMake": "COMMONWEALTH",
-    "iatMake": "COMMONWEALTH",
-    "iatModel": "185 Skyranger",
-    "rokstoneMake": "COMMONWEALTH",
-    "rokstoneModel": "185 Skyranger",
+    "year": 1945,
     "sfMake": "Cessna",
     "sfModel": "185 Skyranger",
-    "year": "1945"
+    "iatMake": "COMMONWEALTH",
+    "iatModel": "185 Skyranger",
+    "oraeroMake": "COMMONWEALTH",
+    "oraeroModel": "185 Skyranger",
+    "rokstoneMake": "COMMONWEALTH",
+    "rokstoneModel": "185 Skyranger",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "COMMONWEALTH",
+        "providerModel": "185 Skyranger",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "COMMONWEALTH",
+        "providerModel": "185 Skyranger",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "COMMONWEALTH",
+        "providerModel": "185 Skyranger",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-748289354",
     "labelMake": "COMMONWEALTH",
     "labelModel": "185 Skyranger",
-    "oraeroModel": "185 Skyranger",
-    "oraeroMake": "COMMONWEALTH",
-    "iatMake": "COMMONWEALTH",
-    "iatModel": "185 Skyranger",
-    "rokstoneMake": "COMMONWEALTH",
-    "rokstoneModel": "185 Skyranger",
+    "year": 1946,
     "sfMake": "Cessna",
     "sfModel": "185 Skyranger",
-    "year": "1946"
+    "iatMake": "COMMONWEALTH",
+    "iatModel": "185 Skyranger",
+    "oraeroMake": "COMMONWEALTH",
+    "oraeroModel": "185 Skyranger",
+    "rokstoneMake": "COMMONWEALTH",
+    "rokstoneModel": "185 Skyranger",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "COMMONWEALTH",
+        "providerModel": "185 Skyranger",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "COMMONWEALTH",
+        "providerModel": "185 Skyranger",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "COMMONWEALTH",
+        "providerModel": "185 Skyranger",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-748289353",
     "labelMake": "COMMONWEALTH",
     "labelModel": "185 Skyranger",
-    "oraeroModel": "185 Skyranger",
-    "oraeroMake": "COMMONWEALTH",
-    "iatMake": "COMMONWEALTH",
-    "iatModel": "185 Skyranger",
-    "rokstoneMake": "COMMONWEALTH",
-    "rokstoneModel": "185 Skyranger",
+    "year": 1947,
     "sfMake": "Cessna",
     "sfModel": "185 Skyranger",
-    "year": "1947"
+    "iatMake": "COMMONWEALTH",
+    "iatModel": "185 Skyranger",
+    "oraeroMake": "COMMONWEALTH",
+    "oraeroModel": "185 Skyranger",
+    "rokstoneMake": "COMMONWEALTH",
+    "rokstoneModel": "185 Skyranger",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "COMMONWEALTH",
+        "providerModel": "185 Skyranger",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "COMMONWEALTH",
+        "providerModel": "185 Skyranger",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "COMMONWEALTH",
+        "providerModel": "185 Skyranger",
+        "isActive": true
+      }
+    ]
   }
 ]

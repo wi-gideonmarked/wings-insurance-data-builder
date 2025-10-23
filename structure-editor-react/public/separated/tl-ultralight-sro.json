@@ -1,324 +1,787 @@
 [
   {
-    "hash": "-1210057849",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "-1899754529",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "STINGSPORT",
+    "year": 2005,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1899754528",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "STINGSPORT",
+    "year": 2006,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1899754527",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "STINGSPORT",
+    "year": 2007,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1026165482",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "STING S3",
-    "oraeroModel": "STING S3",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "STING S3",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "STING S3",
+    "year": 2008,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "STING S3",
-    "year": "2008"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1210057848",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "1207434204",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2008,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1026165481",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "STING S3",
-    "oraeroModel": "STING S3",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "STING S3",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "STING S3",
+    "year": 2009,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "STING S3",
-    "year": "2009"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1209134304",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "1207434205",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2009,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1207434227",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2010,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-877842957",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "TL-3000 SIRIUS",
+    "year": 2010,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-997536307",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "STING S4",
-    "oraeroModel": "STING S4",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "STING S4",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "STING S4",
+    "year": 2011,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "STING S4",
-    "year": "2011"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1209134303",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "1207434228",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2011,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-877842956",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "TL-3000 SIRIUS",
+    "year": 2011,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-997536306",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "STING S4",
-    "oraeroModel": "STING S4",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "STING S4",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "STING S4",
+    "year": 2012,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "STING S4",
-    "year": "2012"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1209134302",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "1207434229",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2012,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-877842955",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "TL-3000 SIRIUS",
+    "year": 2012,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-997536305",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "STING S4",
-    "oraeroModel": "STING S4",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "STING S4",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "STING S4",
+    "year": 2013,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "STING S4",
-    "year": "2013"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1819051464",
-    "labelMake": "TL ULTRALIGHT SRO",
-    "labelModel": "STINGSPORT",
-    "oraeroModel": "STINGSPORT",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "STINGSPORT",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "STINGSPORT",
+    "hash": "1207434230",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2013,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "STINGSPORT",
-    "year": "2005"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "-1819051463",
-    "labelMake": "TL ULTRALIGHT SRO",
-    "labelModel": "STINGSPORT",
-    "oraeroModel": "STINGSPORT",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "STINGSPORT",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "STINGSPORT",
-    "sfMake": "TL-Ultralight SRO",
-    "sfModel": "STINGSPORT",
-    "year": "2006"
-  },
-  {
-    "hash": "-1819051462",
-    "labelMake": "TL ULTRALIGHT SRO",
-    "labelModel": "STINGSPORT",
-    "oraeroModel": "STINGSPORT",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "STINGSPORT",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "STINGSPORT",
-    "sfMake": "TL-Ultralight SRO",
-    "sfModel": "STINGSPORT",
-    "year": "2007"
-  },
-  {
-    "hash": "794373912",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "-877842954",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "year": 2013,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2010"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373913",
-    "labelMake": "TL ULTRALIGHT SRO",
-    "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "hash": "1207434231",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2014,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2011"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373914",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "-877842953",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "year": 2014,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2012"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373915",
-    "labelMake": "TL ULTRALIGHT SRO",
-    "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "hash": "1207434232",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2015,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2013"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373916",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "-877842952",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "year": 2015,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2014"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373917",
-    "labelMake": "TL ULTRALIGHT SRO",
-    "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "hash": "1207434233",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2016,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2015"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373918",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "-877842951",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "year": 2016,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2016"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373919",
-    "labelMake": "TL ULTRALIGHT SRO",
-    "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "hash": "1207434234",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2017,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2017"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373920",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "-877842950",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "year": 2017,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2018"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373921",
-    "labelMake": "TL ULTRALIGHT SRO",
-    "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "hash": "1207434235",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2018,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2019"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373943",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "-877842949",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "year": 2018,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2020"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373944",
-    "labelMake": "TL ULTRALIGHT SRO",
-    "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "hash": "1207434236",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2019,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2021"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373945",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "-877842948",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "year": 2019,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2022"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373946",
-    "labelMake": "TL ULTRALIGHT SRO",
-    "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "hash": "1207434258",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2020,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2023"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "794373947",
-    "labelMake": "TL ULTRALIGHT SRO",
+    "hash": "-877842926",
+    "labelMake": "Tl-Ultralight Sro",
     "labelModel": "TL-3000 SIRIUS",
-    "oraeroModel": "TL-3000 SIRIUS",
-    "oraeroMake": "TL ULTRALIGHT SRO",
-    "iatMake": "TL ULTRALIGHT SRO",
-    "iatModel": "TL-3000 SIRIUS",
-    "rokstoneMake": "TL ULTRALIGHT SRO",
-    "rokstoneModel": "TL-3000 SIRIUS",
+    "year": 2020,
     "sfMake": "TL-Ultralight SRO",
-    "sfModel": "TL-3000 SIRIUS",
-    "year": "2024"
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1207434259",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2021,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-877842925",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "TL-3000 SIRIUS",
+    "year": 2021,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1207434260",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2022,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-877842924",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "TL-3000 SIRIUS",
+    "year": 2022,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1207434261",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2023,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-877842923",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "TL-3000 SIRIUS",
+    "year": 2023,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1207434262",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2024,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-877842922",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "TL-3000 SIRIUS",
+    "year": 2024,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "78061509",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sirius",
+    "year": 2025,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sirius",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sirius",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1207434263",
+    "labelMake": "Tl-Ultralight Sro",
+    "labelModel": "Sting Sport",
+    "year": 2025,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "rokstoneMake": "TL Sport",
+    "rokstoneModel": "Sting Sport",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "TL Sport",
+        "providerModel": "Sting Sport",
+        "isActive": true
+      }
+    ]
   }
 ]

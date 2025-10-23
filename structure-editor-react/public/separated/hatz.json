@@ -3,490 +3,1400 @@
     "hash": "-961803175",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 1990,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "1990"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961803174",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 1991,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "1991"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961803173",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 1992,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "1992"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961803172",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 1993,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "1993"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961803171",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 1994,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "1994"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961803170",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 1995,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "1995"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961803169",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 1996,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "1996"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961803168",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 1997,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "1997"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961803167",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 1998,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "1998"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961803166",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 1999,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "1999"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782312",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2000,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2000"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782311",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2001,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2001"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782310",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2002,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2002"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782309",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2003,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2003"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782308",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2004,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2004"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782307",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2005,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2005"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782306",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2006,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2006"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782305",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2007,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2007"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782304",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2008,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2008"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782303",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2009,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2009"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782281",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2010,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2010"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782280",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2011,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2011"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782279",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2012,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2012"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782278",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2013,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2013"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782277",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2014,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2014"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782276",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2015,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2015"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782275",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2016,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2016"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782274",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2017,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2017"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782273",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2018,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2018"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782272",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2019,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2019"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782250",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2020,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2020"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782249",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2021,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2021"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782248",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2022,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2022"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782247",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2023,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2023"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-961782246",
     "labelMake": "HATZ",
     "labelModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "oraeroMake": "HATZ",
-    "iatMake": "HATZ",
-    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "rokstoneMake": "HATZ",
-    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "year": 2024,
     "sfMake": "Hansen Fredick M",
     "sfModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
-    "year": "2024"
+    "iatMake": "HATZ",
+    "iatModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "oraeroMake": "HATZ",
+    "oraeroModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "rokstoneMake": "HATZ",
+    "rokstoneModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "HATZ",
+        "providerModel": "CB-1 / CLASSIC / KELLY-D / BANTAM",
+        "isActive": true
+      }
+    ]
   }
 ]

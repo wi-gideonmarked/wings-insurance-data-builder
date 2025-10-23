@@ -3,42 +3,120 @@
     "hash": "581837404",
     "labelMake": "PITTS",
     "labelModel": "S-1S",
-    "oraeroModel": "S-1S",
-    "oraeroMake": "PITTS",
-    "iatMake": "PITTS",
-    "iatModel": "S-1S",
-    "rokstoneMake": "PITTS",
-    "rokstoneModel": "S-1S",
+    "year": 1986,
     "sfMake": "Pipistrel",
     "sfModel": "S-1S",
-    "year": "1986"
+    "iatMake": "PITTS",
+    "iatModel": "S-1S",
+    "oraeroMake": "PITTS",
+    "oraeroModel": "S-1S",
+    "rokstoneMake": "PITTS",
+    "rokstoneModel": "S-1S",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PITTS",
+        "providerModel": "S-1S",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PITTS",
+        "providerModel": "S-1S",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PITTS",
+        "providerModel": "S-1S",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "582760925",
     "labelMake": "PITTS",
     "labelModel": "S-1T",
-    "oraeroModel": "S-1T",
-    "oraeroMake": "PITTS",
-    "iatMake": "PITTS",
-    "iatModel": "S-1T",
-    "rokstoneMake": "PITTS",
-    "rokstoneModel": "S-1T",
+    "year": 1986,
     "sfMake": "Peil Norman G",
     "sfModel": "S-1T",
-    "year": "1986"
+    "iatMake": "PITTS",
+    "iatModel": "S-1T",
+    "oraeroMake": "PITTS",
+    "oraeroModel": "S-1T",
+    "rokstoneMake": "PITTS",
+    "rokstoneModel": "S-1T",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PITTS",
+        "providerModel": "S-1T",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PITTS",
+        "providerModel": "S-1T",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PITTS",
+        "providerModel": "S-1T",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "202534841",
     "labelMake": "PITTS",
     "labelModel": "S-2A (Homebuilt)",
-    "oraeroModel": "S-2A (Homebuilt)",
-    "oraeroMake": "PITTS",
-    "iatMake": "PITTS",
-    "iatModel": "S-2A (Homebuilt)",
-    "rokstoneMake": "PITTS",
-    "rokstoneModel": "S-2A (Homebuilt)",
+    "year": 1995,
     "sfMake": "Not correlation to SF",
     "sfModel": "S-2A (Homebuilt)",
-    "year": "1995"
+    "iatMake": "PITTS",
+    "iatModel": "S-2A (Homebuilt)",
+    "oraeroMake": "PITTS",
+    "oraeroModel": "S-2A (Homebuilt)",
+    "rokstoneMake": "PITTS",
+    "rokstoneModel": "S-2A (Homebuilt)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PITTS",
+        "providerModel": "S-2A (Homebuilt)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PITTS",
+        "providerModel": "S-2A (Homebuilt)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PITTS",
+        "providerModel": "S-2A (Homebuilt)",
+        "isActive": true
+      }
+    ]
   }
 ]

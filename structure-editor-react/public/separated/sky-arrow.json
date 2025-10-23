@@ -3,168 +3,480 @@
     "hash": "2055798656",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2013,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2013"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2055798657",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2014,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2014"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2055798658",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2015,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2015"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2055798659",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2016,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2016"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2055798660",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2017,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2017"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2055798661",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2018,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2018"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2055798662",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2019,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2019"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2055798684",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2020,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2020"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2055798685",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2021,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2021"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2055798686",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2022,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2022"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2055798687",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2023,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2023"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2055798688",
     "labelMake": "SKY ARROW",
     "labelModel": "600 Sport",
-    "oraeroModel": "600 Sport",
-    "oraeroMake": "SKY ARROW",
-    "iatMake": "SKY ARROW",
-    "iatModel": "600 Sport",
-    "rokstoneMake": "SKY ARROW",
-    "rokstoneModel": "600 Sport",
+    "year": 2024,
     "sfMake": "Not correlation to SF",
     "sfModel": "600 Sport",
-    "year": "2024"
+    "iatMake": "SKY ARROW",
+    "iatModel": "600 Sport",
+    "oraeroMake": "SKY ARROW",
+    "oraeroModel": "600 Sport",
+    "rokstoneMake": "SKY ARROW",
+    "rokstoneModel": "600 Sport",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SKY ARROW",
+        "providerModel": "600 Sport",
+        "isActive": true
+      }
+    ]
   }
 ]

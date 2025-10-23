@@ -3,98 +3,280 @@
     "hash": "-524032193",
     "labelMake": "AMD",
     "labelModel": "CH 2000",
-    "oraeroModel": "CH 2000",
-    "oraeroMake": "AMD",
-    "iatMake": "AMD",
-    "iatModel": "CH 2000",
-    "rokstoneMake": "AMD",
-    "rokstoneModel": "CH 2000",
+    "year": 2000,
     "sfMake": "Not correlation to SF",
     "sfModel": "CH 2000",
-    "year": "2000"
+    "iatMake": "AMD",
+    "iatModel": "CH 2000",
+    "oraeroMake": "AMD",
+    "oraeroModel": "CH 2000",
+    "rokstoneMake": "AMD",
+    "rokstoneModel": "CH 2000",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-524032192",
     "labelMake": "AMD",
     "labelModel": "CH 2000",
-    "oraeroModel": "CH 2000",
-    "oraeroMake": "AMD",
-    "iatMake": "AMD",
-    "iatModel": "CH 2000",
-    "rokstoneMake": "AMD",
-    "rokstoneModel": "CH 2000",
+    "year": 2001,
     "sfMake": "Not correlation to SF",
     "sfModel": "CH 2000",
-    "year": "2001"
+    "iatMake": "AMD",
+    "iatModel": "CH 2000",
+    "oraeroMake": "AMD",
+    "oraeroModel": "CH 2000",
+    "rokstoneMake": "AMD",
+    "rokstoneModel": "CH 2000",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-524032191",
     "labelMake": "AMD",
     "labelModel": "CH 2000",
-    "oraeroModel": "CH 2000",
-    "oraeroMake": "AMD",
-    "iatMake": "AMD",
-    "iatModel": "CH 2000",
-    "rokstoneMake": "AMD",
-    "rokstoneModel": "CH 2000",
+    "year": 2002,
     "sfMake": "Not correlation to SF",
     "sfModel": "CH 2000",
-    "year": "2002"
+    "iatMake": "AMD",
+    "iatModel": "CH 2000",
+    "oraeroMake": "AMD",
+    "oraeroModel": "CH 2000",
+    "rokstoneMake": "AMD",
+    "rokstoneModel": "CH 2000",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-524032190",
     "labelMake": "AMD",
     "labelModel": "CH 2000",
-    "oraeroModel": "CH 2000",
-    "oraeroMake": "AMD",
-    "iatMake": "AMD",
-    "iatModel": "CH 2000",
-    "rokstoneMake": "AMD",
-    "rokstoneModel": "CH 2000",
+    "year": 2003,
     "sfMake": "Not correlation to SF",
     "sfModel": "CH 2000",
-    "year": "2003"
+    "iatMake": "AMD",
+    "iatModel": "CH 2000",
+    "oraeroMake": "AMD",
+    "oraeroModel": "CH 2000",
+    "rokstoneMake": "AMD",
+    "rokstoneModel": "CH 2000",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-524032189",
     "labelMake": "AMD",
     "labelModel": "CH 2000",
-    "oraeroModel": "CH 2000",
-    "oraeroMake": "AMD",
-    "iatMake": "AMD",
-    "iatModel": "CH 2000",
-    "rokstoneMake": "AMD",
-    "rokstoneModel": "CH 2000",
+    "year": 2004,
     "sfMake": "Not correlation to SF",
     "sfModel": "CH 2000",
-    "year": "2004"
+    "iatMake": "AMD",
+    "iatModel": "CH 2000",
+    "oraeroMake": "AMD",
+    "oraeroModel": "CH 2000",
+    "rokstoneMake": "AMD",
+    "rokstoneModel": "CH 2000",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-524032188",
     "labelMake": "AMD",
     "labelModel": "CH 2000",
-    "oraeroModel": "CH 2000",
-    "oraeroMake": "AMD",
-    "iatMake": "AMD",
-    "iatModel": "CH 2000",
-    "rokstoneMake": "AMD",
-    "rokstoneModel": "CH 2000",
+    "year": 2005,
     "sfMake": "Not correlation to SF",
     "sfModel": "CH 2000",
-    "year": "2005"
+    "iatMake": "AMD",
+    "iatModel": "CH 2000",
+    "oraeroMake": "AMD",
+    "oraeroModel": "CH 2000",
+    "rokstoneMake": "AMD",
+    "rokstoneModel": "CH 2000",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-524032187",
     "labelMake": "AMD",
     "labelModel": "CH 2000",
-    "oraeroModel": "CH 2000",
-    "oraeroMake": "AMD",
-    "iatMake": "AMD",
-    "iatModel": "CH 2000",
-    "rokstoneMake": "AMD",
-    "rokstoneModel": "CH 2000",
+    "year": 2006,
     "sfMake": "Not correlation to SF",
     "sfModel": "CH 2000",
-    "year": "2006"
+    "iatMake": "AMD",
+    "iatModel": "CH 2000",
+    "oraeroMake": "AMD",
+    "oraeroModel": "CH 2000",
+    "rokstoneMake": "AMD",
+    "rokstoneModel": "CH 2000",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "AMD",
+        "providerModel": "CH 2000",
+        "isActive": true
+      }
+    ]
   }
 ]

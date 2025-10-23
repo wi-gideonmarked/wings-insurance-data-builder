@@ -3,140 +3,400 @@
     "hash": "-760417433",
     "labelMake": "SMITH SUPER CUB",
     "labelModel": "PA-18 SUPERCUB",
-    "oraeroModel": "PA-18 SUPERCUB",
-    "oraeroMake": "SMITH SUPER CUB",
-    "iatMake": "SMITH SUPER CUB",
-    "iatModel": "PA-18 SUPERCUB",
-    "rokstoneMake": "SMITH SUPER CUB",
-    "rokstoneModel": "PA-18 SUPERCUB",
+    "year": 1998,
     "sfMake": "Not correlation to SF",
     "sfModel": "PA-18 SUPERCUB",
-    "year": "1998"
+    "iatMake": "SMITH SUPER CUB",
+    "iatModel": "PA-18 SUPERCUB",
+    "oraeroMake": "SMITH SUPER CUB",
+    "oraeroModel": "PA-18 SUPERCUB",
+    "rokstoneMake": "SMITH SUPER CUB",
+    "rokstoneModel": "PA-18 SUPERCUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-760417432",
     "labelMake": "SMITH SUPER CUB",
     "labelModel": "PA-18 SUPERCUB",
-    "oraeroModel": "PA-18 SUPERCUB",
-    "oraeroMake": "SMITH SUPER CUB",
-    "iatMake": "SMITH SUPER CUB",
-    "iatModel": "PA-18 SUPERCUB",
-    "rokstoneMake": "SMITH SUPER CUB",
-    "rokstoneModel": "PA-18 SUPERCUB",
+    "year": 1999,
     "sfMake": "Not correlation to SF",
     "sfModel": "PA-18 SUPERCUB",
-    "year": "1999"
+    "iatMake": "SMITH SUPER CUB",
+    "iatModel": "PA-18 SUPERCUB",
+    "oraeroMake": "SMITH SUPER CUB",
+    "oraeroModel": "PA-18 SUPERCUB",
+    "rokstoneMake": "SMITH SUPER CUB",
+    "rokstoneModel": "PA-18 SUPERCUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-760396578",
     "labelMake": "SMITH SUPER CUB",
     "labelModel": "PA-18 SUPERCUB",
-    "oraeroModel": "PA-18 SUPERCUB",
-    "oraeroMake": "SMITH SUPER CUB",
-    "iatMake": "SMITH SUPER CUB",
-    "iatModel": "PA-18 SUPERCUB",
-    "rokstoneMake": "SMITH SUPER CUB",
-    "rokstoneModel": "PA-18 SUPERCUB",
+    "year": 2000,
     "sfMake": "Not correlation to SF",
     "sfModel": "PA-18 SUPERCUB",
-    "year": "2000"
+    "iatMake": "SMITH SUPER CUB",
+    "iatModel": "PA-18 SUPERCUB",
+    "oraeroMake": "SMITH SUPER CUB",
+    "oraeroModel": "PA-18 SUPERCUB",
+    "rokstoneMake": "SMITH SUPER CUB",
+    "rokstoneModel": "PA-18 SUPERCUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-760396577",
     "labelMake": "SMITH SUPER CUB",
     "labelModel": "PA-18 SUPERCUB",
-    "oraeroModel": "PA-18 SUPERCUB",
-    "oraeroMake": "SMITH SUPER CUB",
-    "iatMake": "SMITH SUPER CUB",
-    "iatModel": "PA-18 SUPERCUB",
-    "rokstoneMake": "SMITH SUPER CUB",
-    "rokstoneModel": "PA-18 SUPERCUB",
+    "year": 2001,
     "sfMake": "Not correlation to SF",
     "sfModel": "PA-18 SUPERCUB",
-    "year": "2001"
+    "iatMake": "SMITH SUPER CUB",
+    "iatModel": "PA-18 SUPERCUB",
+    "oraeroMake": "SMITH SUPER CUB",
+    "oraeroModel": "PA-18 SUPERCUB",
+    "rokstoneMake": "SMITH SUPER CUB",
+    "rokstoneModel": "PA-18 SUPERCUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-760396576",
     "labelMake": "SMITH SUPER CUB",
     "labelModel": "PA-18 SUPERCUB",
-    "oraeroModel": "PA-18 SUPERCUB",
-    "oraeroMake": "SMITH SUPER CUB",
-    "iatMake": "SMITH SUPER CUB",
-    "iatModel": "PA-18 SUPERCUB",
-    "rokstoneMake": "SMITH SUPER CUB",
-    "rokstoneModel": "PA-18 SUPERCUB",
+    "year": 2002,
     "sfMake": "Not correlation to SF",
     "sfModel": "PA-18 SUPERCUB",
-    "year": "2002"
+    "iatMake": "SMITH SUPER CUB",
+    "iatModel": "PA-18 SUPERCUB",
+    "oraeroMake": "SMITH SUPER CUB",
+    "oraeroModel": "PA-18 SUPERCUB",
+    "rokstoneMake": "SMITH SUPER CUB",
+    "rokstoneModel": "PA-18 SUPERCUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-760396575",
     "labelMake": "SMITH SUPER CUB",
     "labelModel": "PA-18 SUPERCUB",
-    "oraeroModel": "PA-18 SUPERCUB",
-    "oraeroMake": "SMITH SUPER CUB",
-    "iatMake": "SMITH SUPER CUB",
-    "iatModel": "PA-18 SUPERCUB",
-    "rokstoneMake": "SMITH SUPER CUB",
-    "rokstoneModel": "PA-18 SUPERCUB",
+    "year": 2003,
     "sfMake": "Not correlation to SF",
     "sfModel": "PA-18 SUPERCUB",
-    "year": "2003"
+    "iatMake": "SMITH SUPER CUB",
+    "iatModel": "PA-18 SUPERCUB",
+    "oraeroMake": "SMITH SUPER CUB",
+    "oraeroModel": "PA-18 SUPERCUB",
+    "rokstoneMake": "SMITH SUPER CUB",
+    "rokstoneModel": "PA-18 SUPERCUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-760396574",
     "labelMake": "SMITH SUPER CUB",
     "labelModel": "PA-18 SUPERCUB",
-    "oraeroModel": "PA-18 SUPERCUB",
-    "oraeroMake": "SMITH SUPER CUB",
-    "iatMake": "SMITH SUPER CUB",
-    "iatModel": "PA-18 SUPERCUB",
-    "rokstoneMake": "SMITH SUPER CUB",
-    "rokstoneModel": "PA-18 SUPERCUB",
+    "year": 2004,
     "sfMake": "Not correlation to SF",
     "sfModel": "PA-18 SUPERCUB",
-    "year": "2004"
+    "iatMake": "SMITH SUPER CUB",
+    "iatModel": "PA-18 SUPERCUB",
+    "oraeroMake": "SMITH SUPER CUB",
+    "oraeroModel": "PA-18 SUPERCUB",
+    "rokstoneMake": "SMITH SUPER CUB",
+    "rokstoneModel": "PA-18 SUPERCUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-760396573",
     "labelMake": "SMITH SUPER CUB",
     "labelModel": "PA-18 SUPERCUB",
-    "oraeroModel": "PA-18 SUPERCUB",
-    "oraeroMake": "SMITH SUPER CUB",
-    "iatMake": "SMITH SUPER CUB",
-    "iatModel": "PA-18 SUPERCUB",
-    "rokstoneMake": "SMITH SUPER CUB",
-    "rokstoneModel": "PA-18 SUPERCUB",
+    "year": 2005,
     "sfMake": "Not correlation to SF",
     "sfModel": "PA-18 SUPERCUB",
-    "year": "2005"
+    "iatMake": "SMITH SUPER CUB",
+    "iatModel": "PA-18 SUPERCUB",
+    "oraeroMake": "SMITH SUPER CUB",
+    "oraeroModel": "PA-18 SUPERCUB",
+    "rokstoneMake": "SMITH SUPER CUB",
+    "rokstoneModel": "PA-18 SUPERCUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-760396572",
     "labelMake": "SMITH SUPER CUB",
     "labelModel": "PA-18 SUPERCUB",
-    "oraeroModel": "PA-18 SUPERCUB",
-    "oraeroMake": "SMITH SUPER CUB",
-    "iatMake": "SMITH SUPER CUB",
-    "iatModel": "PA-18 SUPERCUB",
-    "rokstoneMake": "SMITH SUPER CUB",
-    "rokstoneModel": "PA-18 SUPERCUB",
+    "year": 2006,
     "sfMake": "Not correlation to SF",
     "sfModel": "PA-18 SUPERCUB",
-    "year": "2006"
+    "iatMake": "SMITH SUPER CUB",
+    "iatModel": "PA-18 SUPERCUB",
+    "oraeroMake": "SMITH SUPER CUB",
+    "oraeroModel": "PA-18 SUPERCUB",
+    "rokstoneMake": "SMITH SUPER CUB",
+    "rokstoneModel": "PA-18 SUPERCUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-760396571",
     "labelMake": "SMITH SUPER CUB",
     "labelModel": "PA-18 SUPERCUB",
-    "oraeroModel": "PA-18 SUPERCUB",
-    "oraeroMake": "SMITH SUPER CUB",
-    "iatMake": "SMITH SUPER CUB",
-    "iatModel": "PA-18 SUPERCUB",
-    "rokstoneMake": "SMITH SUPER CUB",
-    "rokstoneModel": "PA-18 SUPERCUB",
+    "year": 2007,
     "sfMake": "Not correlation to SF",
     "sfModel": "PA-18 SUPERCUB",
-    "year": "2007"
+    "iatMake": "SMITH SUPER CUB",
+    "iatModel": "PA-18 SUPERCUB",
+    "oraeroMake": "SMITH SUPER CUB",
+    "oraeroModel": "PA-18 SUPERCUB",
+    "rokstoneMake": "SMITH SUPER CUB",
+    "rokstoneModel": "PA-18 SUPERCUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SMITH SUPER CUB",
+        "providerModel": "PA-18 SUPERCUB",
+        "isActive": true
+      }
+    ]
   }
 ]

@@ -3,196 +3,560 @@
     "hash": "-98565273",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1971,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1971"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565272",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1972,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1972"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565271",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1973,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1973"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565270",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1974,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1974"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565269",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1975,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1975"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565268",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1976,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1976"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565267",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1977,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1977"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565266",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1978,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1978"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565265",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1979,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1979"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565243",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1980,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1980"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565242",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1981,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1981"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565241",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1982,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1982"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-98565238",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "PITTS S-2A",
-    "oraeroModel": "PITTS S-2A",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "PITTS S-2A",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "PITTS S-2A",
+    "year": 1985,
     "sfMake": "Aviat",
     "sfModel": "PITTS S-2A",
-    "year": "1985"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "PITTS S-2A",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "PITTS S-2A",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "PITTS S-2A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "PITTS S-2A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-427289841",
     "labelMake": "CHRISTEN INDUSTRIES",
     "labelModel": "Pitts S-2B",
-    "oraeroModel": "Pitts S-2B",
-    "oraeroMake": "CHRISTEN INDUSTRIES",
-    "iatMake": "CHRISTEN INDUSTRIES",
-    "iatModel": "Pitts S-2B",
-    "rokstoneMake": "CHRISTEN INDUSTRIES",
-    "rokstoneModel": "Pitts S-2B",
+    "year": 1989,
     "sfMake": "Aviat",
     "sfModel": "Pitts S-2B",
-    "year": "1989"
+    "iatMake": "CHRISTEN INDUSTRIES",
+    "iatModel": "Pitts S-2B",
+    "oraeroMake": "CHRISTEN INDUSTRIES",
+    "oraeroModel": "Pitts S-2B",
+    "rokstoneMake": "CHRISTEN INDUSTRIES",
+    "rokstoneModel": "Pitts S-2B",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "Pitts S-2B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "Pitts S-2B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CHRISTEN INDUSTRIES",
+        "providerModel": "Pitts S-2B",
+        "isActive": true
+      }
+    ]
   }
 ]

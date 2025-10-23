@@ -3,56 +3,160 @@
     "hash": "-71375553",
     "labelMake": "INDUS",
     "labelModel": "T211 THORPEDO",
-    "oraeroModel": "T211 THORPEDO",
-    "oraeroMake": "INDUS",
-    "iatMake": "INDUS",
-    "iatModel": "T211 THORPEDO",
-    "rokstoneMake": "INDUS",
-    "rokstoneModel": "T211 THORPEDO",
+    "year": 2005,
     "sfMake": "Not correlation to SF",
     "sfModel": "T211 THORPEDO",
-    "year": "2005"
+    "iatMake": "INDUS",
+    "iatModel": "T211 THORPEDO",
+    "oraeroMake": "INDUS",
+    "oraeroModel": "T211 THORPEDO",
+    "rokstoneMake": "INDUS",
+    "rokstoneModel": "T211 THORPEDO",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-71375552",
     "labelMake": "INDUS",
     "labelModel": "T211 THORPEDO",
-    "oraeroModel": "T211 THORPEDO",
-    "oraeroMake": "INDUS",
-    "iatMake": "INDUS",
-    "iatModel": "T211 THORPEDO",
-    "rokstoneMake": "INDUS",
-    "rokstoneModel": "T211 THORPEDO",
+    "year": 2006,
     "sfMake": "Not correlation to SF",
     "sfModel": "T211 THORPEDO",
-    "year": "2006"
+    "iatMake": "INDUS",
+    "iatModel": "T211 THORPEDO",
+    "oraeroMake": "INDUS",
+    "oraeroModel": "T211 THORPEDO",
+    "rokstoneMake": "INDUS",
+    "rokstoneModel": "T211 THORPEDO",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-71375551",
     "labelMake": "INDUS",
     "labelModel": "T211 THORPEDO",
-    "oraeroModel": "T211 THORPEDO",
-    "oraeroMake": "INDUS",
-    "iatMake": "INDUS",
-    "iatModel": "T211 THORPEDO",
-    "rokstoneMake": "INDUS",
-    "rokstoneModel": "T211 THORPEDO",
+    "year": 2007,
     "sfMake": "Not correlation to SF",
     "sfModel": "T211 THORPEDO",
-    "year": "2007"
+    "iatMake": "INDUS",
+    "iatModel": "T211 THORPEDO",
+    "oraeroMake": "INDUS",
+    "oraeroModel": "T211 THORPEDO",
+    "rokstoneMake": "INDUS",
+    "rokstoneModel": "T211 THORPEDO",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-71375550",
     "labelMake": "INDUS",
     "labelModel": "T211 THORPEDO",
-    "oraeroModel": "T211 THORPEDO",
-    "oraeroMake": "INDUS",
-    "iatMake": "INDUS",
-    "iatModel": "T211 THORPEDO",
-    "rokstoneMake": "INDUS",
-    "rokstoneModel": "T211 THORPEDO",
+    "year": 2008,
     "sfMake": "Not correlation to SF",
     "sfModel": "T211 THORPEDO",
-    "year": "2008"
+    "iatMake": "INDUS",
+    "iatModel": "T211 THORPEDO",
+    "oraeroMake": "INDUS",
+    "oraeroModel": "T211 THORPEDO",
+    "rokstoneMake": "INDUS",
+    "rokstoneModel": "T211 THORPEDO",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "INDUS",
+        "providerModel": "T211 THORPEDO",
+        "isActive": true
+      }
+    ]
   }
 ]

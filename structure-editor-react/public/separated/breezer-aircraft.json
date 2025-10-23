@@ -3,28 +3,80 @@
     "hash": "2075002317",
     "labelMake": "BREEZER AIRCRAFT",
     "labelModel": "BREEZER II",
-    "oraeroModel": "BREEZER II",
-    "oraeroMake": "BREEZER AIRCRAFT",
-    "iatMake": "Cessna",
-    "iatModel": "BREEZER II",
-    "rokstoneMake": "BREEZER AIRCRAFT",
-    "rokstoneModel": "BREEZER II",
+    "year": 2007,
     "sfMake": "Not correlation to SF",
     "sfModel": "BREEZER II",
-    "year": "2007"
+    "iatMake": "Cessna",
+    "iatModel": "BREEZER II",
+    "oraeroMake": "BREEZER AIRCRAFT",
+    "oraeroModel": "BREEZER II",
+    "rokstoneMake": "BREEZER AIRCRAFT",
+    "rokstoneModel": "BREEZER II",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "BREEZER II",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BREEZER AIRCRAFT",
+        "providerModel": "BREEZER II",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BREEZER AIRCRAFT",
+        "providerModel": "BREEZER II",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2075002318",
     "labelMake": "BREEZER AIRCRAFT",
     "labelModel": "BREEZER II",
-    "oraeroModel": "BREEZER II",
-    "oraeroMake": "BREEZER AIRCRAFT",
-    "iatMake": "Cessna",
-    "iatModel": "BREEZER II",
-    "rokstoneMake": "BREEZER AIRCRAFT",
-    "rokstoneModel": "BREEZER II",
+    "year": 2008,
     "sfMake": "Not correlation to SF",
     "sfModel": "BREEZER II",
-    "year": "2008"
+    "iatMake": "Cessna",
+    "iatModel": "BREEZER II",
+    "oraeroMake": "BREEZER AIRCRAFT",
+    "oraeroModel": "BREEZER II",
+    "rokstoneMake": "BREEZER AIRCRAFT",
+    "rokstoneModel": "BREEZER II",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "BREEZER II",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BREEZER AIRCRAFT",
+        "providerModel": "BREEZER II",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BREEZER AIRCRAFT",
+        "providerModel": "BREEZER II",
+        "isActive": true
+      }
+    ]
   }
 ]

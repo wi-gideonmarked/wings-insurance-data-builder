@@ -1,0 +1,2052 @@
+[
+  {
+    "hash": "1516201",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1945,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1516202",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1946,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1516203",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1947,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1516204",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1948,
+    "sfMake": "Cessna",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "170",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "170",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1516205",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1949,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1516227",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1950,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1516228",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1951,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1757371975",
+    "labelMake": "",
+    "labelModel": "7DC Champ",
+    "year": 1951,
+    "sfMake": "Aeronca",
+    "sfModel": "7DC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516229",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1952,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1516230",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1953,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1516231",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1954,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1516232",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1955,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1516233",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1956,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1516234",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1957,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1516235",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1958,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1516236",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1959,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1516258",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1960,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1516259",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1961,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289225",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1961,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516260",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1962,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289224",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1962,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516261",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1963,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289223",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1963,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516262",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1964,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289222",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1964,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516263",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1965,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289221",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1965,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516264",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1966,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289220",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1966,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516265",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1967,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289219",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1967,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516266",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1968,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289218",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1968,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516267",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1969,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289217",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1969,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516289",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1970,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289195",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1970,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516290",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1971,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289194",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1971,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516291",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1972,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289193",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1972,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516292",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1973,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289192",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1973,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516293",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1974,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289191",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1974,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516294",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1975,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289190",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1975,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516295",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1976,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289189",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1976,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516296",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1977,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289188",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1977,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516297",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1978,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289187",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1978,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516298",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1979,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289186",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1979,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516320",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1980,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289164",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1980,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516321",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1981,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289163",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1981,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516322",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1982,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289162",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1982,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516323",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1983,
+    "sfMake": "Piper",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289161",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1983,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516324",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1984,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289160",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1984,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516325",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1985,
+    "sfMake": "Vans",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289159",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1985,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516326",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1986,
+    "sfMake": "Vans",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289158",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1986,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516327",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1987,
+    "sfMake": "Vans",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289157",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1987,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516328",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1988,
+    "sfMake": "Vans",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289156",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1988,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516329",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1989,
+    "sfMake": "Vans",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289155",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1989,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516351",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1990,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289133",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1990,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516352",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1991,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289132",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1991,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516353",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1992,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289131",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1992,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516354",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1993,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289130",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1993,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516355",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1994,
+    "sfMake": "Taylorcraft",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289129",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1994,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516356",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1995,
+    "sfMake": "Daher",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289128",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1995,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516357",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1996,
+    "sfMake": "Daher",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289127",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1996,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516358",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1997,
+    "sfMake": "Daher",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289126",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1997,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516359",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1998,
+    "sfMake": "Daher",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172RG Cutlass",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172RG Cutlass",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289125",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1998,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1516360",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 1999,
+    "sfMake": "Daher",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172RG Cutlass",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172RG Cutlass",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628289124",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 1999,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537214",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2000,
+    "sfMake": "Daher",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172RG Cutlass",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172RG Cutlass",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1537215",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2001,
+    "sfMake": "Daher",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172RG Cutlass",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172RG Cutlass",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1537216",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2002,
+    "sfMake": "Daher",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172RG Cutlass",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172RG Cutlass",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268268",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2002,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537217",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2003,
+    "sfMake": "Daher",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172RG Cutlass",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172RG Cutlass",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268267",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2003,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537218",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2004,
+    "sfMake": "Daher",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172RG Cutlass",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172RG Cutlass",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268266",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2004,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537219",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2005,
+    "sfMake": "Daher",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172RG Cutlass",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172RG Cutlass",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268265",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2005,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537220",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2006,
+    "sfMake": "",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172RG Cutlass",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172RG Cutlass",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1537221",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2007,
+    "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172RG Cutlass",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172RG Cutlass",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1537222",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2008,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1537223",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2009,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268261",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2009,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537245",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2010,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268239",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2010,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537246",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2011,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1537247",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2012,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268237",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2012,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537248",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2013,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1537249",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2014,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268235",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2014,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537250",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2015,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268234",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2015,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537251",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2016,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268233",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2016,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537252",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2017,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268232",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2017,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537253",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2018,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268231",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2018,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537254",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2019,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268230",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2019,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537276",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2020,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268208",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2020,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537277",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2021,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268207",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2021,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537278",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2022,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268206",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2022,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537279",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2023,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268205",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2023,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537280",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2024,
+    "sfMake": "TL-Ultralight SRO",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268204",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2024,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "1537281",
+    "labelMake": "",
+    "labelModel": "",
+    "year": 2025,
+    "sfMake": "Vans",
+    "sfModel": "",
+    "iatMake": "Cessna",
+    "iatModel": "172 Skyhawk",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Cessna",
+        "providerModel": "172 Skyhawk",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1628268203",
+    "labelMake": "",
+    "labelModel": "7EC Champ",
+    "year": 2025,
+    "sfMake": "Champion",
+    "sfModel": "7EC Champ",
+    "providers": []
+  },
+  {
+    "hash": "107110217",
+    "labelMake": "",
+    "labelModel": "RV-10",
+    "year": 2025,
+    "sfMake": "Vans",
+    "sfModel": "RV-10",
+    "providers": []
+  }
+]

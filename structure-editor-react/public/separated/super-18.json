@@ -3,350 +3,1000 @@
     "hash": "-1898661140",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2000,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2000"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661139",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2001,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2001"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661138",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2002,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2002"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661137",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2003,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2003"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661136",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2004,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2004"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661135",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2005,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2005"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661134",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2006,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2006"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661133",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2007,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2007"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661132",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2008,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2008"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661131",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2009,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2009"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661109",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2010,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2010"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661108",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2011,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2011"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661107",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2012,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2012"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661106",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2013,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2013"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661105",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2014,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2014"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661104",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2015,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2015"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661103",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2016,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2016"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661102",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2017,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2017"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661101",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2018,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2018"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661100",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2019,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2019"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661078",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2020,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2020"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661077",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2021,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2021"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661076",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2022,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2022"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661075",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2023,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2023"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1898661074",
     "labelMake": "SUPER 18",
     "labelModel": "S18",
-    "oraeroModel": "S18",
-    "oraeroMake": "SUPER 18",
-    "iatMake": "SUPER 18",
-    "iatModel": "S18",
-    "rokstoneMake": "SUPER 18",
-    "rokstoneModel": "S18",
+    "year": 2024,
     "sfMake": "Not correlation to SF",
     "sfModel": "S18",
-    "year": "2024"
+    "iatMake": "SUPER 18",
+    "iatModel": "S18",
+    "oraeroMake": "SUPER 18",
+    "oraeroModel": "S18",
+    "rokstoneMake": "SUPER 18",
+    "rokstoneModel": "S18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "SUPER 18",
+        "providerModel": "S18",
+        "isActive": true
+      }
+    ]
   }
 ]

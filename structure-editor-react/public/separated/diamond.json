@@ -1,1584 +1,2328 @@
 [
   {
-    "hash": "174279564",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
+    "hash": "1756627197",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 1995,
     "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2011"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "174279565",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2012"
-  },
-  {
-    "hash": "174279566",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2013"
-  },
-  {
-    "hash": "174279567",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2014"
-  },
-  {
-    "hash": "174279568",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2015"
-  },
-  {
-    "hash": "174279569",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2016"
-  },
-  {
-    "hash": "174279570",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2017"
-  },
-  {
-    "hash": "174279571",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2018"
-  },
-  {
-    "hash": "174279572",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2019"
-  },
-  {
-    "hash": "174279594",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2020"
-  },
-  {
-    "hash": "174279595",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2021"
-  },
-  {
-    "hash": "174279596",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2022"
-  },
-  {
-    "hash": "174279597",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2023"
-  },
-  {
-    "hash": "174279598",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 40 NG",
-    "oraeroModel": "DA 40 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 40 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 40 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 40 NG",
-    "year": "2024"
-  },
-  {
-    "hash": "-635067089",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2005"
-  },
-  {
-    "hash": "-635067088",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2006"
-  },
-  {
-    "hash": "-635067087",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2007"
-  },
-  {
-    "hash": "-635067086",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2008"
-  },
-  {
-    "hash": "-635067085",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2009"
-  },
-  {
-    "hash": "-635067063",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2010"
-  },
-  {
-    "hash": "-635067062",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2011"
-  },
-  {
-    "hash": "-635067061",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2012"
-  },
-  {
-    "hash": "-635067060",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2013"
-  },
-  {
-    "hash": "-635067059",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2014"
-  },
-  {
-    "hash": "-635067058",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2015"
-  },
-  {
-    "hash": "-635067057",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2016"
-  },
-  {
-    "hash": "-635067056",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2017"
-  },
-  {
-    "hash": "-635067055",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2018"
-  },
-  {
-    "hash": "-635067054",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2019"
-  },
-  {
-    "hash": "-635067032",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2020"
-  },
-  {
-    "hash": "-635067031",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2021"
-  },
-  {
-    "hash": "-635067030",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2022"
-  },
-  {
-    "hash": "-635067029",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2023"
-  },
-  {
-    "hash": "-635067028",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 42 NG",
-    "oraeroModel": "DA 42 NG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 42 NG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 42 NG",
-    "sfMake": "Diamond",
-    "sfModel": "DA 42 NG",
-    "year": "2024"
-  },
-  {
-    "hash": "2814956",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 62",
-    "oraeroModel": "DA 62",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 62",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 62",
-    "sfMake": "Diamond",
-    "sfModel": "DA 62",
-    "year": "2014"
-  },
-  {
-    "hash": "2814957",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 62",
-    "oraeroModel": "DA 62",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 62",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 62",
-    "sfMake": "Diamond",
-    "sfModel": "DA 62",
-    "year": "2015"
-  },
-  {
-    "hash": "2814958",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 62",
-    "oraeroModel": "DA 62",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 62",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 62",
-    "sfMake": "Diamond",
-    "sfModel": "DA 62",
-    "year": "2016"
-  },
-  {
-    "hash": "2814959",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 62",
-    "oraeroModel": "DA 62",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 62",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 62",
-    "sfMake": "Diamond",
-    "sfModel": "DA 62",
-    "year": "2017"
-  },
-  {
-    "hash": "2814960",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 62",
-    "oraeroModel": "DA 62",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 62",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 62",
-    "sfMake": "Diamond",
-    "sfModel": "DA 62",
-    "year": "2018"
-  },
-  {
-    "hash": "2814961",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 62",
-    "oraeroModel": "DA 62",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 62",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 62",
-    "sfMake": "Diamond",
-    "sfModel": "DA 62",
-    "year": "2019"
-  },
-  {
-    "hash": "2814983",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 62",
-    "oraeroModel": "DA 62",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 62",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 62",
-    "sfMake": "Diamond",
-    "sfModel": "DA 62",
-    "year": "2020"
-  },
-  {
-    "hash": "2814984",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 62",
-    "oraeroModel": "DA 62",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 62",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 62",
-    "sfMake": "Diamond",
-    "sfModel": "DA 62",
-    "year": "2021"
-  },
-  {
-    "hash": "2814985",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 62",
-    "oraeroModel": "DA 62",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 62",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 62",
-    "sfMake": "Diamond",
-    "sfModel": "DA 62",
-    "year": "2022"
-  },
-  {
-    "hash": "2814986",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 62",
-    "oraeroModel": "DA 62",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 62",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 62",
-    "sfMake": "Diamond",
-    "sfModel": "DA 62",
-    "year": "2023"
-  },
-  {
-    "hash": "2814987",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA 62",
-    "oraeroModel": "DA 62",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA 62",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA 62",
-    "sfMake": "Diamond",
-    "sfModel": "DA 62",
-    "year": "2024"
-  },
-  {
-    "hash": "-300864756",
-    "labelMake": "DIAMOND",
+    "hash": "1895316932",
+    "labelMake": "Diamond",
     "labelModel": "DA20-A1 Katana",
-    "oraeroModel": "DA20-A1 Katana",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-A1 Katana",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-A1 Katana",
+    "year": 1995,
     "sfMake": "Diamond",
-    "sfModel": "DA20-A1 Katana",
-    "year": "1995"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "-300864755",
-    "labelMake": "DIAMOND",
+    "hash": "1756627198",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 1996,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1895316933",
+    "labelMake": "Diamond",
     "labelModel": "DA20-A1 Katana",
-    "oraeroModel": "DA20-A1 Katana",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-A1 Katana",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-A1 Katana",
+    "year": 1996,
     "sfMake": "Diamond",
-    "sfModel": "DA20-A1 Katana",
-    "year": "1996"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "-300864754",
-    "labelMake": "DIAMOND",
+    "hash": "1756627199",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 1997,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1895316934",
+    "labelMake": "Diamond",
     "labelModel": "DA20-A1 Katana",
-    "oraeroModel": "DA20-A1 Katana",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-A1 Katana",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-A1 Katana",
+    "year": 1997,
     "sfMake": "Diamond",
-    "sfModel": "DA20-A1 Katana",
-    "year": "1997"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726220794",
-    "labelMake": "DIAMOND",
+    "hash": "1756627200",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 1998,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149479526",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 1998,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "1998"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726220795",
-    "labelMake": "DIAMOND",
+    "hash": "1756627201",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 1999,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149479527",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 1999,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "1999"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241649",
-    "labelMake": "DIAMOND",
+    "hash": "1756648055",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2000,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500381",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2000,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2000"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241650",
-    "labelMake": "DIAMOND",
+    "hash": "-763311879",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2000,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1756648056",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2001,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500382",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2001,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2001"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241651",
-    "labelMake": "DIAMOND",
+    "hash": "-763311878",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2001,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1756648057",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2002,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500383",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2002,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2002"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241652",
-    "labelMake": "DIAMOND",
+    "hash": "-763311877",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2002,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1756648058",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2003,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500384",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2003,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2003"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241653",
-    "labelMake": "DIAMOND",
+    "hash": "-763311876",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2003,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1756648059",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2004,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500385",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2004,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2004"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241654",
-    "labelMake": "DIAMOND",
+    "hash": "-763311875",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2004,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-854481647",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2004,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648060",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2005,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500386",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2005,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2005"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241655",
-    "labelMake": "DIAMOND",
+    "hash": "-763311874",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2005,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887585",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2005,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481646",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2005,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648061",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2006,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500387",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2006,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2006"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241656",
-    "labelMake": "DIAMOND",
+    "hash": "-763311873",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2006,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887584",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2006,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481645",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2006,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648062",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2007,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500388",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2007,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2007"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241657",
-    "labelMake": "DIAMOND",
+    "hash": "-763311872",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2007,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887583",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2007,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481644",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2007,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648063",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2008,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500389",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2008,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2008"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241658",
-    "labelMake": "DIAMOND",
+    "hash": "-763311871",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2008,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887582",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2008,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481643",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2008,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648064",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2009,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500390",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2009,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2009"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241680",
-    "labelMake": "DIAMOND",
+    "hash": "-763311870",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2009,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887581",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2009,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481642",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2009,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648086",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2010,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500412",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2010,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2010"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241681",
-    "labelMake": "DIAMOND",
+    "hash": "-763311848",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2010,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887559",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2010,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481620",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2010,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648087",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2011,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500413",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2011,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2011"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241682",
-    "labelMake": "DIAMOND",
+    "hash": "-763311847",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2011,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945928",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2011,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887558",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2011,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481619",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2011,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648088",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2012,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500414",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2012,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2012"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241683",
-    "labelMake": "DIAMOND",
+    "hash": "-763311846",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2012,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945927",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2012,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887557",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2012,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481618",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2012,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648089",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2013,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500415",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2013,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2013"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241684",
-    "labelMake": "DIAMOND",
+    "hash": "-763311845",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2013,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945926",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2013,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887556",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2013,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481617",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2013,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648090",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2014,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500416",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2014,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2014"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "726241685",
-    "labelMake": "DIAMOND",
+    "hash": "-763311844",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2014,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945925",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2014,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887555",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2014,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481616",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2014,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1515657496",
+    "labelMake": "Diamond",
+    "labelModel": "DA 62",
+    "year": 2014,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648091",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2015,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1149500417",
+    "labelMake": "Diamond",
     "labelModel": "DA20-C1 Eclipse",
-    "oraeroModel": "DA20-C1 Eclipse",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA20-C1 Eclipse",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA20-C1 Eclipse",
+    "year": 2015,
     "sfMake": "Diamond",
-    "sfModel": "DA20-C1 Eclipse",
-    "year": "2015"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "1259867436",
-    "labelMake": "DIAMOND",
+    "hash": "-763311843",
+    "labelMake": "Diamond",
     "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
+    "year": 2015,
     "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2001"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "1259867437",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
+    "hash": "-1694945924",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2015,
     "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2002"
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "1259867438",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
+    "hash": "-1014887554",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2015,
     "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2003"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1259867439",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2004"
-  },
-  {
-    "hash": "1259867440",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2005"
-  },
-  {
-    "hash": "1259867441",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2006"
-  },
-  {
-    "hash": "1259867442",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2007"
-  },
-  {
-    "hash": "1259867443",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2008"
-  },
-  {
-    "hash": "1259867444",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2009"
-  },
-  {
-    "hash": "1259867466",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2010"
-  },
-  {
-    "hash": "1259867467",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2011"
-  },
-  {
-    "hash": "1259867468",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2012"
-  },
-  {
-    "hash": "1259867469",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2013"
-  },
-  {
-    "hash": "1259867470",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2014"
-  },
-  {
-    "hash": "1259867471",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2015"
-  },
-  {
-    "hash": "1259867472",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2016"
-  },
-  {
-    "hash": "1259867473",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2017"
-  },
-  {
-    "hash": "1259867474",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2018"
-  },
-  {
-    "hash": "1259867475",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2019"
-  },
-  {
-    "hash": "1259867497",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2020"
-  },
-  {
-    "hash": "1259867498",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2021"
-  },
-  {
-    "hash": "1259867499",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2022"
-  },
-  {
-    "hash": "1259867500",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2023"
-  },
-  {
-    "hash": "1259867501",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA40",
-    "oraeroModel": "DA40",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA40",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA40",
-    "sfMake": "Diamond",
-    "sfModel": "DA40",
-    "year": "2024"
-  },
-  {
-    "hash": "1688662235",
-    "labelMake": "DIAMOND",
+    "hash": "-854481615",
+    "labelMake": "Diamond",
     "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
+    "year": 2015,
     "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2004"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1688662236",
-    "labelMake": "DIAMOND",
+    "hash": "-1515657495",
+    "labelMake": "Diamond",
+    "labelModel": "DA 62",
+    "year": 2015,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648092",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2016,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-763311842",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2016,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945923",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2016,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887553",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2016,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481614",
+    "labelMake": "Diamond",
     "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
+    "year": 2016,
     "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2005"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1688662237",
-    "labelMake": "DIAMOND",
+    "hash": "-1515657494",
+    "labelMake": "Diamond",
+    "labelModel": "DA 62",
+    "year": 2016,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648093",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2017,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-763311841",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2017,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945922",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2017,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887552",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2017,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481613",
+    "labelMake": "Diamond",
     "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
+    "year": 2017,
     "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2006"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1688662238",
-    "labelMake": "DIAMOND",
+    "hash": "-1515657493",
+    "labelMake": "Diamond",
+    "labelModel": "DA 62",
+    "year": 2017,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648094",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2018,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-763311840",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2018,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945921",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2018,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887551",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2018,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481612",
+    "labelMake": "Diamond",
     "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
+    "year": 2018,
     "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2007"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1688662239",
-    "labelMake": "DIAMOND",
+    "hash": "-1515657492",
+    "labelMake": "Diamond",
+    "labelModel": "DA 62",
+    "year": 2018,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648095",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2019,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-763311839",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2019,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945920",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2019,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887550",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2019,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481611",
+    "labelMake": "Diamond",
     "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
+    "year": 2019,
     "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2008"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1688662240",
-    "labelMake": "DIAMOND",
+    "hash": "-1515657491",
+    "labelMake": "Diamond",
+    "labelModel": "DA 62",
+    "year": 2019,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648117",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2020,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-763311817",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2020,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945898",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2020,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887528",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2020,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481589",
+    "labelMake": "Diamond",
     "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
+    "year": 2020,
     "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2009"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1688662262",
-    "labelMake": "DIAMOND",
+    "hash": "-1515657469",
+    "labelMake": "Diamond",
+    "labelModel": "DA 62",
+    "year": 2020,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648118",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2021,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-763311816",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2021,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945897",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2021,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887527",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2021,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481588",
+    "labelMake": "Diamond",
     "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
+    "year": 2021,
     "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2010"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1688662263",
-    "labelMake": "DIAMOND",
+    "hash": "-1515657468",
+    "labelMake": "Diamond",
+    "labelModel": "DA 62",
+    "year": 2021,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648119",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2022,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-763311815",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2022,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945896",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2022,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887526",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2022,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481587",
+    "labelMake": "Diamond",
     "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
+    "year": 2022,
     "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2011"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1688662264",
-    "labelMake": "DIAMOND",
+    "hash": "-1515657467",
+    "labelMake": "Diamond",
+    "labelModel": "DA 62",
+    "year": 2022,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648120",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2023,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-763311814",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2023,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945895",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2023,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887525",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2023,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481586",
+    "labelMake": "Diamond",
     "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
+    "year": 2023,
     "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2012"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1688662265",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2013"
-  },
-  {
-    "hash": "1688662266",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2014"
-  },
-  {
-    "hash": "1688662267",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2015"
-  },
-  {
-    "hash": "1688662268",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2016"
-  },
-  {
-    "hash": "1688662269",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2017"
-  },
-  {
-    "hash": "1688662270",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2018"
-  },
-  {
-    "hash": "1688662271",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2019"
-  },
-  {
-    "hash": "1688662293",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2020"
-  },
-  {
-    "hash": "1688662294",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2021"
-  },
-  {
-    "hash": "1688662295",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2022"
-  },
-  {
-    "hash": "1688662296",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2023"
-  },
-  {
-    "hash": "1688662297",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA42 Twin Star",
-    "oraeroModel": "DA42 Twin Star",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA42 Twin Star",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA42 Twin Star",
-    "sfMake": "Diamond",
-    "sfModel": "DA42 Twin Star",
-    "year": "2024"
-  },
-  {
-    "hash": "-616355768",
-    "labelMake": "DIAMOND",
+    "hash": "-359412408",
+    "labelMake": "Diamond",
     "labelModel": "DA50 RG",
-    "oraeroModel": "DA50 RG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA50 RG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA50 RG",
+    "year": 2023,
     "sfMake": "Diamond",
-    "sfModel": "DA50 RG",
-    "year": "2023"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-616355767",
-    "labelMake": "DIAMOND",
-    "labelModel": "DA50 RG",
-    "oraeroModel": "DA50 RG",
-    "oraeroMake": "DIAMOND",
-    "iatMake": "DIAMOND",
-    "iatModel": "DA50 RG",
-    "rokstoneMake": "DIAMOND",
-    "rokstoneModel": "DA50 RG",
+    "hash": "-1515657466",
+    "labelMake": "Diamond",
+    "labelModel": "DA 62",
+    "year": 2023,
     "sfMake": "Diamond",
-    "sfModel": "DA50 RG",
-    "year": "2024"
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648121",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2024,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-763311813",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2024,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1694945894",
+    "labelMake": "Diamond",
+    "labelModel": "DA 40 NG",
+    "year": 2024,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1014887524",
+    "labelMake": "Diamond",
+    "labelModel": "DA 42 NG",
+    "year": 2024,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-854481585",
+    "labelMake": "Diamond",
+    "labelModel": "DA42 Twin Star",
+    "year": 2024,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-359412407",
+    "labelMake": "Diamond",
+    "labelModel": "DA50 RG",
+    "year": 2024,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1515657465",
+    "labelMake": "Diamond",
+    "labelModel": "DA 62",
+    "year": 2024,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1756648122",
+    "labelMake": "Diamond",
+    "labelModel": "DA20",
+    "year": 2025,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA20",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA20",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-763311812",
+    "labelMake": "Diamond",
+    "labelModel": "DA40",
+    "year": 2025,
+    "sfMake": "Diamond",
+    "sfModel": "",
+    "rokstoneMake": "Diamond",
+    "rokstoneModel": "DA40",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Diamond",
+        "providerModel": "DA40",
+        "isActive": true
+      }
+    ]
   }
 ]

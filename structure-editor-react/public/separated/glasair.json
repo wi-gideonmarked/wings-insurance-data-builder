@@ -3,1484 +3,4240 @@
     "hash": "-408733724",
     "labelMake": "GLASAIR",
     "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "year": 1994,
     "sfMake": "Not correlation to SF",
     "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "1994"
-  },
-  {
-    "hash": "-408733723",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
     "iatMake": "GLASAIR",
     "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "1995"
-  },
-  {
-    "hash": "-408733722",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
     "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "1996"
-  },
-  {
-    "hash": "-408733721",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
     "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
     "rokstoneMake": "GLASAIR",
     "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "1997"
-  },
-  {
-    "hash": "-408733720",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "1998"
-  },
-  {
-    "hash": "-408733719",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "1999"
-  },
-  {
-    "hash": "-408712865",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2000"
-  },
-  {
-    "hash": "-408712864",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2001"
-  },
-  {
-    "hash": "-408712863",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2002"
-  },
-  {
-    "hash": "-408712862",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2003"
-  },
-  {
-    "hash": "-408712861",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2004"
-  },
-  {
-    "hash": "-408712860",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2005"
-  },
-  {
-    "hash": "-408712859",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2006"
-  },
-  {
-    "hash": "-408712858",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2007"
-  },
-  {
-    "hash": "-408712857",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2008"
-  },
-  {
-    "hash": "-408712856",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2009"
-  },
-  {
-    "hash": "-408712834",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2010"
-  },
-  {
-    "hash": "-408712833",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2011"
-  },
-  {
-    "hash": "-408712832",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2012"
-  },
-  {
-    "hash": "-408712831",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2013"
-  },
-  {
-    "hash": "-408712830",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2014"
-  },
-  {
-    "hash": "-408712829",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2015"
-  },
-  {
-    "hash": "-408712828",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2016"
-  },
-  {
-    "hash": "-408712827",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2017"
-  },
-  {
-    "hash": "-408712826",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2018"
-  },
-  {
-    "hash": "-408712825",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2019"
-  },
-  {
-    "hash": "-408712803",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2020"
-  },
-  {
-    "hash": "-408712802",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2021"
-  },
-  {
-    "hash": "-408712801",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2022"
-  },
-  {
-    "hash": "-408712800",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2023"
-  },
-  {
-    "hash": "-408712799",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TAILWHEEL)",
-    "oraeroModel": "GLASTAR (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TAILWHEEL)",
-    "year": "2024"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-756514408",
     "labelMake": "GLASAIR",
     "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "year": 1994,
     "sfMake": "Not correlation to SF",
     "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "1994"
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408733723",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 1995,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-756514407",
     "labelMake": "GLASAIR",
     "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "year": 1995,
     "sfMake": "Not correlation to SF",
     "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "1995"
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408733722",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 1996,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-756514406",
     "labelMake": "GLASAIR",
     "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "year": 1996,
     "sfMake": "Not correlation to SF",
     "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "1996"
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408733721",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 1997,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-756514405",
     "labelMake": "GLASAIR",
     "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "year": 1997,
     "sfMake": "Not correlation to SF",
     "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "1997"
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408733720",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 1998,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-756514404",
     "labelMake": "GLASAIR",
     "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "year": 1998,
     "sfMake": "Not correlation to SF",
     "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "1998"
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408733719",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 1999,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-756514403",
     "labelMake": "GLASAIR",
     "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "year": 1999,
     "sfMake": "Not correlation to SF",
     "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "1999"
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712865",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2000,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-756493549",
     "labelMake": "GLASAIR",
     "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "year": 2000,
     "sfMake": "Not correlation to SF",
     "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2000"
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712864",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2001,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-756493548",
     "labelMake": "GLASAIR",
     "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "year": 2001,
     "sfMake": "Not correlation to SF",
     "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2001"
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712863",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2002,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-756493547",
     "labelMake": "GLASAIR",
     "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "year": 2002,
     "sfMake": "Not correlation to SF",
     "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2002"
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712862",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2003,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-756493546",
     "labelMake": "GLASAIR",
     "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "year": 2003,
     "sfMake": "Not correlation to SF",
     "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2003"
-  },
-  {
-    "hash": "-756493545",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
     "iatMake": "GLASAIR",
     "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2004"
-  },
-  {
-    "hash": "-756493544",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
     "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2005"
-  },
-  {
-    "hash": "-756493543",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
     "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
     "rokstoneMake": "GLASAIR",
     "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2006"
-  },
-  {
-    "hash": "-756493542",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2007"
-  },
-  {
-    "hash": "-756493541",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2008"
-  },
-  {
-    "hash": "-756493540",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2009"
-  },
-  {
-    "hash": "-756493518",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2010"
-  },
-  {
-    "hash": "-756493517",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2011"
-  },
-  {
-    "hash": "-756493516",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2012"
-  },
-  {
-    "hash": "-756493515",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2013"
-  },
-  {
-    "hash": "-756493514",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2014"
-  },
-  {
-    "hash": "-756493513",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2015"
-  },
-  {
-    "hash": "-756493512",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2016"
-  },
-  {
-    "hash": "-756493511",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2017"
-  },
-  {
-    "hash": "-756493510",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2018"
-  },
-  {
-    "hash": "-756493509",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2019"
-  },
-  {
-    "hash": "-756493487",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2020"
-  },
-  {
-    "hash": "-756493486",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2021"
-  },
-  {
-    "hash": "-756493485",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2022"
-  },
-  {
-    "hash": "-756493484",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2023"
-  },
-  {
-    "hash": "-756493483",
-    "labelMake": "GLASAIR",
-    "labelModel": "GLASTAR (TRI-GEAR)",
-    "oraeroModel": "GLASTAR (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "GLASTAR (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "GLASTAR (TRI-GEAR)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "GLASTAR (TRI-GEAR)",
-    "year": "2024"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1725895377",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2003,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2003"
-  },
-  {
-    "hash": "-1725895376",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
     "iatMake": "GLASAIR",
     "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2004"
-  },
-  {
-    "hash": "-1725895375",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
     "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2005"
-  },
-  {
-    "hash": "-1725895374",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
     "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
     "rokstoneMake": "GLASAIR",
     "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2006"
-  },
-  {
-    "hash": "-1725895373",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2007"
-  },
-  {
-    "hash": "-1725895372",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2008"
-  },
-  {
-    "hash": "-1725895371",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2009"
-  },
-  {
-    "hash": "-1725895349",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2010"
-  },
-  {
-    "hash": "-1725895348",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2011"
-  },
-  {
-    "hash": "-1725895347",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2012"
-  },
-  {
-    "hash": "-1725895346",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2013"
-  },
-  {
-    "hash": "-1725895345",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2014"
-  },
-  {
-    "hash": "-1725895344",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2015"
-  },
-  {
-    "hash": "-1725895343",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2016"
-  },
-  {
-    "hash": "-1725895342",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2017"
-  },
-  {
-    "hash": "-1725895341",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2018"
-  },
-  {
-    "hash": "-1725895340",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2019"
-  },
-  {
-    "hash": "-1725895318",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2020"
-  },
-  {
-    "hash": "-1725895317",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2021"
-  },
-  {
-    "hash": "-1725895316",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2022"
-  },
-  {
-    "hash": "-1725895315",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2023"
-  },
-  {
-    "hash": "-1725895314",
-    "labelMake": "GLASAIR",
-    "labelModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TAILWHEEL)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "SPORTSMAN (TAILWHEEL)",
-    "year": "2024"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584681",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2003,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2003"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712861",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2004,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493545",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2004,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895376",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2004,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584682",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2004,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2004"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712860",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2005,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493544",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2005,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895375",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2005,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584683",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2005,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2005"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712859",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2006,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493543",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2006,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895374",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2006,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584684",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2006,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2006"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712858",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2007,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493542",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2007,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895373",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2007,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584685",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2007,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2007"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712857",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2008,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493541",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2008,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895372",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2008,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584686",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2008,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2008"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712856",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2009,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493540",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2009,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895371",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2009,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584687",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2009,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2009"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712834",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2010,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493518",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2010,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895349",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2010,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584709",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2010,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2010"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712833",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2011,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493517",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2011,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895348",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2011,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584710",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2011,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2011"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712832",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2012,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493516",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2012,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895347",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2012,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584711",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2012,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2012"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712831",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2013,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493515",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2013,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895346",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2013,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584712",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2013,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2013"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712830",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2014,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493514",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2014,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895345",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2014,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584713",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2014,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2014"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712829",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2015,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493513",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2015,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895344",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2015,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584714",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2015,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2015"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712828",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2016,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493512",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2016,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895343",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2016,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584715",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2016,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2016"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712827",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2017,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493511",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2017,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895342",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2017,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584716",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2017,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2017"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712826",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2018,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493510",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2018,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895341",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2018,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584717",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2018,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2018"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712825",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2019,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493509",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2019,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895340",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2019,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584718",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2019,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2019"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712803",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2020,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493487",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2020,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895318",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2020,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584740",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2020,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2020"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712802",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2021,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493486",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2021,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895317",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2021,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584741",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2021,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2021"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712801",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2022,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493485",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2022,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895316",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2022,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584742",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2022,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2022"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712800",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2023,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493484",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2023,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895315",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2023,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584743",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2023,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2023"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-408712799",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TAILWHEEL)",
+    "year": 2024,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-756493483",
+    "labelMake": "GLASAIR",
+    "labelModel": "GLASTAR (TRI-GEAR)",
+    "year": 2024,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "GLASTAR (TRI-GEAR)",
+    "iatMake": "GLASAIR",
+    "iatModel": "GLASTAR (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "GLASTAR (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "GLASTAR (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "GLASTAR (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1725895314",
+    "labelMake": "GLASAIR",
+    "labelModel": "SPORTSMAN (TAILWHEEL)",
+    "year": 2024,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "SPORTSMAN (TAILWHEEL)",
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TAILWHEEL)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TAILWHEEL)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TAILWHEEL)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TAILWHEEL)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "863584744",
     "labelMake": "GLASAIR",
     "labelModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
-    "oraeroMake": "GLASAIR",
-    "iatMake": "GLASAIR",
-    "iatModel": "SPORTSMAN (TRI-GEAR)",
-    "rokstoneMake": "GLASAIR",
-    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "year": 2024,
     "sfMake": "Not correlation to SF",
     "sfModel": "SPORTSMAN (TRI-GEAR)",
-    "year": "2024"
+    "iatMake": "GLASAIR",
+    "iatModel": "SPORTSMAN (TRI-GEAR)",
+    "oraeroMake": "GLASAIR",
+    "oraeroModel": "SPORTSMAN (TRI-GEAR)",
+    "rokstoneMake": "GLASAIR",
+    "rokstoneModel": "SPORTSMAN (TRI-GEAR)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GLASAIR",
+        "providerModel": "SPORTSMAN (TRI-GEAR)",
+        "isActive": true
+      }
+    ]
   }
 ]

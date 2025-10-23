@@ -3,336 +3,960 @@
     "hash": "1310740535",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "G-3 Mirage",
-    "oraeroModel": "G-3 Mirage",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "G-3 Mirage",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "G-3 Mirage",
+    "year": 2005,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "G-3 Mirage",
-    "year": "2005"
-  },
-  {
-    "hash": "1310740536",
-    "labelMake": "REMOS AIRCRAFT",
-    "labelModel": "G-3 Mirage",
-    "oraeroModel": "G-3 Mirage",
-    "oraeroMake": "REMOS AIRCRAFT",
     "iatMake": "REMOS AIRCRAFT",
     "iatModel": "G-3 Mirage",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "G-3 Mirage",
     "rokstoneMake": "REMOS AIRCRAFT",
     "rokstoneModel": "G-3 Mirage",
-    "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
-    "sfModel": "G-3 Mirage",
-    "year": "2006"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3 Mirage",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3 Mirage",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3 Mirage",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2090060416",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "G-3/600",
-    "oraeroModel": "G-3/600",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "G-3/600",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "G-3/600",
+    "year": 2006,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "G-3/600",
-    "year": "2006"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "G-3/600",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "G-3/600",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "G-3/600",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3/600",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3/600",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3/600",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "2090060417",
+    "hash": "1310740536",
     "labelMake": "REMOS AIRCRAFT",
-    "labelModel": "G-3/600",
-    "oraeroModel": "G-3/600",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "G-3/600",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "G-3/600",
+    "labelModel": "G-3 Mirage",
+    "year": 2006,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
-    "sfModel": "G-3/600",
-    "year": "2007"
-  },
-  {
-    "hash": "2090060418",
-    "labelMake": "REMOS AIRCRAFT",
-    "labelModel": "G-3/600",
-    "oraeroModel": "G-3/600",
-    "oraeroMake": "REMOS AIRCRAFT",
+    "sfModel": "G-3 Mirage",
     "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "G-3/600",
+    "iatModel": "G-3 Mirage",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "G-3 Mirage",
     "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "G-3/600",
-    "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
-    "sfModel": "G-3/600",
-    "year": "2008"
+    "rokstoneModel": "G-3 Mirage",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3 Mirage",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3 Mirage",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3 Mirage",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933107",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2006,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2006"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "2090060417",
+    "labelMake": "REMOS AIRCRAFT",
+    "labelModel": "G-3/600",
+    "year": 2007,
+    "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
+    "sfModel": "G-3/600",
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "G-3/600",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "G-3/600",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "G-3/600",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3/600",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3/600",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3/600",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933106",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2007,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2007"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "2090060418",
+    "labelMake": "REMOS AIRCRAFT",
+    "labelModel": "G-3/600",
+    "year": 2008,
+    "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
+    "sfModel": "G-3/600",
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "G-3/600",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "G-3/600",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "G-3/600",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3/600",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3/600",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "G-3/600",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933105",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2008,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2008"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933104",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2009,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2009"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933082",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2010,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2010"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933081",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2011,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2011"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933080",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2012,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2012"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933079",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2013,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2013"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933078",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2014,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2014"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933077",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2015,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2015"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933076",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2016,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2016"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933075",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2017,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2017"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933074",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2018,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2018"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933073",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2019,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2019"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933051",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2020,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2020"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933050",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2021,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2021"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933049",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2022,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2022"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933048",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2023,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2023"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-195933047",
     "labelMake": "REMOS AIRCRAFT",
     "labelModel": "GX",
-    "oraeroModel": "GX",
-    "oraeroMake": "REMOS AIRCRAFT",
-    "iatMake": "REMOS AIRCRAFT",
-    "iatModel": "GX",
-    "rokstoneMake": "REMOS AIRCRAFT",
-    "rokstoneModel": "GX",
+    "year": 2024,
     "sfMake": "REMOS ACFT GMBH FLUGZEUGBAU",
     "sfModel": "GX",
-    "year": "2024"
+    "iatMake": "REMOS AIRCRAFT",
+    "iatModel": "GX",
+    "oraeroMake": "REMOS AIRCRAFT",
+    "oraeroModel": "GX",
+    "rokstoneMake": "REMOS AIRCRAFT",
+    "rokstoneModel": "GX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "REMOS AIRCRAFT",
+        "providerModel": "GX",
+        "isActive": true
+      }
+    ]
   }
 ]

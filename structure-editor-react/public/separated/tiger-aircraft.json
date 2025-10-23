@@ -1,86 +1,82 @@
 [
   {
-    "hash": "528211164",
-    "labelMake": "TIGER AIRCRAFT",
-    "labelModel": "AG-5B",
-    "oraeroModel": "AG-5B",
-    "oraeroMake": "TIGER AIRCRAFT",
-    "iatMake": "TIGER AIRCRAFT",
-    "iatModel": "AG-5B",
-    "rokstoneMake": "TIGER AIRCRAFT",
-    "rokstoneModel": "AG-5B",
+    "hash": "-1924197308",
+    "labelMake": "Tiger Aircraft",
+    "labelModel": "AG5B",
+    "year": 2002,
     "sfMake": "Tiger Aircraft LLC",
-    "sfModel": "AG-5B",
-    "year": "2001"
+    "sfModel": "",
+    "rokstoneMake": "Tiger Aircraft",
+    "rokstoneModel": "AG5B",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tiger Aircraft",
+        "providerModel": "AG5B",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "528211165",
-    "labelMake": "TIGER AIRCRAFT",
-    "labelModel": "AG-5B",
-    "oraeroModel": "AG-5B",
-    "oraeroMake": "TIGER AIRCRAFT",
-    "iatMake": "TIGER AIRCRAFT",
-    "iatModel": "AG-5B",
-    "rokstoneMake": "TIGER AIRCRAFT",
-    "rokstoneModel": "AG-5B",
+    "hash": "-1924197307",
+    "labelMake": "Tiger Aircraft",
+    "labelModel": "AG5B",
+    "year": 2003,
     "sfMake": "Tiger Aircraft LLC",
-    "sfModel": "AG-5B",
-    "year": "2002"
+    "sfModel": "",
+    "rokstoneMake": "Tiger Aircraft",
+    "rokstoneModel": "AG5B",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tiger Aircraft",
+        "providerModel": "AG5B",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "528211166",
-    "labelMake": "TIGER AIRCRAFT",
-    "labelModel": "AG-5B",
-    "oraeroModel": "AG-5B",
-    "oraeroMake": "TIGER AIRCRAFT",
-    "iatMake": "TIGER AIRCRAFT",
-    "iatModel": "AG-5B",
-    "rokstoneMake": "TIGER AIRCRAFT",
-    "rokstoneModel": "AG-5B",
+    "hash": "-1924197306",
+    "labelMake": "Tiger Aircraft",
+    "labelModel": "AG5B",
+    "year": 2004,
     "sfMake": "Tiger Aircraft LLC",
-    "sfModel": "AG-5B",
-    "year": "2003"
+    "sfModel": "",
+    "rokstoneMake": "Tiger Aircraft",
+    "rokstoneModel": "AG5B",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tiger Aircraft",
+        "providerModel": "AG5B",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "528211167",
-    "labelMake": "TIGER AIRCRAFT",
-    "labelModel": "AG-5B",
-    "oraeroModel": "AG-5B",
-    "oraeroMake": "TIGER AIRCRAFT",
-    "iatMake": "TIGER AIRCRAFT",
-    "iatModel": "AG-5B",
-    "rokstoneMake": "TIGER AIRCRAFT",
-    "rokstoneModel": "AG-5B",
+    "hash": "-1924197305",
+    "labelMake": "Tiger Aircraft",
+    "labelModel": "AG5B",
+    "year": 2005,
     "sfMake": "Tiger Aircraft LLC",
-    "sfModel": "AG-5B",
-    "year": "2004"
-  },
-  {
-    "hash": "528211168",
-    "labelMake": "TIGER AIRCRAFT",
-    "labelModel": "AG-5B",
-    "oraeroModel": "AG-5B",
-    "oraeroMake": "TIGER AIRCRAFT",
-    "iatMake": "TIGER AIRCRAFT",
-    "iatModel": "AG-5B",
-    "rokstoneMake": "TIGER AIRCRAFT",
-    "rokstoneModel": "AG-5B",
-    "sfMake": "Tiger Aircraft LLC",
-    "sfModel": "AG-5B",
-    "year": "2005"
-  },
-  {
-    "hash": "528211169",
-    "labelMake": "TIGER AIRCRAFT",
-    "labelModel": "AG-5B",
-    "oraeroModel": "AG-5B",
-    "oraeroMake": "TIGER AIRCRAFT",
-    "iatMake": "TIGER AIRCRAFT",
-    "iatModel": "AG-5B",
-    "rokstoneMake": "TIGER AIRCRAFT",
-    "rokstoneModel": "AG-5B",
-    "sfMake": "Tiger Aircraft LLC",
-    "sfModel": "AG-5B",
-    "year": "2006"
+    "sfModel": "",
+    "rokstoneMake": "Tiger Aircraft",
+    "rokstoneModel": "AG5B",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tiger Aircraft",
+        "providerModel": "AG5B",
+        "isActive": true
+      }
+    ]
   }
 ]

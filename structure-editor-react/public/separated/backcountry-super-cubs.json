@@ -3,812 +3,2320 @@
     "hash": "65299757",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 1998,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "1998"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "65299758",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 1999,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "1999"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "65320612",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 2000,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "2000"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "65320613",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 2001,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "2001"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "65320614",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 2002,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "2002"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "65320615",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 2003,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "2003"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "65320616",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 2004,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "2004"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "65320617",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 2005,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "2005"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "65320618",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 2006,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "2006"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "65320619",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 2007,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "2007"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "65320620",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 2008,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "2008"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "65320621",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
+    "year": 2009,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "BOSS",
-    "year": "2009"
-  },
-  {
-    "hash": "65320643",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
     "iatMake": "BACKCOUNTRY SUPER CUBS",
     "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2010"
-  },
-  {
-    "hash": "65320644",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
     "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
     "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
     "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2011"
-  },
-  {
-    "hash": "65320645",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2012"
-  },
-  {
-    "hash": "65320646",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2013"
-  },
-  {
-    "hash": "65320647",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2014"
-  },
-  {
-    "hash": "65320648",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2015"
-  },
-  {
-    "hash": "65320649",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2016"
-  },
-  {
-    "hash": "65320650",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2017"
-  },
-  {
-    "hash": "65320651",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2018"
-  },
-  {
-    "hash": "65320652",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2019"
-  },
-  {
-    "hash": "65320674",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2020"
-  },
-  {
-    "hash": "65320675",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2021"
-  },
-  {
-    "hash": "65320676",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2022"
-  },
-  {
-    "hash": "65320677",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2023"
-  },
-  {
-    "hash": "65320678",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "BOSS",
-    "oraeroModel": "BOSS",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "BOSS",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "BOSS",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "BOSS",
-    "year": "2024"
-  },
-  {
-    "hash": "-767319798",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "PA-18",
-    "oraeroModel": "PA-18",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "PA-18",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "PA-18",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "PA-18",
-    "year": "2013"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1726930503",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
+    "year": 2009,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPER CUB",
-    "year": "2009"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320643",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2010,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1726930481",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
+    "year": 2010,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPER CUB",
-    "year": "2010"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "-1726930480",
+    "hash": "65320644",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
+    "labelModel": "BOSS",
+    "year": 2011,
     "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2011"
-  },
-  {
-    "hash": "-1726930479",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "sfModel": "BOSS",
     "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2012"
-  },
-  {
-    "hash": "-1726930478",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
+    "iatModel": "BOSS",
     "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
+    "oraeroModel": "BOSS",
     "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2013"
-  },
-  {
-    "hash": "-1726930477",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2014"
-  },
-  {
-    "hash": "-1726930476",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2015"
-  },
-  {
-    "hash": "-1726930475",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2016"
-  },
-  {
-    "hash": "-1726930474",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2017"
-  },
-  {
-    "hash": "-1726930473",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2018"
-  },
-  {
-    "hash": "-1726930472",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2019"
-  },
-  {
-    "hash": "-1726930450",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2020"
-  },
-  {
-    "hash": "-1726930449",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2021"
-  },
-  {
-    "hash": "-1726930448",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2022"
-  },
-  {
-    "hash": "-1726930447",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2023"
-  },
-  {
-    "hash": "-1726930446",
-    "labelMake": "BACKCOUNTRY SUPER CUBS",
-    "labelModel": "SUPER CUB",
-    "oraeroModel": "SUPER CUB",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPER CUB",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPER CUB",
-    "sfMake": "Backcountry Super Cub",
-    "sfModel": "SUPER CUB",
-    "year": "2024"
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205113",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2011,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2011"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930480",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2011,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320645",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2012,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205114",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2012,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2012"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930479",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2012,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320646",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2013,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-767319798",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "PA-18",
+    "year": 2013,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "PA-18",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "PA-18",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "PA-18",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "PA-18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "PA-18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "PA-18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "PA-18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205115",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2013,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2013"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930478",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2013,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320647",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2014,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205116",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2014,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2014"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930477",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2014,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320648",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2015,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205117",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2015,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2015"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930476",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2015,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320649",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2016,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205118",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2016,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2016"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930475",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2016,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320650",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2017,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205119",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2017,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2017"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930474",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2017,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320651",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2018,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205120",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2018,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2018"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930473",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2018,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320652",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2019,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205121",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2019,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2019"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930472",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2019,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320674",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2020,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205143",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2020,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2020"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930450",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2020,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320675",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2021,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205144",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2021,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2021"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930449",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2021,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320676",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2022,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205145",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2022,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2022"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930448",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2022,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320677",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2023,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205146",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2023,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2023"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930447",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2023,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "65320678",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "BOSS",
+    "year": 2024,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "BOSS",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "BOSS",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "BOSS",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "BOSS",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "BOSS",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "180205147",
     "labelMake": "BACKCOUNTRY SUPER CUBS",
     "labelModel": "SUPERCRUISER",
-    "oraeroModel": "SUPERCRUISER",
-    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
-    "iatMake": "BACKCOUNTRY SUPER CUBS",
-    "iatModel": "SUPERCRUISER",
-    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
-    "rokstoneModel": "SUPERCRUISER",
+    "year": 2024,
     "sfMake": "Backcountry Super Cub",
     "sfModel": "SUPERCRUISER",
-    "year": "2024"
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPERCRUISER",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPERCRUISER",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPERCRUISER",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPERCRUISER",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1726930446",
+    "labelMake": "BACKCOUNTRY SUPER CUBS",
+    "labelModel": "SUPER CUB",
+    "year": 2024,
+    "sfMake": "Backcountry Super Cub",
+    "sfModel": "SUPER CUB",
+    "iatMake": "BACKCOUNTRY SUPER CUBS",
+    "iatModel": "SUPER CUB",
+    "oraeroMake": "BACKCOUNTRY SUPER CUBS",
+    "oraeroModel": "SUPER CUB",
+    "rokstoneMake": "BACKCOUNTRY SUPER CUBS",
+    "rokstoneModel": "SUPER CUB",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "BACKCOUNTRY SUPER CUBS",
+        "providerModel": "SUPER CUB",
+        "isActive": true
+      }
+    ]
   }
 ]

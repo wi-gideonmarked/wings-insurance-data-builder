@@ -3,14 +3,40 @@
     "hash": "-1610561170",
     "labelMake": "PARKINSON",
     "labelModel": "Bushmaster",
-    "oraeroModel": "Bushmaster",
-    "oraeroMake": "PARKINSON",
-    "iatMake": "PARKINSON",
-    "iatModel": "Bushmaster",
-    "rokstoneMake": "PARKINSON",
-    "rokstoneModel": "Bushmaster",
+    "year": 2003,
     "sfMake": "Bushmaster",
     "sfModel": "Bushmaster",
-    "year": "2003"
+    "iatMake": "PARKINSON",
+    "iatModel": "Bushmaster",
+    "oraeroMake": "PARKINSON",
+    "oraeroModel": "Bushmaster",
+    "rokstoneMake": "PARKINSON",
+    "rokstoneModel": "Bushmaster",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARKINSON",
+        "providerModel": "Bushmaster",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARKINSON",
+        "providerModel": "Bushmaster",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARKINSON",
+        "providerModel": "Bushmaster",
+        "isActive": true
+      }
+    ]
   }
 ]

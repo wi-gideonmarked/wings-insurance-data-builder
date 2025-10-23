@@ -3,42 +3,120 @@
     "hash": "-343129547",
     "labelMake": "INIZIATIVE INDUSTRIALI ITALIAN",
     "labelModel": "SKY ARROW 600 SPORT",
-    "oraeroModel": "SKY ARROW 600 SPORT",
-    "oraeroMake": "INIZIATIVE INDUSTRIALI ITALIAN",
-    "iatMake": "INIZIATIVE INDUSTRIALI ITALIAN",
-    "iatModel": "SKY ARROW 600 SPORT",
-    "rokstoneMake": "INIZIATIVE INDUSTRIALI ITALIAN",
-    "rokstoneModel": "SKY ARROW 600 SPORT",
+    "year": 2005,
     "sfMake": "Not correlation to SF",
     "sfModel": "SKY ARROW 600 SPORT",
-    "year": "2005"
+    "iatMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+    "iatModel": "SKY ARROW 600 SPORT",
+    "oraeroMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+    "oraeroModel": "SKY ARROW 600 SPORT",
+    "rokstoneMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+    "rokstoneModel": "SKY ARROW 600 SPORT",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+        "providerModel": "SKY ARROW 600 SPORT",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+        "providerModel": "SKY ARROW 600 SPORT",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+        "providerModel": "SKY ARROW 600 SPORT",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-343129546",
     "labelMake": "INIZIATIVE INDUSTRIALI ITALIAN",
     "labelModel": "SKY ARROW 600 SPORT",
-    "oraeroModel": "SKY ARROW 600 SPORT",
-    "oraeroMake": "INIZIATIVE INDUSTRIALI ITALIAN",
-    "iatMake": "INIZIATIVE INDUSTRIALI ITALIAN",
-    "iatModel": "SKY ARROW 600 SPORT",
-    "rokstoneMake": "INIZIATIVE INDUSTRIALI ITALIAN",
-    "rokstoneModel": "SKY ARROW 600 SPORT",
+    "year": 2006,
     "sfMake": "Not correlation to SF",
     "sfModel": "SKY ARROW 600 SPORT",
-    "year": "2006"
+    "iatMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+    "iatModel": "SKY ARROW 600 SPORT",
+    "oraeroMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+    "oraeroModel": "SKY ARROW 600 SPORT",
+    "rokstoneMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+    "rokstoneModel": "SKY ARROW 600 SPORT",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+        "providerModel": "SKY ARROW 600 SPORT",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+        "providerModel": "SKY ARROW 600 SPORT",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+        "providerModel": "SKY ARROW 600 SPORT",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-343129545",
     "labelMake": "INIZIATIVE INDUSTRIALI ITALIAN",
     "labelModel": "SKY ARROW 600 SPORT",
-    "oraeroModel": "SKY ARROW 600 SPORT",
-    "oraeroMake": "INIZIATIVE INDUSTRIALI ITALIAN",
-    "iatMake": "INIZIATIVE INDUSTRIALI ITALIAN",
-    "iatModel": "SKY ARROW 600 SPORT",
-    "rokstoneMake": "INIZIATIVE INDUSTRIALI ITALIAN",
-    "rokstoneModel": "SKY ARROW 600 SPORT",
+    "year": 2007,
     "sfMake": "Not correlation to SF",
     "sfModel": "SKY ARROW 600 SPORT",
-    "year": "2007"
+    "iatMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+    "iatModel": "SKY ARROW 600 SPORT",
+    "oraeroMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+    "oraeroModel": "SKY ARROW 600 SPORT",
+    "rokstoneMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+    "rokstoneModel": "SKY ARROW 600 SPORT",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+        "providerModel": "SKY ARROW 600 SPORT",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+        "providerModel": "SKY ARROW 600 SPORT",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "INIZIATIVE INDUSTRIALI ITALIAN",
+        "providerModel": "SKY ARROW 600 SPORT",
+        "isActive": true
+      }
+    ]
   }
 ]

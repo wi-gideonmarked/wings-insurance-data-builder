@@ -1,170 +1,242 @@
 [
   {
-    "hash": "342772091",
-    "labelMake": "COLUMBIA",
-    "labelModel": "300 (LC40-550FG)",
-    "oraeroModel": "300 (LC40-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "300 (LC40-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "300 (LC40-550FG)",
+    "hash": "957110758",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2000,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "300 (LC40-550FG)",
-    "year": "1960"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "342772191",
-    "labelMake": "COLUMBIA",
-    "labelModel": "300 (LC40-550FG)",
-    "oraeroModel": "300 (LC40-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "300 (LC40-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "300 (LC40-550FG)",
+    "hash": "957110759",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2001,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "300 (LC40-550FG)",
-    "year": "1997"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "342793047",
-    "labelMake": "COLUMBIA",
-    "labelModel": "300 (LC40-550FG)",
-    "oraeroModel": "300 (LC40-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "300 (LC40-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "300 (LC40-550FG)",
+    "hash": "957110760",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2002,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "300 (LC40-550FG)",
-    "year": "2000"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "342793048",
-    "labelMake": "COLUMBIA",
-    "labelModel": "300 (LC40-550FG)",
-    "oraeroModel": "300 (LC40-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "300 (LC40-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "300 (LC40-550FG)",
+    "hash": "957110761",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2003,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "300 (LC40-550FG)",
-    "year": "2001"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "342793049",
-    "labelMake": "COLUMBIA",
-    "labelModel": "300 (LC40-550FG)",
-    "oraeroModel": "300 (LC40-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "300 (LC40-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "300 (LC40-550FG)",
+    "hash": "957110762",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2004,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "300 (LC40-550FG)",
-    "year": "2002"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "342793050",
-    "labelMake": "COLUMBIA",
-    "labelModel": "300 (LC40-550FG)",
-    "oraeroModel": "300 (LC40-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "300 (LC40-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "300 (LC40-550FG)",
+    "hash": "957110763",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2005,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "300 (LC40-550FG)",
-    "year": "2003"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "673566429",
-    "labelMake": "COLUMBIA",
-    "labelModel": "350 (LC42-550FG)",
-    "oraeroModel": "350 (LC42-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "350 (LC42-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "350 (LC42-550FG)",
+    "hash": "957110764",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2006,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "350 (LC42-550FG)",
-    "year": "2003"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "673566430",
-    "labelMake": "COLUMBIA",
-    "labelModel": "350 (LC42-550FG)",
-    "oraeroModel": "350 (LC42-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "350 (LC42-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "350 (LC42-550FG)",
+    "hash": "957110765",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2007,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "350 (LC42-550FG)",
-    "year": "2004"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "673566431",
-    "labelMake": "COLUMBIA",
-    "labelModel": "350 (LC42-550FG)",
-    "oraeroModel": "350 (LC42-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "350 (LC42-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "350 (LC42-550FG)",
+    "hash": "957110766",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2008,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "350 (LC42-550FG)",
-    "year": "2005"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "673566432",
-    "labelMake": "COLUMBIA",
-    "labelModel": "350 (LC42-550FG)",
-    "oraeroModel": "350 (LC42-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "350 (LC42-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "350 (LC42-550FG)",
+    "hash": "957110767",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2009,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "350 (LC42-550FG)",
-    "year": "2006"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "673566433",
-    "labelMake": "COLUMBIA",
-    "labelModel": "350 (LC42-550FG)",
-    "oraeroModel": "350 (LC42-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "350 (LC42-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "350 (LC42-550FG)",
+    "hash": "957110789",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2010,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "350 (LC42-550FG)",
-    "year": "2007"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "63051547",
-    "labelMake": "COLUMBIA",
-    "labelModel": "400 (LC41-550FG)",
-    "oraeroModel": "400 (LC41-550FG)",
-    "oraeroMake": "COLUMBIA",
-    "iatMake": "COLUMBIA",
-    "iatModel": "400 (LC41-550FG)",
-    "rokstoneMake": "COLUMBIA",
-    "rokstoneModel": "400 (LC41-550FG)",
+    "hash": "957110790",
+    "labelMake": "Columbia",
+    "labelModel": "300 / 350",
+    "year": 2011,
     "sfMake": "Cessna Aircraft Co",
-    "sfModel": "400 (LC41-550FG)",
-    "year": "2006"
+    "sfModel": "",
+    "rokstoneMake": "Columbia",
+    "rokstoneModel": "300 / 350",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Columbia",
+        "providerModel": "300 / 350",
+        "isActive": true
+      }
+    ]
   }
 ]

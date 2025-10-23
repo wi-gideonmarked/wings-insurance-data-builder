@@ -3,14 +3,40 @@
     "hash": "2008926569",
     "labelMake": "FALCON AIRCRAFT CORP",
     "labelModel": "F-1",
-    "oraeroModel": "F-1",
-    "oraeroMake": "FALCON AIRCRAFT CORP",
-    "iatMake": "FALCON AIRCRAFT CORP",
-    "iatModel": "F-1",
-    "rokstoneMake": "FALCON AIRCRAFT CORP",
-    "rokstoneModel": "F-1",
+    "year": 1973,
     "sfMake": "Not correlation to SF",
     "sfModel": "F-1",
-    "year": "1973"
+    "iatMake": "FALCON AIRCRAFT CORP",
+    "iatModel": "F-1",
+    "oraeroMake": "FALCON AIRCRAFT CORP",
+    "oraeroModel": "F-1",
+    "rokstoneMake": "FALCON AIRCRAFT CORP",
+    "rokstoneModel": "F-1",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "FALCON AIRCRAFT CORP",
+        "providerModel": "F-1",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "FALCON AIRCRAFT CORP",
+        "providerModel": "F-1",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "FALCON AIRCRAFT CORP",
+        "providerModel": "F-1",
+        "isActive": true
+      }
+    ]
   }
 ]

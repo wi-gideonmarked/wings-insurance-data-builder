@@ -3,224 +3,640 @@
     "hash": "-315137199",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2009,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2009"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137177",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2010,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2010"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137176",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2011,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2011"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137175",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2012,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2012"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137174",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2013,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2013"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137173",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2014,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2014"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137172",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2015,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2015"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137171",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2016,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2016"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137170",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2017,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2017"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137169",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2018,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2018"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137168",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2019,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2019"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137146",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2020,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2020"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137145",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2021,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2021"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137144",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2022,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2022"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137143",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2023,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2023"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-315137142",
     "labelMake": "PARADISE",
     "labelModel": "P-1 SLSA",
-    "oraeroModel": "P-1 SLSA",
-    "oraeroMake": "PARADISE",
-    "iatMake": "PARADISE",
-    "iatModel": "P-1 SLSA",
-    "rokstoneMake": "PARADISE",
-    "rokstoneModel": "P-1 SLSA",
+    "year": 2024,
     "sfMake": "Not correlation to SF",
     "sfModel": "P-1 SLSA",
-    "year": "2024"
+    "iatMake": "PARADISE",
+    "iatModel": "P-1 SLSA",
+    "oraeroMake": "PARADISE",
+    "oraeroModel": "P-1 SLSA",
+    "rokstoneMake": "PARADISE",
+    "rokstoneModel": "P-1 SLSA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "PARADISE",
+        "providerModel": "P-1 SLSA",
+        "isActive": true
+      }
+    ]
   }
 ]

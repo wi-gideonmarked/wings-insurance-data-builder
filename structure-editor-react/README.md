@@ -8,6 +8,38 @@ Usage
 - Click Import to load an existing `structure.json` (array of items).
 - Add or Edit items. Fields: `hash`, `labelMake`, `labelModel`, `oraeroModel`, `oraeroMake`, `iatMake`, `iatModel`, `rokstoneMake`, `rokstoneModel`, `sfMake`, `sfModel`, `year`.
 - Click Export to download the full JSON file.
+
+Database-backed local API (optional)
+
+Set environment variables (create a `.env` file):
+
+```
+PGHOST=your-rds-endpoint.amazonaws.com
+PGPORT=5432
+PGUSER=your_username
+PGPASSWORD=your_password
+PGDATABASE=your_database
+PGSSL=true
+API_PORT=4000
+```
+
+Test DB connectivity:
+
+```
+npm run db:test
+```
+
+Start the local API (exposes `/health/db` and `/separated/:file`):
+
+```
+npm run api:start
+```
+
+Point the app to it by editing `public/app-config.json`:
+
+```
+{ "dataSource": "remote", "remoteBaseUrl": "http://127.0.0.1:4000" }
+```
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

@@ -3,28 +3,80 @@
     "hash": "1458717769",
     "labelMake": "DOVA AIRCRAFT",
     "labelModel": "DV-1 SKYLARK",
-    "oraeroModel": "DV-1 SKYLARK",
-    "oraeroMake": "DOVA AIRCRAFT",
-    "iatMake": "DOVA AIRCRAFT",
-    "iatModel": "DV-1 SKYLARK",
-    "rokstoneMake": "DOVA AIRCRAFT",
-    "rokstoneModel": "DV-1 SKYLARK",
+    "year": 2006,
     "sfMake": "Not correlation to SF",
     "sfModel": "DV-1 SKYLARK",
-    "year": "2006"
+    "iatMake": "DOVA AIRCRAFT",
+    "iatModel": "DV-1 SKYLARK",
+    "oraeroMake": "DOVA AIRCRAFT",
+    "oraeroModel": "DV-1 SKYLARK",
+    "rokstoneMake": "DOVA AIRCRAFT",
+    "rokstoneModel": "DV-1 SKYLARK",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DOVA AIRCRAFT",
+        "providerModel": "DV-1 SKYLARK",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DOVA AIRCRAFT",
+        "providerModel": "DV-1 SKYLARK",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DOVA AIRCRAFT",
+        "providerModel": "DV-1 SKYLARK",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1458717770",
     "labelMake": "DOVA AIRCRAFT",
     "labelModel": "DV-1 SKYLARK",
-    "oraeroModel": "DV-1 SKYLARK",
-    "oraeroMake": "DOVA AIRCRAFT",
-    "iatMake": "DOVA AIRCRAFT",
-    "iatModel": "DV-1 SKYLARK",
-    "rokstoneMake": "DOVA AIRCRAFT",
-    "rokstoneModel": "DV-1 SKYLARK",
+    "year": 2007,
     "sfMake": "Not correlation to SF",
     "sfModel": "DV-1 SKYLARK",
-    "year": "2007"
+    "iatMake": "DOVA AIRCRAFT",
+    "iatModel": "DV-1 SKYLARK",
+    "oraeroMake": "DOVA AIRCRAFT",
+    "oraeroModel": "DV-1 SKYLARK",
+    "rokstoneMake": "DOVA AIRCRAFT",
+    "rokstoneModel": "DV-1 SKYLARK",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DOVA AIRCRAFT",
+        "providerModel": "DV-1 SKYLARK",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DOVA AIRCRAFT",
+        "providerModel": "DV-1 SKYLARK",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DOVA AIRCRAFT",
+        "providerModel": "DV-1 SKYLARK",
+        "isActive": true
+      }
+    ]
   }
 ]

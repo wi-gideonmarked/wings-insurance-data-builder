@@ -3,126 +3,360 @@
     "hash": "359303344",
     "labelMake": "ICON",
     "labelModel": "A5",
-    "oraeroModel": "A5",
-    "oraeroMake": "ICON",
-    "iatMake": "ICON",
-    "iatModel": "A5",
-    "rokstoneMake": "ICON",
-    "rokstoneModel": "A5",
+    "year": 2016,
     "sfMake": "Not correlation to SF",
     "sfModel": "A5",
-    "year": "2016"
+    "iatMake": "ICON",
+    "iatModel": "A5",
+    "oraeroMake": "ICON",
+    "oraeroModel": "A5",
+    "rokstoneMake": "ICON",
+    "rokstoneModel": "A5",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "359303345",
     "labelMake": "ICON",
     "labelModel": "A5",
-    "oraeroModel": "A5",
-    "oraeroMake": "ICON",
-    "iatMake": "ICON",
-    "iatModel": "A5",
-    "rokstoneMake": "ICON",
-    "rokstoneModel": "A5",
+    "year": 2017,
     "sfMake": "Not correlation to SF",
     "sfModel": "A5",
-    "year": "2017"
+    "iatMake": "ICON",
+    "iatModel": "A5",
+    "oraeroMake": "ICON",
+    "oraeroModel": "A5",
+    "rokstoneMake": "ICON",
+    "rokstoneModel": "A5",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "359303346",
     "labelMake": "ICON",
     "labelModel": "A5",
-    "oraeroModel": "A5",
-    "oraeroMake": "ICON",
-    "iatMake": "ICON",
-    "iatModel": "A5",
-    "rokstoneMake": "ICON",
-    "rokstoneModel": "A5",
+    "year": 2018,
     "sfMake": "Not correlation to SF",
     "sfModel": "A5",
-    "year": "2018"
+    "iatMake": "ICON",
+    "iatModel": "A5",
+    "oraeroMake": "ICON",
+    "oraeroModel": "A5",
+    "rokstoneMake": "ICON",
+    "rokstoneModel": "A5",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "359303347",
     "labelMake": "ICON",
     "labelModel": "A5",
-    "oraeroModel": "A5",
-    "oraeroMake": "ICON",
-    "iatMake": "ICON",
-    "iatModel": "A5",
-    "rokstoneMake": "ICON",
-    "rokstoneModel": "A5",
+    "year": 2019,
     "sfMake": "Not correlation to SF",
     "sfModel": "A5",
-    "year": "2019"
+    "iatMake": "ICON",
+    "iatModel": "A5",
+    "oraeroMake": "ICON",
+    "oraeroModel": "A5",
+    "rokstoneMake": "ICON",
+    "rokstoneModel": "A5",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "359303369",
     "labelMake": "ICON",
     "labelModel": "A5",
-    "oraeroModel": "A5",
-    "oraeroMake": "ICON",
-    "iatMake": "ICON",
-    "iatModel": "A5",
-    "rokstoneMake": "ICON",
-    "rokstoneModel": "A5",
+    "year": 2020,
     "sfMake": "Not correlation to SF",
     "sfModel": "A5",
-    "year": "2020"
+    "iatMake": "ICON",
+    "iatModel": "A5",
+    "oraeroMake": "ICON",
+    "oraeroModel": "A5",
+    "rokstoneMake": "ICON",
+    "rokstoneModel": "A5",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "359303370",
     "labelMake": "ICON",
     "labelModel": "A5",
-    "oraeroModel": "A5",
-    "oraeroMake": "ICON",
-    "iatMake": "ICON",
-    "iatModel": "A5",
-    "rokstoneMake": "ICON",
-    "rokstoneModel": "A5",
+    "year": 2021,
     "sfMake": "Not correlation to SF",
     "sfModel": "A5",
-    "year": "2021"
+    "iatMake": "ICON",
+    "iatModel": "A5",
+    "oraeroMake": "ICON",
+    "oraeroModel": "A5",
+    "rokstoneMake": "ICON",
+    "rokstoneModel": "A5",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "359303371",
     "labelMake": "ICON",
     "labelModel": "A5",
-    "oraeroModel": "A5",
-    "oraeroMake": "ICON",
-    "iatMake": "ICON",
-    "iatModel": "A5",
-    "rokstoneMake": "ICON",
-    "rokstoneModel": "A5",
+    "year": 2022,
     "sfMake": "Not correlation to SF",
     "sfModel": "A5",
-    "year": "2022"
+    "iatMake": "ICON",
+    "iatModel": "A5",
+    "oraeroMake": "ICON",
+    "oraeroModel": "A5",
+    "rokstoneMake": "ICON",
+    "rokstoneModel": "A5",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "359303372",
     "labelMake": "ICON",
     "labelModel": "A5",
-    "oraeroModel": "A5",
-    "oraeroMake": "ICON",
-    "iatMake": "ICON",
-    "iatModel": "A5",
-    "rokstoneMake": "ICON",
-    "rokstoneModel": "A5",
+    "year": 2023,
     "sfMake": "Not correlation to SF",
     "sfModel": "A5",
-    "year": "2023"
+    "iatMake": "ICON",
+    "iatModel": "A5",
+    "oraeroMake": "ICON",
+    "oraeroModel": "A5",
+    "rokstoneMake": "ICON",
+    "rokstoneModel": "A5",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "359303373",
     "labelMake": "ICON",
     "labelModel": "A5",
-    "oraeroModel": "A5",
-    "oraeroMake": "ICON",
-    "iatMake": "ICON",
-    "iatModel": "A5",
-    "rokstoneMake": "ICON",
-    "rokstoneModel": "A5",
+    "year": 2024,
     "sfMake": "Not correlation to SF",
     "sfModel": "A5",
-    "year": "2024"
+    "iatMake": "ICON",
+    "iatModel": "A5",
+    "oraeroMake": "ICON",
+    "oraeroModel": "A5",
+    "rokstoneMake": "ICON",
+    "rokstoneModel": "A5",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ICON",
+        "providerModel": "A5",
+        "isActive": true
+      }
+    ]
   }
 ]

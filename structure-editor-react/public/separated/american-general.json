@@ -1,184 +1,402 @@
 [
   {
-    "hash": "1208178892",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "AA-1 Yankee Clipper",
-    "oraeroModel": "AA-1 Yankee Clipper",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "AA-1 Yankee Clipper",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "AA-1 Yankee Clipper",
+    "hash": "1647662562",
+    "labelMake": "American General",
+    "labelModel": "AA-1A / AA-1B/TR-2",
+    "year": 1971,
     "sfMake": "American Legend Aircraft Co",
-    "sfModel": "AA-1 Yankee Clipper",
-    "year": "1964"
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA-1A / AA-1B/TR-2",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA-1A / AA-1B/TR-2",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "45370890",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "AA-1B Trainer/TR-2",
-    "oraeroModel": "AA-1B Trainer/TR-2",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "AA-1B Trainer/TR-2",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "AA-1B Trainer/TR-2",
-    "sfMake": "Grumman American AVN. Corp.",
-    "sfModel": "AA-1B Trainer/TR-2",
-    "year": "1972"
+    "hash": "1647662563",
+    "labelMake": "American General",
+    "labelModel": "AA-1A / AA-1B/TR-2",
+    "year": 1972,
+    "sfMake": "American Legend Aircraft Co",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA-1A / AA-1B/TR-2",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA-1A / AA-1B/TR-2",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "45370891",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "AA-1B Trainer/TR-2",
-    "oraeroModel": "AA-1B Trainer/TR-2",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "AA-1B Trainer/TR-2",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "AA-1B Trainer/TR-2",
-    "sfMake": "Grumman American AVN. Corp.",
-    "sfModel": "AA-1B Trainer/TR-2",
-    "year": "1973"
+    "hash": "-1208973815",
+    "labelMake": "American General",
+    "labelModel": "AA5 Series",
+    "year": 1972,
+    "sfMake": "American General",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA5 Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA5 Series",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "45370892",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "AA-1B Trainer/TR-2",
-    "oraeroModel": "AA-1B Trainer/TR-2",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "AA-1B Trainer/TR-2",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "AA-1B Trainer/TR-2",
-    "sfMake": "Grumman American AVN. Corp.",
-    "sfModel": "AA-1B Trainer/TR-2",
-    "year": "1974"
+    "hash": "1647662564",
+    "labelMake": "American General",
+    "labelModel": "AA-1A / AA-1B/TR-2",
+    "year": 1973,
+    "sfMake": "American Legend Aircraft Co",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA-1A / AA-1B/TR-2",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA-1A / AA-1B/TR-2",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "45370893",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "AA-1B Trainer/TR-2",
-    "oraeroModel": "AA-1B Trainer/TR-2",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "AA-1B Trainer/TR-2",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "AA-1B Trainer/TR-2",
-    "sfMake": "Grumman American AVN. Corp.",
-    "sfModel": "AA-1B Trainer/TR-2",
-    "year": "1975"
+    "hash": "-1208973814",
+    "labelMake": "American General",
+    "labelModel": "AA5 Series",
+    "year": 1973,
+    "sfMake": "American General",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA5 Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA5 Series",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "45370894",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "AA-1B Trainer/TR-2",
-    "oraeroModel": "AA-1B Trainer/TR-2",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "AA-1B Trainer/TR-2",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "AA-1B Trainer/TR-2",
-    "sfMake": "Grumman American AVN. Corp.",
-    "sfModel": "AA-1B Trainer/TR-2",
-    "year": "1976"
+    "hash": "1647662565",
+    "labelMake": "American General",
+    "labelModel": "AA-1A / AA-1B/TR-2",
+    "year": 1974,
+    "sfMake": "American Legend Aircraft Co",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA-1A / AA-1B/TR-2",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA-1A / AA-1B/TR-2",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "2122428202",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "AG-5B Tiger",
-    "oraeroModel": "AG-5B Tiger",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "AG-5B Tiger",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "AG-5B Tiger",
+    "hash": "-1208973813",
+    "labelMake": "American General",
+    "labelModel": "AA5 Series",
+    "year": 1974,
+    "sfMake": "American General",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA5 Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA5 Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1647662566",
+    "labelMake": "American General",
+    "labelModel": "AA-1A / AA-1B/TR-2",
+    "year": 1975,
+    "sfMake": "American Legend Aircraft Co",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA-1A / AA-1B/TR-2",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA-1A / AA-1B/TR-2",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1208973812",
+    "labelMake": "American General",
+    "labelModel": "AA5 Series",
+    "year": 1975,
+    "sfMake": "American General",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA5 Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA5 Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1647662567",
+    "labelMake": "American General",
+    "labelModel": "AA-1A / AA-1B/TR-2",
+    "year": 1976,
+    "sfMake": "American Legend Aircraft Co",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA-1A / AA-1B/TR-2",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA-1A / AA-1B/TR-2",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1208973811",
+    "labelMake": "American General",
+    "labelModel": "AA5 Series",
+    "year": 1976,
+    "sfMake": "American General",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA5 Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA5 Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1647662568",
+    "labelMake": "American General",
+    "labelModel": "AA-1A / AA-1B/TR-2",
+    "year": 1977,
+    "sfMake": "American Legend Aircraft Co",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA-1A / AA-1B/TR-2",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA-1A / AA-1B/TR-2",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1208973810",
+    "labelMake": "American General",
+    "labelModel": "AA5 Series",
+    "year": 1977,
+    "sfMake": "American General",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA5 Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA5 Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1647662569",
+    "labelMake": "American General",
+    "labelModel": "AA-1A / AA-1B/TR-2",
+    "year": 1978,
+    "sfMake": "American Legend Aircraft Co",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA-1A / AA-1B/TR-2",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA-1A / AA-1B/TR-2",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1208973809",
+    "labelMake": "American General",
+    "labelModel": "AA5 Series",
+    "year": 1978,
+    "sfMake": "American General",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA5 Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA5 Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1208973808",
+    "labelMake": "American General",
+    "labelModel": "AA5 Series",
+    "year": 1979,
+    "sfMake": "American General",
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AA5 Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AA5 Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "510393781",
+    "labelMake": "American General",
+    "labelModel": "AG5B Tiger",
+    "year": 1990,
     "sfMake": "Tiger Aircraft LLC",
-    "sfModel": "AG-5B Tiger",
-    "year": "1990"
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AG5B Tiger",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AG5B Tiger",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "2122428203",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "AG-5B Tiger",
-    "oraeroModel": "AG-5B Tiger",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "AG-5B Tiger",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "AG-5B Tiger",
+    "hash": "510393782",
+    "labelMake": "American General",
+    "labelModel": "AG5B Tiger",
+    "year": 1991,
     "sfMake": "Tiger Aircraft LLC",
-    "sfModel": "AG-5B Tiger",
-    "year": "1991"
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AG5B Tiger",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AG5B Tiger",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "2122428204",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "AG-5B Tiger",
-    "oraeroModel": "AG-5B Tiger",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "AG-5B Tiger",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "AG-5B Tiger",
+    "hash": "510393783",
+    "labelMake": "American General",
+    "labelModel": "AG5B Tiger",
+    "year": 1992,
     "sfMake": "Tiger Aircraft LLC",
-    "sfModel": "AG-5B Tiger",
-    "year": "1992"
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AG5B Tiger",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AG5B Tiger",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "2122428205",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "AG-5B Tiger",
-    "oraeroModel": "AG-5B Tiger",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "AG-5B Tiger",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "AG-5B Tiger",
+    "hash": "510393784",
+    "labelMake": "American General",
+    "labelModel": "AG5B Tiger",
+    "year": 1993,
     "sfMake": "Tiger Aircraft LLC",
-    "sfModel": "AG-5B Tiger",
-    "year": "1993"
-  },
-  {
-    "hash": "2020860971",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "GA-7 Cougar",
-    "oraeroModel": "GA-7 Cougar",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "GA-7 Cougar",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "GA-7 Cougar",
-    "sfMake": "Grumman American AVN. Corp.",
-    "sfModel": "GA-7 Cougar",
-    "year": "1977"
-  },
-  {
-    "hash": "2020860972",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "GA-7 Cougar",
-    "oraeroModel": "GA-7 Cougar",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "GA-7 Cougar",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "GA-7 Cougar",
-    "sfMake": "Grumman American AVN. Corp.",
-    "sfModel": "GA-7 Cougar",
-    "year": "1978"
-  },
-  {
-    "hash": "2020860973",
-    "labelMake": "AMERICAN GENERAL",
-    "labelModel": "GA-7 Cougar",
-    "oraeroModel": "GA-7 Cougar",
-    "oraeroMake": "AMERICAN GENERAL",
-    "iatMake": "AMERICAN GENERAL",
-    "iatModel": "GA-7 Cougar",
-    "rokstoneMake": "AMERICAN GENERAL",
-    "rokstoneModel": "GA-7 Cougar",
-    "sfMake": "Grumman American AVN. Corp.",
-    "sfModel": "GA-7 Cougar",
-    "year": "1979"
+    "sfModel": "",
+    "rokstoneMake": "American General",
+    "rokstoneModel": "AG5B Tiger",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American General",
+        "providerModel": "AG5B Tiger",
+        "isActive": true
+      }
+    ]
   }
 ]

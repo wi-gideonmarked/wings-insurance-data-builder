@@ -1,128 +1,1483 @@
 [
   {
-    "hash": "-2060765702",
-    "labelMake": "AEROPRO CZ",
+    "hash": "-1842705403",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 1991,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67698041",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 1991,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842705402",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 1992,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67698040",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 1992,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842705401",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 1993,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67698039",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 1993,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842705400",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 1994,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67698038",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 1994,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842705399",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 1995,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67698037",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 1995,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842705398",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 1996,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67698036",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 1996,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842705397",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 1997,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67698035",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 1997,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842705396",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 1998,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67698034",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 1998,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842705395",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 1999,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67698033",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 1999,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842684541",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 2000,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67677179",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 2000,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842684540",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 2001,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67677178",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 2001,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842684539",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 2002,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67677177",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 2002,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842684538",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 2003,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67677176",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 2003,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842684537",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 2004,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67677175",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 2004,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842684536",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 2005,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67677174",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 2005,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1879092240",
+    "labelMake": "Aeropro Cz",
     "labelModel": "EUROFOX",
-    "oraeroModel": "EUROFOX",
-    "oraeroMake": "AEROPRO CZ",
-    "iatMake": "AEROPRO CZ",
-    "iatModel": "EUROFOX",
-    "rokstoneMake": "AEROPRO CZ",
-    "rokstoneModel": "EUROFOX",
+    "year": 2005,
     "sfMake": "Aeropro CZ",
-    "sfModel": "EUROFOX",
-    "year": "2005"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-2060765701",
-    "labelMake": "AEROPRO CZ",
+    "hash": "-1842684535",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 2006,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67677173",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 2006,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1879092239",
+    "labelMake": "Aeropro Cz",
     "labelModel": "EUROFOX",
-    "oraeroModel": "EUROFOX",
-    "oraeroMake": "AEROPRO CZ",
-    "iatMake": "AEROPRO CZ",
-    "iatModel": "EUROFOX",
-    "rokstoneMake": "AEROPRO CZ",
-    "rokstoneModel": "EUROFOX",
+    "year": 2006,
     "sfMake": "Aeropro CZ",
-    "sfModel": "EUROFOX",
-    "year": "2006"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-2060765700",
-    "labelMake": "AEROPRO CZ",
+    "hash": "1960574135",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "EUROFOX LSA",
+    "year": 2006,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1842684534",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 2007,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67677172",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 2007,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1879092238",
+    "labelMake": "Aeropro Cz",
     "labelModel": "EUROFOX",
-    "oraeroModel": "EUROFOX",
-    "oraeroMake": "AEROPRO CZ",
-    "iatMake": "AEROPRO CZ",
-    "iatModel": "EUROFOX",
-    "rokstoneMake": "AEROPRO CZ",
-    "rokstoneModel": "EUROFOX",
+    "year": 2007,
     "sfMake": "Aeropro CZ",
-    "sfModel": "EUROFOX",
-    "year": "2007"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1474352907",
-    "labelMake": "AEROPRO CZ",
+    "hash": "1960574136",
+    "labelMake": "Aeropro Cz",
     "labelModel": "EUROFOX LSA",
-    "oraeroModel": "EUROFOX LSA",
-    "oraeroMake": "AEROPRO CZ",
-    "iatMake": "AEROPRO CZ",
-    "iatModel": "EUROFOX LSA",
-    "rokstoneMake": "AEROPRO CZ",
-    "rokstoneModel": "EUROFOX LSA",
+    "year": 2007,
     "sfMake": "Aeropro CZ",
-    "sfModel": "EUROFOX LSA",
-    "year": "2006"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1474352906",
-    "labelMake": "AEROPRO CZ",
+    "hash": "-1842684533",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 2008,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67677171",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 2008,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1960574137",
+    "labelMake": "Aeropro Cz",
     "labelModel": "EUROFOX LSA",
-    "oraeroModel": "EUROFOX LSA",
-    "oraeroMake": "AEROPRO CZ",
-    "iatMake": "AEROPRO CZ",
-    "iatModel": "EUROFOX LSA",
-    "rokstoneMake": "AEROPRO CZ",
-    "rokstoneModel": "EUROFOX LSA",
+    "year": 2008,
     "sfMake": "Aeropro CZ",
-    "sfModel": "EUROFOX LSA",
-    "year": "2007"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1474352905",
-    "labelMake": "AEROPRO CZ",
-    "labelModel": "EUROFOX LSA",
-    "oraeroModel": "EUROFOX LSA",
-    "oraeroMake": "AEROPRO CZ",
-    "iatMake": "AEROPRO CZ",
-    "iatModel": "EUROFOX LSA",
-    "rokstoneMake": "AEROPRO CZ",
-    "rokstoneModel": "EUROFOX LSA",
-    "sfMake": "Aeropro CZ",
-    "sfModel": "EUROFOX LSA",
-    "year": "2008"
-  },
-  {
-    "hash": "-824958738",
-    "labelMake": "AEROPRO CZ",
+    "hash": "-207755372",
+    "labelMake": "Aeropro Cz",
     "labelModel": "EUROFOX LSA 2K",
-    "oraeroModel": "EUROFOX LSA 2K",
-    "oraeroMake": "AEROPRO CZ",
-    "iatMake": "AEROPRO CZ",
-    "iatModel": "EUROFOX LSA 2K",
-    "rokstoneMake": "AEROPRO CZ",
-    "rokstoneModel": "EUROFOX LSA 2K",
+    "year": 2008,
     "sfMake": "Aeropro CZ",
-    "sfModel": "EUROFOX LSA 2K",
-    "year": "2008"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-796329587",
-    "labelMake": "AEROPRO CZ",
+    "hash": "679748309",
+    "labelMake": "Aeropro Cz",
     "labelModel": "EUROFOX LSA 3K",
-    "oraeroModel": "EUROFOX LSA 3K",
-    "oraeroMake": "AEROPRO CZ",
-    "iatMake": "AEROPRO CZ",
-    "iatModel": "EUROFOX LSA 3K",
-    "rokstoneMake": "AEROPRO CZ",
-    "rokstoneModel": "EUROFOX LSA 3K",
+    "year": 2008,
     "sfMake": "Aeropro CZ",
-    "sfModel": "EUROFOX LSA 3K",
-    "year": "2008"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-796329586",
-    "labelMake": "AEROPRO CZ",
-    "labelModel": "EUROFOX LSA 3K",
-    "oraeroModel": "EUROFOX LSA 3K",
-    "oraeroMake": "AEROPRO CZ",
-    "iatMake": "AEROPRO CZ",
-    "iatModel": "EUROFOX LSA 3K",
-    "rokstoneMake": "AEROPRO CZ",
-    "rokstoneModel": "EUROFOX LSA 3K",
+    "hash": "1815127587",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2009,
     "sfMake": "Aeropro CZ",
-    "sfModel": "EUROFOX LSA 3K",
-    "year": "2009"
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832347",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2009,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "679748310",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "EUROFOX LSA 3K",
+    "year": 2009,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1815127609",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2010,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832325",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2010,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127610",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2011,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832324",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2011,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127611",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2012,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832323",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2012,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127612",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2013,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832322",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2013,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127613",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2014,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832321",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2014,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127614",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2015,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832320",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2015,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127615",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2016,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832319",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2016,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127616",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2017,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832318",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2017,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127617",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2018,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832317",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2018,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127618",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2019,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832316",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2019,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127640",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2020,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832294",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2020,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127641",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2021,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832293",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2021,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127642",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2022,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832292",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2022,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127643",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2023,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832291",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2023,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1815127644",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A220",
+    "year": 2024,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-704832290",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "A240",
+    "year": 2024,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1842684474",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A220",
+    "year": 2025,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A220",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A220",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-67677112",
+    "labelMake": "Aeropro Cz",
+    "labelModel": "AeroTrek A240",
+    "year": 2025,
+    "sfMake": "Aeropro CZ",
+    "sfModel": "",
+    "rokstoneMake": "Aerotrek",
+    "rokstoneModel": "AeroTrek A240",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aerotrek",
+        "providerModel": "AeroTrek A240",
+        "isActive": true
+      }
+    ]
   }
 ]

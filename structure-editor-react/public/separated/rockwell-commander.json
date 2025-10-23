@@ -3,532 +3,1520 @@
     "hash": "2134666954",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "112",
-    "oraeroModel": "112",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112",
+    "year": 1972,
     "sfMake": "Rockwell International",
     "sfModel": "112",
-    "year": "1972"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2134666955",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "112",
-    "oraeroModel": "112",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112",
+    "year": 1973,
     "sfMake": "Rockwell International",
     "sfModel": "112",
-    "year": "1973"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "2134666956",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "112",
-    "oraeroModel": "112",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112",
+    "year": 1974,
     "sfMake": "Rockwell International",
     "sfModel": "112",
-    "year": "1974"
-  },
-  {
-    "hash": "2134666957",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "112",
-    "oraeroModel": "112",
-    "oraeroMake": "ROCKWELL COMMANDER",
     "iatMake": "ROCKWELL COMMANDER",
     "iatModel": "112",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112",
-    "sfMake": "Rockwell International",
-    "sfModel": "112",
-    "year": "1975"
-  },
-  {
-    "hash": "2134666958",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "112",
+    "oraeroMake": "ROCKWELL COMMANDER",
     "oraeroModel": "112",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112",
     "rokstoneMake": "ROCKWELL COMMANDER",
     "rokstoneModel": "112",
-    "sfMake": "Rockwell International",
-    "sfModel": "112",
-    "year": "1976"
-  },
-  {
-    "hash": "2136514000",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "114",
-    "oraeroModel": "114",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114",
-    "sfMake": "Rockwell International",
-    "sfModel": "114",
-    "year": "1976"
-  },
-  {
-    "hash": "2136514001",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "114",
-    "oraeroModel": "114",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114",
-    "sfMake": "Rockwell International",
-    "sfModel": "114",
-    "year": "1977"
-  },
-  {
-    "hash": "2136514002",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "114",
-    "oraeroModel": "114",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114",
-    "sfMake": "Rockwell International",
-    "sfModel": "114",
-    "year": "1978"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1764706271",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "112A",
-    "oraeroModel": "112A",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112A",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112A",
+    "year": 1974,
     "sfMake": "Rockwell International",
     "sfModel": "112A",
-    "year": "1974"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112A",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112A",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112A",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "2134666957",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "112",
+    "year": 1975,
+    "sfMake": "Rockwell International",
+    "sfModel": "112",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1764706272",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "112A",
-    "oraeroModel": "112A",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112A",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112A",
+    "year": 1975,
     "sfMake": "Rockwell International",
     "sfModel": "112A",
-    "year": "1975"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112A",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112A",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112A",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "2134666958",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "112",
+    "year": 1976,
+    "sfMake": "Rockwell International",
+    "sfModel": "112",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1764706273",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "112A",
-    "oraeroModel": "112A",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112A",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112A",
+    "year": 1976,
     "sfMake": "Rockwell International",
     "sfModel": "112A",
-    "year": "1976"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112A",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112A",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1765629794",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "112B",
-    "oraeroModel": "112B",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112B",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112B",
+    "year": 1976,
     "sfMake": "Rockwell International",
     "sfModel": "112B",
-    "year": "1976"
-  },
-  {
-    "hash": "1765629795",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "112B",
-    "oraeroModel": "112B",
-    "oraeroMake": "ROCKWELL COMMANDER",
     "iatMake": "ROCKWELL COMMANDER",
     "iatModel": "112B",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112B",
     "rokstoneMake": "ROCKWELL COMMANDER",
     "rokstoneModel": "112B",
-    "sfMake": "Rockwell International",
-    "sfModel": "112B",
-    "year": "1977"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-568339459",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "112TC",
-    "oraeroModel": "112TC",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112TC",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112TC",
+    "year": 1976,
     "sfMake": "Rockwell International",
     "sfModel": "112TC",
-    "year": "1976"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112TC",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112TC",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112TC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TC",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TC",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "2136514000",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "114",
+    "year": 1976,
+    "sfMake": "Rockwell International",
+    "sfModel": "114",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1765629795",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "112B",
+    "year": 1977,
+    "sfMake": "Rockwell International",
+    "sfModel": "112B",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112B",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112B",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112B",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-424114029",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "112TCA",
-    "oraeroModel": "112TCA",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112TCA",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112TCA",
+    "year": 1977,
     "sfMake": "Rockwell International",
     "sfModel": "112TCA",
-    "year": "1977"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112TCA",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112TCA",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112TCA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TCA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TCA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TCA",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "2136514001",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "114",
+    "year": 1977,
+    "sfMake": "Rockwell International",
+    "sfModel": "114",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-424114028",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "112TCA",
-    "oraeroModel": "112TCA",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112TCA",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112TCA",
+    "year": 1978,
     "sfMake": "Rockwell International",
     "sfModel": "112TCA",
-    "year": "1978"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112TCA",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112TCA",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112TCA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TCA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TCA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TCA",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "-424114027",
+    "hash": "2136514002",
     "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "112TCA",
-    "oraeroModel": "112TCA",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "112TCA",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "112TCA",
+    "labelModel": "114",
+    "year": 1978,
     "sfMake": "Rockwell International",
-    "sfModel": "112TCA",
-    "year": "1979"
+    "sfModel": "114",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1821964577",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114A",
-    "oraeroModel": "114A",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114A",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114A",
+    "year": 1978,
     "sfMake": "Rockwell International",
     "sfModel": "114A",
-    "year": "1978"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114A",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114A",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114A",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-424114027",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "112TCA",
+    "year": 1979,
+    "sfMake": "Rockwell International",
+    "sfModel": "112TCA",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "112TCA",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "112TCA",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "112TCA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TCA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TCA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "112TCA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1821964578",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114A",
-    "oraeroModel": "114A",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114A",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114A",
+    "year": 1979,
     "sfMake": "Rockwell International",
     "sfModel": "114A",
-    "year": "1979"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114A",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114A",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1821964600",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114A",
-    "oraeroModel": "114A",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114A",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114A",
+    "year": 1980,
     "sfMake": "Rockwell International",
     "sfModel": "114A",
-    "year": "1980"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114A",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114A",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114A",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114A",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114A",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114A",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1822888154",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114B",
-    "oraeroModel": "114B",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114B",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114B",
+    "year": 1992,
     "sfMake": "Rockwell International",
     "sfModel": "114B",
-    "year": "1992"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114B",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114B",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114B",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1822888155",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114B",
-    "oraeroModel": "114B",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114B",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114B",
+    "year": 1993,
     "sfMake": "Rockwell International",
     "sfModel": "114B",
-    "year": "1993"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114B",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114B",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114B",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1822888156",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114B",
-    "oraeroModel": "114B",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114B",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114B",
+    "year": 1994,
     "sfMake": "Rockwell International",
     "sfModel": "114B",
-    "year": "1994"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114B",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114B",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114B",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1822888157",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114B",
-    "oraeroModel": "114B",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114B",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114B",
+    "year": 1995,
     "sfMake": "Rockwell International",
     "sfModel": "114B",
-    "year": "1995"
-  },
-  {
-    "hash": "1822888158",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "114B",
-    "oraeroModel": "114B",
-    "oraeroMake": "ROCKWELL COMMANDER",
     "iatMake": "ROCKWELL COMMANDER",
     "iatModel": "114B",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114B",
-    "sfMake": "Rockwell International",
-    "sfModel": "114B",
-    "year": "1996"
-  },
-  {
-    "hash": "1822888159",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "114B",
-    "oraeroModel": "114B",
     "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114B",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114B",
-    "sfMake": "Rockwell International",
-    "sfModel": "114B",
-    "year": "1997"
-  },
-  {
-    "hash": "1822888160",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "114B",
     "oraeroModel": "114B",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114B",
     "rokstoneMake": "ROCKWELL COMMANDER",
     "rokstoneModel": "114B",
-    "sfMake": "Rockwell International",
-    "sfModel": "114B",
-    "year": "1998"
-  },
-  {
-    "hash": "1822888161",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "114B",
-    "oraeroModel": "114B",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114B",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114B",
-    "sfMake": "Rockwell International",
-    "sfModel": "114B",
-    "year": "1999"
-  },
-  {
-    "hash": "1822909015",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "114B",
-    "oraeroModel": "114B",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114B",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114B",
-    "sfMake": "Rockwell International",
-    "sfModel": "114B",
-    "year": "2000"
-  },
-  {
-    "hash": "1822909016",
-    "labelMake": "ROCKWELL COMMANDER",
-    "labelModel": "114B",
-    "oraeroModel": "114B",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114B",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114B",
-    "sfMake": "Rockwell International",
-    "sfModel": "114B",
-    "year": "2001"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1206667964",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114TC",
-    "oraeroModel": "114TC",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114TC",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114TC",
+    "year": 1995,
     "sfMake": "Rockwell International",
     "sfModel": "114TC",
-    "year": "1995"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114TC",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114TC",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114TC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1822888158",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "114B",
+    "year": 1996,
+    "sfMake": "Rockwell International",
+    "sfModel": "114B",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114B",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114B",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114B",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1206667965",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114TC",
-    "oraeroModel": "114TC",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114TC",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114TC",
+    "year": 1996,
     "sfMake": "Rockwell International",
     "sfModel": "114TC",
-    "year": "1996"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114TC",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114TC",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114TC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1822888159",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "114B",
+    "year": 1997,
+    "sfMake": "Rockwell International",
+    "sfModel": "114B",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114B",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114B",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114B",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1206667966",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114TC",
-    "oraeroModel": "114TC",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114TC",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114TC",
+    "year": 1997,
     "sfMake": "Rockwell International",
     "sfModel": "114TC",
-    "year": "1997"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114TC",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114TC",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114TC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1822888160",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "114B",
+    "year": 1998,
+    "sfMake": "Rockwell International",
+    "sfModel": "114B",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114B",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114B",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114B",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1206667967",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114TC",
-    "oraeroModel": "114TC",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114TC",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114TC",
+    "year": 1998,
     "sfMake": "Rockwell International",
     "sfModel": "114TC",
-    "year": "1998"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114TC",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114TC",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114TC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1822888161",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "114B",
+    "year": 1999,
+    "sfMake": "Rockwell International",
+    "sfModel": "114B",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114B",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114B",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114B",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1206667968",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114TC",
-    "oraeroModel": "114TC",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114TC",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114TC",
+    "year": 1999,
     "sfMake": "Rockwell International",
     "sfModel": "114TC",
-    "year": "1999"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114TC",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114TC",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114TC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1822909015",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "114B",
+    "year": 2000,
+    "sfMake": "Rockwell International",
+    "sfModel": "114B",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114B",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114B",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114B",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1206688822",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114TC",
-    "oraeroModel": "114TC",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114TC",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114TC",
+    "year": 2000,
     "sfMake": "Rockwell International",
     "sfModel": "114TC",
-    "year": "2000"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114TC",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114TC",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114TC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1822909016",
+    "labelMake": "ROCKWELL COMMANDER",
+    "labelModel": "114B",
+    "year": 2001,
+    "sfMake": "Rockwell International",
+    "sfModel": "114B",
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114B",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114B",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114B",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114B",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1206688823",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114TC",
-    "oraeroModel": "114TC",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114TC",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114TC",
+    "year": 2001,
     "sfMake": "Rockwell International",
     "sfModel": "114TC",
-    "year": "2001"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114TC",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114TC",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114TC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1206688824",
     "labelMake": "ROCKWELL COMMANDER",
     "labelModel": "114TC",
-    "oraeroModel": "114TC",
-    "oraeroMake": "ROCKWELL COMMANDER",
-    "iatMake": "ROCKWELL COMMANDER",
-    "iatModel": "114TC",
-    "rokstoneMake": "ROCKWELL COMMANDER",
-    "rokstoneModel": "114TC",
+    "year": 2002,
     "sfMake": "Rockwell International",
     "sfModel": "114TC",
-    "year": "2002"
+    "iatMake": "ROCKWELL COMMANDER",
+    "iatModel": "114TC",
+    "oraeroMake": "ROCKWELL COMMANDER",
+    "oraeroModel": "114TC",
+    "rokstoneMake": "ROCKWELL COMMANDER",
+    "rokstoneModel": "114TC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ROCKWELL COMMANDER",
+        "providerModel": "114TC",
+        "isActive": true
+      }
+    ]
   }
 ]

@@ -1,72 +1,202 @@
 [
   {
+    "hash": "1376328637",
+    "labelMake": "JIHLAVAN AIRPLANES SRO",
+    "labelModel": "KP5",
+    "year": 2005,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "KP5",
+    "iatMake": "JIHLAVAN AIRPLANES SRO",
+    "iatModel": "KP5",
+    "oraeroMake": "JIHLAVAN AIRPLANES SRO",
+    "oraeroModel": "KP5",
+    "rokstoneMake": "JIHLAVAN AIRPLANES SRO",
+    "rokstoneModel": "KP5",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP5",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP5",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP5",
+        "isActive": true
+      }
+    ]
+  },
+  {
     "hash": "-808540062",
     "labelMake": "JIHLAVAN AIRPLANES SRO",
     "labelModel": "KP 5 ASA",
-    "oraeroModel": "KP 5 ASA",
-    "oraeroMake": "JIHLAVAN AIRPLANES SRO",
-    "iatMake": "JIHLAVAN AIRPLANES SRO",
-    "iatModel": "KP 5 ASA",
-    "rokstoneMake": "JIHLAVAN AIRPLANES SRO",
-    "rokstoneModel": "KP 5 ASA",
+    "year": 2005,
     "sfMake": "Not correlation to SF",
     "sfModel": "KP 5 ASA",
-    "year": "2005"
+    "iatMake": "JIHLAVAN AIRPLANES SRO",
+    "iatModel": "KP 5 ASA",
+    "oraeroMake": "JIHLAVAN AIRPLANES SRO",
+    "oraeroModel": "KP 5 ASA",
+    "rokstoneMake": "JIHLAVAN AIRPLANES SRO",
+    "rokstoneModel": "KP 5 ASA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP 5 ASA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP 5 ASA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP 5 ASA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-808540061",
     "labelMake": "JIHLAVAN AIRPLANES SRO",
     "labelModel": "KP 5 ASA",
-    "oraeroModel": "KP 5 ASA",
-    "oraeroMake": "JIHLAVAN AIRPLANES SRO",
-    "iatMake": "JIHLAVAN AIRPLANES SRO",
-    "iatModel": "KP 5 ASA",
-    "rokstoneMake": "JIHLAVAN AIRPLANES SRO",
-    "rokstoneModel": "KP 5 ASA",
+    "year": 2006,
     "sfMake": "Not correlation to SF",
     "sfModel": "KP 5 ASA",
-    "year": "2006"
-  },
-  {
-    "hash": "-808540060",
-    "labelMake": "JIHLAVAN AIRPLANES SRO",
-    "labelModel": "KP 5 ASA",
-    "oraeroModel": "KP 5 ASA",
-    "oraeroMake": "JIHLAVAN AIRPLANES SRO",
     "iatMake": "JIHLAVAN AIRPLANES SRO",
     "iatModel": "KP 5 ASA",
+    "oraeroMake": "JIHLAVAN AIRPLANES SRO",
+    "oraeroModel": "KP 5 ASA",
     "rokstoneMake": "JIHLAVAN AIRPLANES SRO",
     "rokstoneModel": "KP 5 ASA",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "KP 5 ASA",
-    "year": "2007"
-  },
-  {
-    "hash": "1376328637",
-    "labelMake": "JIHLAVAN AIRPLANES SRO",
-    "labelModel": "KP5",
-    "oraeroModel": "KP5",
-    "oraeroMake": "JIHLAVAN AIRPLANES SRO",
-    "iatMake": "JIHLAVAN AIRPLANES SRO",
-    "iatModel": "KP5",
-    "rokstoneMake": "JIHLAVAN AIRPLANES SRO",
-    "rokstoneModel": "KP5",
-    "sfMake": "Not correlation to SF",
-    "sfModel": "KP5",
-    "year": "2005"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP 5 ASA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP 5 ASA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP 5 ASA",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1376328639",
     "labelMake": "JIHLAVAN AIRPLANES SRO",
     "labelModel": "KP5",
-    "oraeroModel": "KP5",
-    "oraeroMake": "JIHLAVAN AIRPLANES SRO",
-    "iatMake": "JIHLAVAN AIRPLANES SRO",
-    "iatModel": "KP5",
-    "rokstoneMake": "JIHLAVAN AIRPLANES SRO",
-    "rokstoneModel": "KP5",
+    "year": 2007,
     "sfMake": "Not correlation to SF",
     "sfModel": "KP5",
-    "year": "2007"
+    "iatMake": "JIHLAVAN AIRPLANES SRO",
+    "iatModel": "KP5",
+    "oraeroMake": "JIHLAVAN AIRPLANES SRO",
+    "oraeroModel": "KP5",
+    "rokstoneMake": "JIHLAVAN AIRPLANES SRO",
+    "rokstoneModel": "KP5",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP5",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP5",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP5",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-808540060",
+    "labelMake": "JIHLAVAN AIRPLANES SRO",
+    "labelModel": "KP 5 ASA",
+    "year": 2007,
+    "sfMake": "Not correlation to SF",
+    "sfModel": "KP 5 ASA",
+    "iatMake": "JIHLAVAN AIRPLANES SRO",
+    "iatModel": "KP 5 ASA",
+    "oraeroMake": "JIHLAVAN AIRPLANES SRO",
+    "oraeroModel": "KP 5 ASA",
+    "rokstoneMake": "JIHLAVAN AIRPLANES SRO",
+    "rokstoneModel": "KP 5 ASA",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP 5 ASA",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP 5 ASA",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "JIHLAVAN AIRPLANES SRO",
+        "providerModel": "KP 5 ASA",
+        "isActive": true
+      }
+    ]
   }
 ]

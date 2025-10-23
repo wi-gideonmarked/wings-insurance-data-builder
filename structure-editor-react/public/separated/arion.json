@@ -3,322 +3,920 @@
     "hash": "-925364289",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1",
-    "oraeroModel": "LIGHTNING LS-1",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1",
+    "year": 2009,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1",
-    "year": "2009"
-  },
-  {
-    "hash": "-925364267",
-    "labelMake": "ARION",
-    "labelModel": "LIGHTNING LS-1",
-    "oraeroModel": "LIGHTNING LS-1",
-    "oraeroMake": "ARION",
     "iatMake": "ARION",
     "iatModel": "LIGHTNING LS-1",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1",
-    "sfMake": "Arion Aircraft LLC",
-    "sfModel": "LIGHTNING LS-1",
-    "year": "2010"
-  },
-  {
-    "hash": "-925364266",
-    "labelMake": "ARION",
-    "labelModel": "LIGHTNING LS-1",
-    "oraeroModel": "LIGHTNING LS-1",
     "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1",
-    "sfMake": "Arion Aircraft LLC",
-    "sfModel": "LIGHTNING LS-1",
-    "year": "2011"
-  },
-  {
-    "hash": "-925364265",
-    "labelMake": "ARION",
-    "labelModel": "LIGHTNING LS-1",
     "oraeroModel": "LIGHTNING LS-1",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1",
     "rokstoneMake": "ARION",
     "rokstoneModel": "LIGHTNING LS-1",
-    "sfMake": "Arion Aircraft LLC",
-    "sfModel": "LIGHTNING LS-1",
-    "year": "2012"
-  },
-  {
-    "hash": "-925364264",
-    "labelMake": "ARION",
-    "labelModel": "LIGHTNING LS-1",
-    "oraeroModel": "LIGHTNING LS-1",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1",
-    "sfMake": "Arion Aircraft LLC",
-    "sfModel": "LIGHTNING LS-1",
-    "year": "2013"
-  },
-  {
-    "hash": "-925364263",
-    "labelMake": "ARION",
-    "labelModel": "LIGHTNING LS-1",
-    "oraeroModel": "LIGHTNING LS-1",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1",
-    "sfMake": "Arion Aircraft LLC",
-    "sfModel": "LIGHTNING LS-1",
-    "year": "2014"
-  },
-  {
-    "hash": "-925364262",
-    "labelMake": "ARION",
-    "labelModel": "LIGHTNING LS-1",
-    "oraeroModel": "LIGHTNING LS-1",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1",
-    "sfMake": "Arion Aircraft LLC",
-    "sfModel": "LIGHTNING LS-1",
-    "year": "2015"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487182",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2009,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2009"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-925364267",
+    "labelMake": "ARION",
+    "labelModel": "LIGHTNING LS-1",
+    "year": 2010,
+    "sfMake": "Arion Aircraft LLC",
+    "sfModel": "LIGHTNING LS-1",
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487204",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2010,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2010"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-925364266",
+    "labelMake": "ARION",
+    "labelModel": "LIGHTNING LS-1",
+    "year": 2011,
+    "sfMake": "Arion Aircraft LLC",
+    "sfModel": "LIGHTNING LS-1",
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487205",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2011,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2011"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-925364265",
+    "labelMake": "ARION",
+    "labelModel": "LIGHTNING LS-1",
+    "year": 2012,
+    "sfMake": "Arion Aircraft LLC",
+    "sfModel": "LIGHTNING LS-1",
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487206",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2012,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2012"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-925364264",
+    "labelMake": "ARION",
+    "labelModel": "LIGHTNING LS-1",
+    "year": 2013,
+    "sfMake": "Arion Aircraft LLC",
+    "sfModel": "LIGHTNING LS-1",
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487207",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2013,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2013"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-925364263",
+    "labelMake": "ARION",
+    "labelModel": "LIGHTNING LS-1",
+    "year": 2014,
+    "sfMake": "Arion Aircraft LLC",
+    "sfModel": "LIGHTNING LS-1",
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487208",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2014,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2014"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-925364262",
+    "labelMake": "ARION",
+    "labelModel": "LIGHTNING LS-1",
+    "year": 2015,
+    "sfMake": "Arion Aircraft LLC",
+    "sfModel": "LIGHTNING LS-1",
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487209",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2015,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2015"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487210",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2016,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2016"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487211",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2017,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2017"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487212",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2018,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2018"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487213",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2019,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2019"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487235",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2020,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2020"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487236",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2021,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2021"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487237",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2022,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2022"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487238",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2023,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2023"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1163487239",
     "labelMake": "ARION",
     "labelModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
-    "oraeroMake": "ARION",
-    "iatMake": "ARION",
-    "iatModel": "LIGHTNING LS-1  (E-LSA)",
-    "rokstoneMake": "ARION",
-    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "year": 2024,
     "sfMake": "Arion Aircraft LLC",
     "sfModel": "LIGHTNING LS-1  (E-LSA)",
-    "year": "2024"
+    "iatMake": "ARION",
+    "iatModel": "LIGHTNING LS-1  (E-LSA)",
+    "oraeroMake": "ARION",
+    "oraeroModel": "LIGHTNING LS-1  (E-LSA)",
+    "rokstoneMake": "ARION",
+    "rokstoneModel": "LIGHTNING LS-1  (E-LSA)",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "ARION",
+        "providerModel": "LIGHTNING LS-1  (E-LSA)",
+        "isActive": true
+      }
+    ]
   }
 ]

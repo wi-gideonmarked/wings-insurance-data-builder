@@ -3,462 +3,1320 @@
     "hash": "556879855",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-1 Yankee Clipper",
-    "oraeroModel": "AA-1 Yankee Clipper",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1 Yankee Clipper",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1 Yankee Clipper",
+    "year": 1968,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-1 Yankee Clipper",
-    "year": "1968"
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1 Yankee Clipper",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1 Yankee Clipper",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1 Yankee Clipper",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "556879856",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-1 Yankee Clipper",
-    "oraeroModel": "AA-1 Yankee Clipper",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1 Yankee Clipper",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1 Yankee Clipper",
+    "year": 1969,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-1 Yankee Clipper",
-    "year": "1969"
-  },
-  {
-    "hash": "556879878",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1 Yankee Clipper",
-    "oraeroModel": "AA-1 Yankee Clipper",
-    "oraeroMake": "GRUMMAN AMERICAN",
     "iatMake": "GRUMMAN AMERICAN",
     "iatModel": "AA-1 Yankee Clipper",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1 Yankee Clipper",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1 Yankee Clipper",
-    "year": "1970"
-  },
-  {
-    "hash": "556879879",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1 Yankee Clipper",
-    "oraeroModel": "AA-1 Yankee Clipper",
     "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1 Yankee Clipper",
+    "oraeroModel": "AA-1 Yankee Clipper",
     "rokstoneMake": "GRUMMAN AMERICAN",
     "rokstoneModel": "AA-1 Yankee Clipper",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1 Yankee Clipper",
-    "year": "1971"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-563048694",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-1A Trainer",
-    "oraeroModel": "AA-1A Trainer",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1A Trainer",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1A Trainer",
+    "year": 1970,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-1A Trainer",
-    "year": "1970"
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1A Trainer",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1A Trainer",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1A Trainer",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1A Trainer",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1A Trainer",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1A Trainer",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "556879878",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-1 Yankee Clipper",
+    "year": 1970,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-1 Yankee Clipper",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1 Yankee Clipper",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1 Yankee Clipper",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1 Yankee Clipper",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-563048693",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-1A Trainer",
-    "oraeroModel": "AA-1A Trainer",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1A Trainer",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1A Trainer",
+    "year": 1971,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-1A Trainer",
-    "year": "1971"
-  },
-  {
-    "hash": "-563048692",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1A Trainer",
-    "oraeroModel": "AA-1A Trainer",
-    "oraeroMake": "GRUMMAN AMERICAN",
     "iatMake": "GRUMMAN AMERICAN",
     "iatModel": "AA-1A Trainer",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1A Trainer",
     "rokstoneMake": "GRUMMAN AMERICAN",
     "rokstoneModel": "AA-1A Trainer",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1A Trainer",
-    "year": "1972"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1A Trainer",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1A Trainer",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1A Trainer",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "-529828085",
+    "hash": "556879879",
     "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1B Trainer/TR-2",
-    "oraeroModel": "AA-1B Trainer/TR-2",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1B Trainer/TR-2",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1B Trainer/TR-2",
+    "labelModel": "AA-1 Yankee Clipper",
+    "year": 1971,
     "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1B Trainer/TR-2",
-    "year": "1972"
-  },
-  {
-    "hash": "-529828084",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1B Trainer/TR-2",
-    "oraeroModel": "AA-1B Trainer/TR-2",
-    "oraeroMake": "GRUMMAN AMERICAN",
+    "sfModel": "AA-1 Yankee Clipper",
     "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1B Trainer/TR-2",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1B Trainer/TR-2",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1B Trainer/TR-2",
-    "year": "1973"
-  },
-  {
-    "hash": "-529828083",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1B Trainer/TR-2",
-    "oraeroModel": "AA-1B Trainer/TR-2",
+    "iatModel": "AA-1 Yankee Clipper",
     "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1B Trainer/TR-2",
+    "oraeroModel": "AA-1 Yankee Clipper",
     "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1B Trainer/TR-2",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1B Trainer/TR-2",
-    "year": "1974"
-  },
-  {
-    "hash": "-529828082",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1B Trainer/TR-2",
-    "oraeroModel": "AA-1B Trainer/TR-2",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1B Trainer/TR-2",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1B Trainer/TR-2",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1B Trainer/TR-2",
-    "year": "1975"
-  },
-  {
-    "hash": "-529828081",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1B Trainer/TR-2",
-    "oraeroModel": "AA-1B Trainer/TR-2",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1B Trainer/TR-2",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1B Trainer/TR-2",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1B Trainer/TR-2",
-    "year": "1976"
-  },
-  {
-    "hash": "-313804622",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1C Lynx/T-Cat",
-    "oraeroModel": "AA-1C Lynx/T-Cat",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1C Lynx/T-Cat",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1C Lynx/T-Cat",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1C Lynx/T-Cat",
-    "year": "1972"
-  },
-  {
-    "hash": "-313804618",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1C Lynx/T-Cat",
-    "oraeroModel": "AA-1C Lynx/T-Cat",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1C Lynx/T-Cat",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1C Lynx/T-Cat",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1C Lynx/T-Cat",
-    "year": "1976"
-  },
-  {
-    "hash": "-313804617",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1C Lynx/T-Cat",
-    "oraeroModel": "AA-1C Lynx/T-Cat",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1C Lynx/T-Cat",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1C Lynx/T-Cat",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1C Lynx/T-Cat",
-    "year": "1977"
-  },
-  {
-    "hash": "-313804616",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-1C Lynx/T-Cat",
-    "oraeroModel": "AA-1C Lynx/T-Cat",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-1C Lynx/T-Cat",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-1C Lynx/T-Cat",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-1C Lynx/T-Cat",
-    "year": "1978"
+    "rokstoneModel": "AA-1 Yankee Clipper",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1 Yankee Clipper",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1856907560",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-5 Traveler",
-    "oraeroModel": "AA-5 Traveler",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5 Traveler",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5 Traveler",
+    "year": 1971,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-5 Traveler",
-    "year": "1971"
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5 Traveler",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5 Traveler",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5 Traveler",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-563048692",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-1A Trainer",
+    "year": 1972,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-1A Trainer",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1A Trainer",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1A Trainer",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1A Trainer",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1A Trainer",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1A Trainer",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1A Trainer",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-529828085",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-1B Trainer/TR-2",
+    "year": 1972,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-1B Trainer/TR-2",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1B Trainer/TR-2",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1B Trainer/TR-2",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1B Trainer/TR-2",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-313804622",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-1C Lynx/T-Cat",
+    "year": 1972,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-1C Lynx/T-Cat",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1C Lynx/T-Cat",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1C Lynx/T-Cat",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1C Lynx/T-Cat",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1856907559",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-5 Traveler",
-    "oraeroModel": "AA-5 Traveler",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5 Traveler",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5 Traveler",
+    "year": 1972,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-5 Traveler",
-    "year": "1972"
-  },
-  {
-    "hash": "-1856907558",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-5 Traveler",
-    "oraeroModel": "AA-5 Traveler",
-    "oraeroMake": "GRUMMAN AMERICAN",
     "iatMake": "GRUMMAN AMERICAN",
     "iatModel": "AA-5 Traveler",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5 Traveler",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-5 Traveler",
-    "year": "1973"
-  },
-  {
-    "hash": "-1856907557",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-5 Traveler",
+    "oraeroMake": "GRUMMAN AMERICAN",
     "oraeroModel": "AA-5 Traveler",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5 Traveler",
     "rokstoneMake": "GRUMMAN AMERICAN",
     "rokstoneModel": "AA-5 Traveler",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-5 Traveler",
-    "year": "1974"
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "-1856907556",
+    "hash": "-529828084",
     "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-5 Traveler",
-    "oraeroModel": "AA-5 Traveler",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5 Traveler",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5 Traveler",
+    "labelModel": "AA-1B Trainer/TR-2",
+    "year": 1973,
     "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-5 Traveler",
-    "year": "1975"
-  },
-  {
-    "hash": "-546600436",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-5A Cheetah",
-    "oraeroModel": "AA-5A Cheetah",
-    "oraeroMake": "GRUMMAN AMERICAN",
+    "sfModel": "AA-1B Trainer/TR-2",
     "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5A Cheetah",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5A Cheetah",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-5A Cheetah",
-    "year": "1975"
-  },
-  {
-    "hash": "-546600435",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-5A Cheetah",
-    "oraeroModel": "AA-5A Cheetah",
+    "iatModel": "AA-1B Trainer/TR-2",
     "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5A Cheetah",
+    "oraeroModel": "AA-1B Trainer/TR-2",
     "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5A Cheetah",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-5A Cheetah",
-    "year": "1976"
-  },
-  {
-    "hash": "-546600434",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-5A Cheetah",
-    "oraeroModel": "AA-5A Cheetah",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5A Cheetah",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5A Cheetah",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-5A Cheetah",
-    "year": "1977"
-  },
-  {
-    "hash": "-546600433",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-5A Cheetah",
-    "oraeroModel": "AA-5A Cheetah",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5A Cheetah",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5A Cheetah",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-5A Cheetah",
-    "year": "1978"
-  },
-  {
-    "hash": "-546600432",
-    "labelMake": "GRUMMAN AMERICAN",
-    "labelModel": "AA-5A Cheetah",
-    "oraeroModel": "AA-5A Cheetah",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5A Cheetah",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5A Cheetah",
-    "sfMake": "Grumman American AVN. CORP.",
-    "sfModel": "AA-5A Cheetah",
-    "year": "1979"
+    "rokstoneModel": "AA-1B Trainer/TR-2",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1340507308",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-5B Tiger",
-    "oraeroModel": "AA-5B Tiger",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5B Tiger",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5B Tiger",
+    "year": 1973,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-5B Tiger",
-    "year": "1973"
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5B Tiger",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5B Tiger",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5B Tiger",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1856907558",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-5 Traveler",
+    "year": 1973,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-5 Traveler",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5 Traveler",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5 Traveler",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5 Traveler",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-529828083",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-1B Trainer/TR-2",
+    "year": 1974,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-1B Trainer/TR-2",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1B Trainer/TR-2",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1B Trainer/TR-2",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1B Trainer/TR-2",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1340507307",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-5B Tiger",
-    "oraeroModel": "AA-5B Tiger",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5B Tiger",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5B Tiger",
+    "year": 1974,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-5B Tiger",
-    "year": "1974"
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5B Tiger",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5B Tiger",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5B Tiger",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1856907557",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-5 Traveler",
+    "year": 1974,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-5 Traveler",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5 Traveler",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5 Traveler",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5 Traveler",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-529828082",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-1B Trainer/TR-2",
+    "year": 1975,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-1B Trainer/TR-2",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1B Trainer/TR-2",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1B Trainer/TR-2",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1B Trainer/TR-2",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-546600436",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-5A Cheetah",
+    "year": 1975,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-5A Cheetah",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5A Cheetah",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5A Cheetah",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5A Cheetah",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1340507306",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-5B Tiger",
-    "oraeroModel": "AA-5B Tiger",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5B Tiger",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5B Tiger",
+    "year": 1975,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-5B Tiger",
-    "year": "1975"
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5B Tiger",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5B Tiger",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5B Tiger",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1856907556",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-5 Traveler",
+    "year": 1975,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-5 Traveler",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5 Traveler",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5 Traveler",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5 Traveler",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5 Traveler",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-529828081",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-1B Trainer/TR-2",
+    "year": 1976,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-1B Trainer/TR-2",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1B Trainer/TR-2",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1B Trainer/TR-2",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1B Trainer/TR-2",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1B Trainer/TR-2",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-313804618",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-1C Lynx/T-Cat",
+    "year": 1976,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-1C Lynx/T-Cat",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1C Lynx/T-Cat",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1C Lynx/T-Cat",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1C Lynx/T-Cat",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-546600435",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-5A Cheetah",
+    "year": 1976,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-5A Cheetah",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5A Cheetah",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5A Cheetah",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5A Cheetah",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1340507305",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-5B Tiger",
-    "oraeroModel": "AA-5B Tiger",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5B Tiger",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5B Tiger",
+    "year": 1976,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-5B Tiger",
-    "year": "1976"
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5B Tiger",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5B Tiger",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5B Tiger",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-313804617",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-1C Lynx/T-Cat",
+    "year": 1977,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-1C Lynx/T-Cat",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1C Lynx/T-Cat",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1C Lynx/T-Cat",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1C Lynx/T-Cat",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-546600434",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-5A Cheetah",
+    "year": 1977,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-5A Cheetah",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5A Cheetah",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5A Cheetah",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5A Cheetah",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1340507304",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-5B Tiger",
-    "oraeroModel": "AA-5B Tiger",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5B Tiger",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5B Tiger",
+    "year": 1977,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-5B Tiger",
-    "year": "1977"
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5B Tiger",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5B Tiger",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5B Tiger",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-313804616",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-1C Lynx/T-Cat",
+    "year": 1978,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-1C Lynx/T-Cat",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-1C Lynx/T-Cat",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-1C Lynx/T-Cat",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-1C Lynx/T-Cat",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-1C Lynx/T-Cat",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-546600433",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-5A Cheetah",
+    "year": 1978,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-5A Cheetah",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5A Cheetah",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5A Cheetah",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5A Cheetah",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1340507303",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-5B Tiger",
-    "oraeroModel": "AA-5B Tiger",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5B Tiger",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5B Tiger",
+    "year": 1978,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-5B Tiger",
-    "year": "1978"
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5B Tiger",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5B Tiger",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5B Tiger",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-546600432",
+    "labelMake": "GRUMMAN AMERICAN",
+    "labelModel": "AA-5A Cheetah",
+    "year": 1979,
+    "sfMake": "Grumman American AVN. CORP.",
+    "sfModel": "AA-5A Cheetah",
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5A Cheetah",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5A Cheetah",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5A Cheetah",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5A Cheetah",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1340507302",
     "labelMake": "GRUMMAN AMERICAN",
     "labelModel": "AA-5B Tiger",
-    "oraeroModel": "AA-5B Tiger",
-    "oraeroMake": "GRUMMAN AMERICAN",
-    "iatMake": "GRUMMAN AMERICAN",
-    "iatModel": "AA-5B Tiger",
-    "rokstoneMake": "GRUMMAN AMERICAN",
-    "rokstoneModel": "AA-5B Tiger",
+    "year": 1979,
     "sfMake": "Grumman American AVN. CORP.",
     "sfModel": "AA-5B Tiger",
-    "year": "1979"
+    "iatMake": "GRUMMAN AMERICAN",
+    "iatModel": "AA-5B Tiger",
+    "oraeroMake": "GRUMMAN AMERICAN",
+    "oraeroModel": "AA-5B Tiger",
+    "rokstoneMake": "GRUMMAN AMERICAN",
+    "rokstoneModel": "AA-5B Tiger",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "GRUMMAN AMERICAN",
+        "providerModel": "AA-5B Tiger",
+        "isActive": true
+      }
+    ]
   }
 ]

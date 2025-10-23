@@ -1,1948 +1,2488 @@
 [
   {
-    "hash": "-747448376",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2013"
-  },
-  {
-    "hash": "-747448375",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2014"
-  },
-  {
-    "hash": "-747448374",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2015"
-  },
-  {
-    "hash": "-747448373",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2016"
-  },
-  {
-    "hash": "-747448372",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2017"
-  },
-  {
-    "hash": "-747448371",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2018"
-  },
-  {
-    "hash": "-747448370",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2019"
-  },
-  {
-    "hash": "-747448348",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2020"
-  },
-  {
-    "hash": "-747448347",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2021"
-  },
-  {
-    "hash": "-747448346",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2022"
-  },
-  {
-    "hash": "-747448345",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2023"
-  },
-  {
-    "hash": "-747448344",
-    "labelMake": "TECNAM",
-    "labelModel": "ASTORE",
-    "oraeroModel": "ASTORE",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "ASTORE",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "ASTORE",
-    "sfMake": "Tecnam",
-    "sfModel": "ASTORE",
-    "year": "2024"
-  },
-  {
-    "hash": "884896653",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2005"
-  },
-  {
-    "hash": "884896654",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2006"
-  },
-  {
-    "hash": "884896655",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2007"
-  },
-  {
-    "hash": "884896656",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2008"
-  },
-  {
-    "hash": "884896657",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2009"
-  },
-  {
-    "hash": "884896679",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2010"
-  },
-  {
-    "hash": "884896680",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2011"
-  },
-  {
-    "hash": "884896681",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2012"
-  },
-  {
-    "hash": "884896682",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2013"
-  },
-  {
-    "hash": "884896683",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2014"
-  },
-  {
-    "hash": "884896684",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2015"
-  },
-  {
-    "hash": "884896685",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2016"
-  },
-  {
-    "hash": "884896686",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2017"
-  },
-  {
-    "hash": "884896687",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2018"
-  },
-  {
-    "hash": "884896688",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2019"
-  },
-  {
-    "hash": "884896710",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2020"
-  },
-  {
-    "hash": "884896711",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2021"
-  },
-  {
-    "hash": "884896712",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2022"
-  },
-  {
-    "hash": "884896713",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2023"
-  },
-  {
-    "hash": "884896714",
-    "labelMake": "TECNAM",
-    "labelModel": "P2002 SIERRA",
-    "oraeroModel": "P2002 SIERRA",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2002 SIERRA",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2002 SIERRA",
-    "sfMake": "Tecnam",
-    "sfModel": "P2002 SIERRA",
-    "year": "2024"
-  },
-  {
-    "hash": "1168880084",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2002"
-  },
-  {
-    "hash": "1168880085",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2003"
-  },
-  {
-    "hash": "1168880086",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2004"
-  },
-  {
-    "hash": "1168880087",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2005"
-  },
-  {
-    "hash": "1168880088",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2006"
-  },
-  {
-    "hash": "1168880089",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2007"
-  },
-  {
-    "hash": "1168880090",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2008"
-  },
-  {
-    "hash": "1168880091",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2009"
-  },
-  {
-    "hash": "1168880113",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2010"
-  },
-  {
-    "hash": "1168880114",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2011"
-  },
-  {
-    "hash": "1168880115",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2012"
-  },
-  {
-    "hash": "1168880116",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2013"
-  },
-  {
-    "hash": "1168880117",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2014"
-  },
-  {
-    "hash": "1168880118",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2015"
-  },
-  {
-    "hash": "1168880119",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2016"
-  },
-  {
-    "hash": "1168880120",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2017"
-  },
-  {
-    "hash": "1168880121",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2018"
-  },
-  {
-    "hash": "1168880122",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2019"
-  },
-  {
-    "hash": "1168880144",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2020"
-  },
-  {
-    "hash": "1168880145",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2021"
-  },
-  {
-    "hash": "1168880146",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2022"
-  },
-  {
-    "hash": "1168880147",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2023"
-  },
-  {
-    "hash": "1168880148",
-    "labelMake": "TECNAM",
-    "labelModel": "P2004 BRAVO",
-    "oraeroModel": "P2004 BRAVO",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2004 BRAVO",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2004 BRAVO",
-    "sfMake": "Tecnam",
-    "sfModel": "P2004 BRAVO",
-    "year": "2024"
-  },
-  {
-    "hash": "-730964891",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2010"
-  },
-  {
-    "hash": "-730964890",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2011"
-  },
-  {
-    "hash": "-730964889",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2012"
-  },
-  {
-    "hash": "-730964888",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2013"
-  },
-  {
-    "hash": "-730964887",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2014"
-  },
-  {
-    "hash": "-730964886",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2015"
-  },
-  {
-    "hash": "-730964885",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2016"
-  },
-  {
-    "hash": "-730964884",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2017"
-  },
-  {
-    "hash": "-730964883",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2018"
-  },
-  {
-    "hash": "-730964882",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2019"
-  },
-  {
-    "hash": "-730964860",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2020"
-  },
-  {
-    "hash": "-730964859",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2021"
-  },
-  {
-    "hash": "-730964858",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2022"
-  },
-  {
-    "hash": "-730964857",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2023"
-  },
-  {
-    "hash": "-730964856",
-    "labelMake": "TECNAM",
-    "labelModel": "P2006T",
-    "oraeroModel": "P2006T",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2006T",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2006T",
-    "sfMake": "Tecnam",
-    "sfModel": "P2006T",
-    "year": "2024"
-  },
-  {
-    "hash": "1224178709",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2009"
-  },
-  {
-    "hash": "1224178731",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2010"
-  },
-  {
-    "hash": "1224178732",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2011"
-  },
-  {
-    "hash": "1224178733",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2012"
-  },
-  {
-    "hash": "1224178734",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2013"
-  },
-  {
-    "hash": "1224178735",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2014"
-  },
-  {
-    "hash": "1224178736",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2015"
-  },
-  {
-    "hash": "1224178737",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2016"
-  },
-  {
-    "hash": "1224178738",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2017"
-  },
-  {
-    "hash": "1224178739",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2018"
-  },
-  {
-    "hash": "1224178740",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2019"
-  },
-  {
-    "hash": "1224178762",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2020"
-  },
-  {
-    "hash": "1224178763",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2021"
-  },
-  {
-    "hash": "1224178764",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2022"
-  },
-  {
-    "hash": "1224178765",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2023"
-  },
-  {
-    "hash": "1224178766",
-    "labelMake": "TECNAM",
-    "labelModel": "P2008",
-    "oraeroModel": "P2008",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2008",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2008",
-    "sfMake": "Tecnam",
-    "sfModel": "P2008",
-    "year": "2024"
-  },
-  {
-    "hash": "1245419718",
-    "labelMake": "TECNAM",
-    "labelModel": "P2010",
-    "oraeroModel": "P2010",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2010",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2010",
-    "sfMake": "Tecnam",
-    "sfModel": "P2010",
-    "year": "2014"
-  },
-  {
-    "hash": "1245419719",
-    "labelMake": "TECNAM",
-    "labelModel": "P2010",
-    "oraeroModel": "P2010",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2010",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2010",
-    "sfMake": "Tecnam",
-    "sfModel": "P2010",
-    "year": "2015"
-  },
-  {
-    "hash": "1245419720",
-    "labelMake": "TECNAM",
-    "labelModel": "P2010",
-    "oraeroModel": "P2010",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2010",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2010",
-    "sfMake": "Tecnam",
-    "sfModel": "P2010",
-    "year": "2016"
-  },
-  {
-    "hash": "1245419721",
-    "labelMake": "TECNAM",
-    "labelModel": "P2010",
-    "oraeroModel": "P2010",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2010",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2010",
-    "sfMake": "Tecnam",
-    "sfModel": "P2010",
-    "year": "2017"
-  },
-  {
-    "hash": "1245419722",
-    "labelMake": "TECNAM",
-    "labelModel": "P2010",
-    "oraeroModel": "P2010",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2010",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2010",
-    "sfMake": "Tecnam",
-    "sfModel": "P2010",
-    "year": "2018"
-  },
-  {
-    "hash": "1245419723",
-    "labelMake": "TECNAM",
-    "labelModel": "P2010",
-    "oraeroModel": "P2010",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2010",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2010",
-    "sfMake": "Tecnam",
-    "sfModel": "P2010",
-    "year": "2019"
-  },
-  {
-    "hash": "1245419745",
-    "labelMake": "TECNAM",
-    "labelModel": "P2010",
-    "oraeroModel": "P2010",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2010",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2010",
-    "sfMake": "Tecnam",
-    "sfModel": "P2010",
-    "year": "2020"
-  },
-  {
-    "hash": "1245419746",
-    "labelMake": "TECNAM",
-    "labelModel": "P2010",
-    "oraeroModel": "P2010",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2010",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2010",
-    "sfMake": "Tecnam",
-    "sfModel": "P2010",
-    "year": "2021"
-  },
-  {
-    "hash": "1245419747",
-    "labelMake": "TECNAM",
-    "labelModel": "P2010",
-    "oraeroModel": "P2010",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2010",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2010",
-    "sfMake": "Tecnam",
-    "sfModel": "P2010",
-    "year": "2022"
-  },
-  {
-    "hash": "1245419748",
-    "labelMake": "TECNAM",
-    "labelModel": "P2010",
-    "oraeroModel": "P2010",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2010",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2010",
-    "sfMake": "Tecnam",
-    "sfModel": "P2010",
-    "year": "2023"
-  },
-  {
-    "hash": "1245419749",
-    "labelMake": "TECNAM",
-    "labelModel": "P2010",
-    "oraeroModel": "P2010",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P2010",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P2010",
-    "sfMake": "Tecnam",
-    "sfModel": "P2010",
-    "year": "2024"
-  },
-  {
-    "hash": "-1941693085",
-    "labelMake": "TECNAM",
+    "hash": "922300267",
+    "labelMake": "Tecnam",
     "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
+    "year": 1993,
     "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "1993"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1941693084",
-    "labelMake": "TECNAM",
+    "hash": "922300268",
+    "labelMake": "Tecnam",
     "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
+    "year": 1994,
     "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "1994"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1941693083",
-    "labelMake": "TECNAM",
+    "hash": "922300269",
+    "labelMake": "Tecnam",
     "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
+    "year": 1995,
     "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "1995"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1941693082",
-    "labelMake": "TECNAM",
+    "hash": "922300270",
+    "labelMake": "Tecnam",
     "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
+    "year": 1996,
     "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "1996"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1941693081",
-    "labelMake": "TECNAM",
+    "hash": "922300271",
+    "labelMake": "Tecnam",
     "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
+    "year": 1997,
     "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "1997"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1941693080",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "1998"
-  },
-  {
-    "hash": "-1941693079",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "1999"
-  },
-  {
-    "hash": "-1941672225",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2000"
-  },
-  {
-    "hash": "-1941672224",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2001"
-  },
-  {
-    "hash": "-1941672223",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2002"
-  },
-  {
-    "hash": "-1941672222",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2003"
-  },
-  {
-    "hash": "-1941672221",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2004"
-  },
-  {
-    "hash": "-1941672220",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2005"
-  },
-  {
-    "hash": "-1941672219",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2006"
-  },
-  {
-    "hash": "-1941672218",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2007"
-  },
-  {
-    "hash": "-1941672217",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2008"
-  },
-  {
-    "hash": "-1941672216",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2009"
-  },
-  {
-    "hash": "-1941672194",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2010"
-  },
-  {
-    "hash": "-1941672193",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2011"
-  },
-  {
-    "hash": "-1941672192",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2012"
-  },
-  {
-    "hash": "-1941672191",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2013"
-  },
-  {
-    "hash": "-1941672190",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2014"
-  },
-  {
-    "hash": "-1941672189",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2015"
-  },
-  {
-    "hash": "-1941672188",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2016"
-  },
-  {
-    "hash": "-1941672187",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2017"
-  },
-  {
-    "hash": "-1941672186",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2018"
-  },
-  {
-    "hash": "-1941672185",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2019"
-  },
-  {
-    "hash": "-1941672163",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2020"
-  },
-  {
-    "hash": "-1941672162",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2021"
-  },
-  {
-    "hash": "-1941672161",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2022"
-  },
-  {
-    "hash": "-1941672160",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2023"
-  },
-  {
-    "hash": "-1941672159",
-    "labelMake": "TECNAM",
-    "labelModel": "P92",
-    "oraeroModel": "P92",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P92",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P92",
-    "sfMake": "Tecnam",
-    "sfModel": "P92",
-    "year": "2024"
-  },
-  {
-    "hash": "-1937998997",
-    "labelMake": "TECNAM",
+    "hash": "1036816875",
+    "labelMake": "Tecnam",
     "labelModel": "P96",
-    "oraeroModel": "P96",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P96",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P96",
+    "year": 1997,
     "sfMake": "Tecnam",
-    "sfModel": "P96",
-    "year": "1997"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1937998996",
-    "labelMake": "TECNAM",
-    "labelModel": "P96",
-    "oraeroModel": "P96",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P96",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P96",
+    "hash": "922300272",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 1998,
     "sfMake": "Tecnam",
-    "sfModel": "P96",
-    "year": "1998"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1937998995",
-    "labelMake": "TECNAM",
+    "hash": "1036816876",
+    "labelMake": "Tecnam",
     "labelModel": "P96",
-    "oraeroModel": "P96",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P96",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P96",
+    "year": 1998,
     "sfMake": "Tecnam",
-    "sfModel": "P96",
-    "year": "1999"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1937978141",
-    "labelMake": "TECNAM",
-    "labelModel": "P96",
-    "oraeroModel": "P96",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P96",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P96",
+    "hash": "922300273",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 1999,
     "sfMake": "Tecnam",
-    "sfModel": "P96",
-    "year": "2000"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1937978140",
-    "labelMake": "TECNAM",
+    "hash": "1036816877",
+    "labelMake": "Tecnam",
     "labelModel": "P96",
-    "oraeroModel": "P96",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P96",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P96",
+    "year": 1999,
     "sfMake": "Tecnam",
-    "sfModel": "P96",
-    "year": "2001"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1937978139",
-    "labelMake": "TECNAM",
-    "labelModel": "P96",
-    "oraeroModel": "P96",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P96",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P96",
+    "hash": "922321127",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2000,
     "sfMake": "Tecnam",
-    "sfModel": "P96",
-    "year": "2002"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1937978138",
-    "labelMake": "TECNAM",
+    "hash": "1036837731",
+    "labelMake": "Tecnam",
     "labelModel": "P96",
-    "oraeroModel": "P96",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P96",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P96",
+    "year": 2000,
     "sfMake": "Tecnam",
-    "sfModel": "P96",
-    "year": "2003"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1937978137",
-    "labelMake": "TECNAM",
-    "labelModel": "P96",
-    "oraeroModel": "P96",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P96",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P96",
+    "hash": "922321128",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2001,
     "sfMake": "Tecnam",
-    "sfModel": "P96",
-    "year": "2004"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1937978136",
-    "labelMake": "TECNAM",
+    "hash": "1036837732",
+    "labelMake": "Tecnam",
     "labelModel": "P96",
-    "oraeroModel": "P96",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P96",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P96",
+    "year": 2001,
     "sfMake": "Tecnam",
-    "sfModel": "P96",
-    "year": "2005"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1937978135",
-    "labelMake": "TECNAM",
-    "labelModel": "P96",
-    "oraeroModel": "P96",
-    "oraeroMake": "TECNAM",
-    "iatMake": "TECNAM",
-    "iatModel": "P96",
-    "rokstoneMake": "TECNAM",
-    "rokstoneModel": "P96",
+    "hash": "272944982",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2002,
     "sfMake": "Tecnam",
-    "sfModel": "P96",
-    "year": "2006"
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "922321129",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2002,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1036837733",
+    "labelMake": "Tecnam",
+    "labelModel": "P96",
+    "year": 2002,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272944983",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2003,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "922321130",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2003,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1036837734",
+    "labelMake": "Tecnam",
+    "labelModel": "P96",
+    "year": 2003,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272944984",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2004,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "922321131",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2004,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1036837735",
+    "labelMake": "Tecnam",
+    "labelModel": "P96",
+    "year": 2004,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-637203191",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2005,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272944985",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2005,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "922321132",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2005,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1036837736",
+    "labelMake": "Tecnam",
+    "labelModel": "P96",
+    "year": 2005,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-637203190",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2006,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272944986",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2006,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "922321133",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2006,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1036837737",
+    "labelMake": "Tecnam",
+    "labelModel": "P96",
+    "year": 2006,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-637203189",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2007,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272944987",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2007,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "922321134",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2007,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "528800360",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002",
+    "year": 2008,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2002",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2002",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203188",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2008,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2002",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2002",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "586058662",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004",
+    "year": 2008,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2004",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2004",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "272944988",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2008,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2004",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2004",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "700575266",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2008,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321135",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2008,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "528800361",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002",
+    "year": 2009,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2002",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2002",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203187",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2009,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2002",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2002",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "586058663",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004",
+    "year": 2009,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2004",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2004",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "272944989",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2009,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2004",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2004",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "700575267",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2009,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321136",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2009,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "528800383",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002",
+    "year": 2010,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2002",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2002",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203165",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2010,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2002",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2002",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "586058685",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004",
+    "year": 2010,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2004",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2004",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "272945011",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2010,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2004",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2004",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-420031899",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2010,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575289",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2010,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321158",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2010,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "528800384",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002",
+    "year": 2011,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2002",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2002",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203164",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2011,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2002",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2002",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "586058686",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004",
+    "year": 2011,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2004",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2004",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "272945012",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2011,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2004",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2004",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-420031898",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2011,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575290",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2011,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321159",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2011,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "528800385",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002",
+    "year": 2012,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2002",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2002",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203163",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2012,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2002",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2002",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "586058687",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004",
+    "year": 2012,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2004",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2004",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "272945013",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2012,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2004",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2004",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-420031897",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2012,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575291",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2012,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321160",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2012,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650136",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2013,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931020024",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2013,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203162",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2013,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945014",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2013,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031896",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2013,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575292",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2013,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321161",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2013,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650135",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2014,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931020023",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2014,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203161",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2014,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945015",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2014,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031895",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2014,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575293",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2014,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045766",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2014,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321162",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2014,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650134",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2015,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931020022",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2015,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203160",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2015,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945016",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2015,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031894",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2015,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575294",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2015,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045767",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2015,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321163",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2015,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650133",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2016,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931020021",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2016,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203159",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2016,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945017",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2016,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031893",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2016,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575295",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2016,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045768",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2016,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321164",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2016,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650132",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2017,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931020020",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2017,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203158",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2017,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945018",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2017,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031892",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2017,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575296",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2017,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045769",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2017,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321165",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2017,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650131",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2018,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931020019",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2018,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203157",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2018,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945019",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2018,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031891",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2018,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575297",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2018,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045770",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2018,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321166",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2018,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650130",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2019,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931020018",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2019,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203156",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2019,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945020",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2019,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031890",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2019,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575298",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2019,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045771",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2019,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321167",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2019,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650108",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2020,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931019996",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2020,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203134",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2020,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945042",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2020,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031868",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2020,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575320",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2020,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045793",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2020,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321189",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2020,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650107",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2021,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931019995",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2021,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203133",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2021,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945043",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2021,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031867",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2021,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575321",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2021,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045794",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2021,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321190",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2021,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650106",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2022,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931019994",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2022,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203132",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2022,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945044",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2022,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031866",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2022,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575322",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2022,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045795",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2022,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321191",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2022,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650105",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2023,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931019993",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2023,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203131",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2023,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945045",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2023,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031865",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2023,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575323",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2023,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045796",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2023,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321192",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2023,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P92",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P92",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1446650104",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2024,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-931019992",
+    "labelMake": "Tecnam",
+    "labelModel": "ASTORE",
+    "year": 2024,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-637203130",
+    "labelMake": "Tecnam",
+    "labelModel": "P2002 SIERRA",
+    "year": 2024,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "272945046",
+    "labelMake": "Tecnam",
+    "labelModel": "P2004 BRAVO",
+    "year": 2024,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-420031864",
+    "labelMake": "Tecnam",
+    "labelModel": "P2006T",
+    "year": 2024,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "700575324",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2024,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045797",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2024,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "922321193",
+    "labelMake": "Tecnam",
+    "labelModel": "P92",
+    "year": 2024,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1446650103",
+    "labelMake": "Tecnam",
+    "labelModel": "Astore",
+    "year": 2025,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "Astore",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "Astore",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "700575325",
+    "labelMake": "Tecnam",
+    "labelModel": "P2008",
+    "year": 2025,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2008",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2008",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1359045798",
+    "labelMake": "Tecnam",
+    "labelModel": "P2010",
+    "year": 2025,
+    "sfMake": "Tecnam",
+    "sfModel": "",
+    "rokstoneMake": "Tecnam",
+    "rokstoneModel": "P2010",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Tecnam",
+        "providerModel": "P2010",
+        "isActive": true
+      }
+    ]
   }
 ]

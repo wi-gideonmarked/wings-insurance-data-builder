@@ -3,168 +3,480 @@
     "hash": "-1405064357",
     "labelMake": "EVEKTOR-AEROTECHNIK",
     "labelModel": "SPORTSTAR",
-    "oraeroModel": "SPORTSTAR",
-    "oraeroMake": "EVEKTOR-AEROTECHNIK",
-    "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR",
-    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR",
+    "year": 2003,
     "sfMake": "Evektor-Aerotechnik AS",
     "sfModel": "SPORTSTAR",
-    "year": "2003"
+    "iatMake": "EVEKTOR-AEROTECHNIK",
+    "iatModel": "SPORTSTAR",
+    "oraeroMake": "EVEKTOR-AEROTECHNIK",
+    "oraeroModel": "SPORTSTAR",
+    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
+    "rokstoneModel": "SPORTSTAR",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1405064355",
     "labelMake": "EVEKTOR-AEROTECHNIK",
     "labelModel": "SPORTSTAR",
-    "oraeroModel": "SPORTSTAR",
-    "oraeroMake": "EVEKTOR-AEROTECHNIK",
-    "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR",
-    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR",
+    "year": 2005,
     "sfMake": "Evektor-Aerotechnik AS",
     "sfModel": "SPORTSTAR",
-    "year": "2005"
+    "iatMake": "EVEKTOR-AEROTECHNIK",
+    "iatModel": "SPORTSTAR",
+    "oraeroMake": "EVEKTOR-AEROTECHNIK",
+    "oraeroModel": "SPORTSTAR",
+    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
+    "rokstoneModel": "SPORTSTAR",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1405064354",
     "labelMake": "EVEKTOR-AEROTECHNIK",
     "labelModel": "SPORTSTAR",
-    "oraeroModel": "SPORTSTAR",
-    "oraeroMake": "EVEKTOR-AEROTECHNIK",
-    "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR",
-    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR",
+    "year": 2006,
     "sfMake": "Evektor-Aerotechnik AS",
     "sfModel": "SPORTSTAR",
-    "year": "2006"
+    "iatMake": "EVEKTOR-AEROTECHNIK",
+    "iatModel": "SPORTSTAR",
+    "oraeroMake": "EVEKTOR-AEROTECHNIK",
+    "oraeroModel": "SPORTSTAR",
+    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
+    "rokstoneModel": "SPORTSTAR",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1405064353",
     "labelMake": "EVEKTOR-AEROTECHNIK",
     "labelModel": "SPORTSTAR",
-    "oraeroModel": "SPORTSTAR",
-    "oraeroMake": "EVEKTOR-AEROTECHNIK",
-    "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR",
-    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR",
+    "year": 2007,
     "sfMake": "Evektor-Aerotechnik AS",
     "sfModel": "SPORTSTAR",
-    "year": "2007"
+    "iatMake": "EVEKTOR-AEROTECHNIK",
+    "iatModel": "SPORTSTAR",
+    "oraeroMake": "EVEKTOR-AEROTECHNIK",
+    "oraeroModel": "SPORTSTAR",
+    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
+    "rokstoneModel": "SPORTSTAR",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1405064352",
     "labelMake": "EVEKTOR-AEROTECHNIK",
     "labelModel": "SPORTSTAR",
-    "oraeroModel": "SPORTSTAR",
-    "oraeroMake": "EVEKTOR-AEROTECHNIK",
-    "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR",
-    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR",
+    "year": 2008,
     "sfMake": "Evektor-Aerotechnik AS",
     "sfModel": "SPORTSTAR",
-    "year": "2008"
-  },
-  {
-    "hash": "1148719493",
-    "labelMake": "EVEKTOR-AEROTECHNIK",
-    "labelModel": "SPORTSTAR MAX",
-    "oraeroModel": "SPORTSTAR MAX",
-    "oraeroMake": "EVEKTOR-AEROTECHNIK",
     "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR MAX",
-    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR MAX",
-    "sfMake": "Evektor-Aerotechnik AS",
-    "sfModel": "SPORTSTAR MAX",
-    "year": "2009"
-  },
-  {
-    "hash": "1148719515",
-    "labelMake": "EVEKTOR-AEROTECHNIK",
-    "labelModel": "SPORTSTAR MAX",
-    "oraeroModel": "SPORTSTAR MAX",
+    "iatModel": "SPORTSTAR",
     "oraeroMake": "EVEKTOR-AEROTECHNIK",
-    "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR MAX",
+    "oraeroModel": "SPORTSTAR",
     "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR MAX",
-    "sfMake": "Evektor-Aerotechnik AS",
-    "sfModel": "SPORTSTAR MAX",
-    "year": "2010"
-  },
-  {
-    "hash": "1148719516",
-    "labelMake": "EVEKTOR-AEROTECHNIK",
-    "labelModel": "SPORTSTAR MAX",
-    "oraeroModel": "SPORTSTAR MAX",
-    "oraeroMake": "EVEKTOR-AEROTECHNIK",
-    "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR MAX",
-    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR MAX",
-    "sfMake": "Evektor-Aerotechnik AS",
-    "sfModel": "SPORTSTAR MAX",
-    "year": "2011"
-  },
-  {
-    "hash": "1148719517",
-    "labelMake": "EVEKTOR-AEROTECHNIK",
-    "labelModel": "SPORTSTAR MAX",
-    "oraeroModel": "SPORTSTAR MAX",
-    "oraeroMake": "EVEKTOR-AEROTECHNIK",
-    "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR MAX",
-    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR MAX",
-    "sfMake": "Evektor-Aerotechnik AS",
-    "sfModel": "SPORTSTAR MAX",
-    "year": "2012"
-  },
-  {
-    "hash": "1148719518",
-    "labelMake": "EVEKTOR-AEROTECHNIK",
-    "labelModel": "SPORTSTAR MAX",
-    "oraeroModel": "SPORTSTAR MAX",
-    "oraeroMake": "EVEKTOR-AEROTECHNIK",
-    "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR MAX",
-    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR MAX",
-    "sfMake": "Evektor-Aerotechnik AS",
-    "sfModel": "SPORTSTAR MAX",
-    "year": "2013"
-  },
-  {
-    "hash": "1148719519",
-    "labelMake": "EVEKTOR-AEROTECHNIK",
-    "labelModel": "SPORTSTAR MAX",
-    "oraeroModel": "SPORTSTAR MAX",
-    "oraeroMake": "EVEKTOR-AEROTECHNIK",
-    "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR MAX",
-    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR MAX",
-    "sfMake": "Evektor-Aerotechnik AS",
-    "sfModel": "SPORTSTAR MAX",
-    "year": "2014"
+    "rokstoneModel": "SPORTSTAR",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-1583260187",
     "labelMake": "EVEKTOR-AEROTECHNIK",
     "labelModel": "SPORTSTAR SL",
-    "oraeroModel": "SPORTSTAR SL",
-    "oraeroMake": "EVEKTOR-AEROTECHNIK",
-    "iatMake": "EVEKTOR-AEROTECHNIK",
-    "iatModel": "SPORTSTAR SL",
-    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
-    "rokstoneModel": "SPORTSTAR SL",
+    "year": 2008,
     "sfMake": "Evektor-Aerotechnik AS",
     "sfModel": "SPORTSTAR SL",
-    "year": "2008"
+    "iatMake": "EVEKTOR-AEROTECHNIK",
+    "iatModel": "SPORTSTAR SL",
+    "oraeroMake": "EVEKTOR-AEROTECHNIK",
+    "oraeroModel": "SPORTSTAR SL",
+    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
+    "rokstoneModel": "SPORTSTAR SL",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR SL",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR SL",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR SL",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1148719493",
+    "labelMake": "EVEKTOR-AEROTECHNIK",
+    "labelModel": "SPORTSTAR MAX",
+    "year": 2009,
+    "sfMake": "Evektor-Aerotechnik AS",
+    "sfModel": "SPORTSTAR MAX",
+    "iatMake": "EVEKTOR-AEROTECHNIK",
+    "iatModel": "SPORTSTAR MAX",
+    "oraeroMake": "EVEKTOR-AEROTECHNIK",
+    "oraeroModel": "SPORTSTAR MAX",
+    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
+    "rokstoneModel": "SPORTSTAR MAX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1148719515",
+    "labelMake": "EVEKTOR-AEROTECHNIK",
+    "labelModel": "SPORTSTAR MAX",
+    "year": 2010,
+    "sfMake": "Evektor-Aerotechnik AS",
+    "sfModel": "SPORTSTAR MAX",
+    "iatMake": "EVEKTOR-AEROTECHNIK",
+    "iatModel": "SPORTSTAR MAX",
+    "oraeroMake": "EVEKTOR-AEROTECHNIK",
+    "oraeroModel": "SPORTSTAR MAX",
+    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
+    "rokstoneModel": "SPORTSTAR MAX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1148719516",
+    "labelMake": "EVEKTOR-AEROTECHNIK",
+    "labelModel": "SPORTSTAR MAX",
+    "year": 2011,
+    "sfMake": "Evektor-Aerotechnik AS",
+    "sfModel": "SPORTSTAR MAX",
+    "iatMake": "EVEKTOR-AEROTECHNIK",
+    "iatModel": "SPORTSTAR MAX",
+    "oraeroMake": "EVEKTOR-AEROTECHNIK",
+    "oraeroModel": "SPORTSTAR MAX",
+    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
+    "rokstoneModel": "SPORTSTAR MAX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1148719517",
+    "labelMake": "EVEKTOR-AEROTECHNIK",
+    "labelModel": "SPORTSTAR MAX",
+    "year": 2012,
+    "sfMake": "Evektor-Aerotechnik AS",
+    "sfModel": "SPORTSTAR MAX",
+    "iatMake": "EVEKTOR-AEROTECHNIK",
+    "iatModel": "SPORTSTAR MAX",
+    "oraeroMake": "EVEKTOR-AEROTECHNIK",
+    "oraeroModel": "SPORTSTAR MAX",
+    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
+    "rokstoneModel": "SPORTSTAR MAX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1148719518",
+    "labelMake": "EVEKTOR-AEROTECHNIK",
+    "labelModel": "SPORTSTAR MAX",
+    "year": 2013,
+    "sfMake": "Evektor-Aerotechnik AS",
+    "sfModel": "SPORTSTAR MAX",
+    "iatMake": "EVEKTOR-AEROTECHNIK",
+    "iatModel": "SPORTSTAR MAX",
+    "oraeroMake": "EVEKTOR-AEROTECHNIK",
+    "oraeroModel": "SPORTSTAR MAX",
+    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
+    "rokstoneModel": "SPORTSTAR MAX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1148719519",
+    "labelMake": "EVEKTOR-AEROTECHNIK",
+    "labelModel": "SPORTSTAR MAX",
+    "year": 2014,
+    "sfMake": "Evektor-Aerotechnik AS",
+    "sfModel": "SPORTSTAR MAX",
+    "iatMake": "EVEKTOR-AEROTECHNIK",
+    "iatModel": "SPORTSTAR MAX",
+    "oraeroMake": "EVEKTOR-AEROTECHNIK",
+    "oraeroModel": "SPORTSTAR MAX",
+    "rokstoneMake": "EVEKTOR-AEROTECHNIK",
+    "rokstoneModel": "SPORTSTAR MAX",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "EVEKTOR-AEROTECHNIK",
+        "providerModel": "SPORTSTAR MAX",
+        "isActive": true
+      }
+    ]
   }
 ]

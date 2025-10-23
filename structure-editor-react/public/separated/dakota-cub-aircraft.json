@@ -3,350 +3,1000 @@
     "hash": "-546405118",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2000,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2000"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405117",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2001,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2001"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405116",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2002,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2002"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405115",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2003,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2003"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405114",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2004,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2004"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405113",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2005,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2005"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405112",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2006,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2006"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405111",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2007,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2007"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405110",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2008,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2008"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405109",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2009,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2009"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405087",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2010,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2010"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405086",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2011,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2011"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405085",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2012,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2012"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405084",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2013,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2013"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405083",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2014,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2014"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405082",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2015,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2015"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405081",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2016,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2016"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405080",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2017,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2017"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405079",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2018,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2018"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405078",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2019,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2019"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405056",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2020,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2020"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405055",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2021,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2021"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405054",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2022,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2022"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405053",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2023,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2023"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-546405052",
     "labelMake": "DAKOTA CUB AIRCRAFT",
     "labelModel": "SUPER 18",
-    "oraeroModel": "SUPER 18",
-    "oraeroMake": "DAKOTA CUB AIRCRAFT",
-    "iatMake": "DAKOTA CUB AIRCRAFT",
-    "iatModel": "SUPER 18",
-    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
-    "rokstoneModel": "SUPER 18",
+    "year": 2024,
     "sfMake": "Not correlation to SF",
     "sfModel": "SUPER 18",
-    "year": "2024"
+    "iatMake": "DAKOTA CUB AIRCRAFT",
+    "iatModel": "SUPER 18",
+    "oraeroMake": "DAKOTA CUB AIRCRAFT",
+    "oraeroModel": "SUPER 18",
+    "rokstoneMake": "DAKOTA CUB AIRCRAFT",
+    "rokstoneModel": "SUPER 18",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAKOTA CUB AIRCRAFT",
+        "providerModel": "SUPER 18",
+        "isActive": true
+      }
+    ]
   }
 ]

@@ -3,28 +3,80 @@
     "hash": "1288443033",
     "labelMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
     "labelModel": "108-2",
-    "oraeroModel": "108-2",
-    "oraeroMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
-    "iatMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
-    "iatModel": "108-2",
-    "rokstoneMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
-    "rokstoneModel": "108-2",
+    "year": 1941,
     "sfMake": "Stinson",
     "sfModel": "108-2",
-    "year": "1941"
+    "iatMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+    "iatModel": "108-2",
+    "oraeroMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+    "oraeroModel": "108-2",
+    "rokstoneMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+    "rokstoneModel": "108-2",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+        "providerModel": "108-2",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+        "providerModel": "108-2",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+        "providerModel": "108-2",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "1288443039",
     "labelMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
     "labelModel": "108-2",
-    "oraeroModel": "108-2",
-    "oraeroMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
-    "iatMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
-    "iatModel": "108-2",
-    "rokstoneMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
-    "rokstoneModel": "108-2",
+    "year": 1947,
     "sfMake": "Stinson",
     "sfModel": "108-2",
-    "year": "1947"
+    "iatMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+    "iatModel": "108-2",
+    "oraeroMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+    "oraeroModel": "108-2",
+    "rokstoneMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+    "rokstoneModel": "108-2",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+        "providerModel": "108-2",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+        "providerModel": "108-2",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "CONSOLIDATED AIRCRAFT CORP / STINSON",
+        "providerModel": "108-2",
+        "isActive": true
+      }
+    ]
   }
 ]

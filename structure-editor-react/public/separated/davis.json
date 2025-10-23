@@ -3,42 +3,120 @@
     "hash": "-480160994",
     "labelMake": "DAVIS",
     "labelModel": "D-1-W",
-    "oraeroModel": "D-1-W",
-    "oraeroMake": "DAVIS",
-    "iatMake": "DAVIS",
-    "iatModel": "D-1-W",
-    "rokstoneMake": "DAVIS",
-    "rokstoneModel": "D-1-W",
+    "year": 1929,
     "sfMake": "Not correlation to SF",
     "sfModel": "D-1-W",
-    "year": "1929"
+    "iatMake": "DAVIS",
+    "iatModel": "D-1-W",
+    "oraeroMake": "DAVIS",
+    "oraeroModel": "D-1-W",
+    "rokstoneMake": "DAVIS",
+    "rokstoneModel": "D-1-W",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAVIS",
+        "providerModel": "D-1-W",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAVIS",
+        "providerModel": "D-1-W",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAVIS",
+        "providerModel": "D-1-W",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-480160969",
     "labelMake": "DAVIS",
     "labelModel": "D-1-W",
-    "oraeroModel": "D-1-W",
-    "oraeroMake": "DAVIS",
-    "iatMake": "DAVIS",
-    "iatModel": "D-1-W",
-    "rokstoneMake": "DAVIS",
-    "rokstoneModel": "D-1-W",
+    "year": 1933,
     "sfMake": "Not correlation to SF",
     "sfModel": "D-1-W",
-    "year": "1933"
+    "iatMake": "DAVIS",
+    "iatModel": "D-1-W",
+    "oraeroMake": "DAVIS",
+    "oraeroModel": "D-1-W",
+    "rokstoneMake": "DAVIS",
+    "rokstoneModel": "D-1-W",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAVIS",
+        "providerModel": "D-1-W",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAVIS",
+        "providerModel": "D-1-W",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAVIS",
+        "providerModel": "D-1-W",
+        "isActive": true
+      }
+    ]
   },
   {
     "hash": "-480160967",
     "labelMake": "DAVIS",
     "labelModel": "D-1-W",
-    "oraeroModel": "D-1-W",
-    "oraeroMake": "DAVIS",
-    "iatMake": "DAVIS",
-    "iatModel": "D-1-W",
-    "rokstoneMake": "DAVIS",
-    "rokstoneModel": "D-1-W",
+    "year": 1935,
     "sfMake": "Not correlation to SF",
     "sfModel": "D-1-W",
-    "year": "1935"
+    "iatMake": "DAVIS",
+    "iatModel": "D-1-W",
+    "oraeroMake": "DAVIS",
+    "oraeroModel": "D-1-W",
+    "rokstoneMake": "DAVIS",
+    "rokstoneModel": "D-1-W",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "DAVIS",
+        "providerModel": "D-1-W",
+        "isActive": true
+      },
+      {
+        "providerId": 3,
+        "providerCode": "oraero",
+        "providerName": "Oraero",
+        "providerMake": "DAVIS",
+        "providerModel": "D-1-W",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "DAVIS",
+        "providerModel": "D-1-W",
+        "isActive": true
+      }
+    ]
   }
 ]

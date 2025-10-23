@@ -1,1178 +1,3701 @@
 [
   {
-    "hash": "1446850779",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "1945"
-  },
-  {
-    "hash": "1446850780",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "1946"
-  },
-  {
-    "hash": "1446850781",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "1947"
-  },
-  {
-    "hash": "1446850782",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "1948"
-  },
-  {
-    "hash": "1446850783",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "1949"
-  },
-  {
-    "hash": "1446850805",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "1950"
-  },
-  {
-    "hash": "1446850806",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "1951"
-  },
-  {
-    "hash": "1446850807",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "1952"
-  },
-  {
-    "hash": "1446850808",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "1953"
-  },
-  {
-    "hash": "1446850809",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "1954"
-  },
-  {
-    "hash": "1446850811",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "1956"
-  },
-  {
-    "hash": "1446871794",
-    "labelMake": "AERONCA",
-    "labelModel": "11AC Chief",
-    "oraeroModel": "11AC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11AC",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11AC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11AC Chief",
-    "year": "2002"
-  },
-  {
-    "hash": "1705016217",
-    "labelMake": "AERONCA",
-    "labelModel": "11CC Chief",
-    "oraeroModel": "11CC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11CC Chief",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11CC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11CC Chief",
-    "year": "1945"
-  },
-  {
-    "hash": "1705016218",
-    "labelMake": "AERONCA",
-    "labelModel": "11CC Chief",
-    "oraeroModel": "11CC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11CC Chief",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11CC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11CC Chief",
-    "year": "1946"
-  },
-  {
-    "hash": "1705016219",
-    "labelMake": "AERONCA",
-    "labelModel": "11CC Chief",
-    "oraeroModel": "11CC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11CC Chief",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11CC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11CC Chief",
-    "year": "1947"
-  },
-  {
-    "hash": "1705016220",
-    "labelMake": "AERONCA",
-    "labelModel": "11CC Chief",
-    "oraeroModel": "11CC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11CC Chief",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11CC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11CC Chief",
-    "year": "1948"
-  },
-  {
-    "hash": "1705016221",
-    "labelMake": "AERONCA",
-    "labelModel": "11CC Chief",
-    "oraeroModel": "11CC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11CC Chief",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11CC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11CC Chief",
-    "year": "1949"
-  },
-  {
-    "hash": "1705016243",
-    "labelMake": "AERONCA",
-    "labelModel": "11CC Chief",
-    "oraeroModel": "11CC Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "11CC Chief",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "11CC Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "11CC Chief",
-    "year": "1950"
-  },
-  {
-    "hash": "235595163",
-    "labelMake": "AERONCA",
-    "labelModel": "15AC Sedan",
-    "oraeroModel": "15AC Sedan",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "15AC Sedan",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "15AC Sedan",
-    "sfMake": "Aeronca",
-    "sfModel": "15AC Sedan",
-    "year": "1947"
-  },
-  {
-    "hash": "235595164",
-    "labelMake": "AERONCA",
-    "labelModel": "15AC Sedan",
-    "oraeroModel": "15AC Sedan",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "15AC Sedan",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "15AC Sedan",
-    "sfMake": "Aeronca",
-    "sfModel": "15AC Sedan",
-    "year": "1948"
-  },
-  {
-    "hash": "235595165",
-    "labelMake": "AERONCA",
-    "labelModel": "15AC Sedan",
-    "oraeroModel": "15AC Sedan",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "15AC Sedan",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "15AC Sedan",
-    "sfMake": "Aeronca",
-    "sfModel": "15AC Sedan",
-    "year": "1949"
-  },
-  {
-    "hash": "235595187",
-    "labelMake": "AERONCA",
-    "labelModel": "15AC Sedan",
-    "oraeroModel": "15AC Sedan",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "15AC Sedan",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "15AC Sedan",
-    "sfMake": "Aeronca",
-    "sfModel": "15AC Sedan",
-    "year": "1950"
-  },
-  {
-    "hash": "235595188",
-    "labelMake": "AERONCA",
-    "labelModel": "15AC Sedan",
-    "oraeroModel": "15AC Sedan",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "15AC Sedan",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "15AC Sedan",
-    "sfMake": "Aeronca",
-    "sfModel": "15AC Sedan",
-    "year": "1951"
-  },
-  {
-    "hash": "235595192",
-    "labelMake": "AERONCA",
-    "labelModel": "15AC Sedan",
-    "oraeroModel": "15AC Sedan",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "15AC Sedan",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "15AC Sedan",
-    "sfMake": "Aeronca",
-    "sfModel": "15AC Sedan",
-    "year": "1955"
-  },
-  {
-    "hash": "235595194",
-    "labelMake": "AERONCA",
-    "labelModel": "15AC Sedan",
-    "oraeroModel": "15AC Sedan",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "15AC Sedan",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "15AC Sedan",
-    "sfMake": "Aeronca",
-    "sfModel": "15AC Sedan",
-    "year": "1957"
-  },
-  {
-    "hash": "1389190917",
-    "labelMake": "AERONCA",
+    "hash": "1268620423",
+    "labelMake": "Aeronca",
     "labelModel": "65-CA",
-    "oraeroModel": "65-CA",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-CA",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-CA",
+    "year": 1940,
     "sfMake": "Aeronca",
-    "sfModel": "65-CA",
-    "year": "1940"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1389190918",
-    "labelMake": "AERONCA",
-    "labelModel": "65-CA",
-    "oraeroModel": "65-CA",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-CA",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-CA",
-    "sfMake": "Aeronca",
-    "sfModel": "65-CA",
-    "year": "1941"
-  },
-  {
-    "hash": "1389190919",
-    "labelMake": "AERONCA",
-    "labelModel": "65-CA",
-    "oraeroModel": "65-CA",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-CA",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-CA",
-    "sfMake": "Aeronca",
-    "sfModel": "65-CA",
-    "year": "1942"
-  },
-  {
-    "hash": "1389190920",
-    "labelMake": "AERONCA",
-    "labelModel": "65-CA",
-    "oraeroModel": "65-CA",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-CA",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-CA",
-    "sfMake": "Aeronca",
-    "sfModel": "65-CA",
-    "year": "1943"
-  },
-  {
-    "hash": "1389190921",
-    "labelMake": "AERONCA",
-    "labelModel": "65-CA",
-    "oraeroModel": "65-CA",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-CA",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-CA",
-    "sfMake": "Aeronca",
-    "sfModel": "65-CA",
-    "year": "1944"
-  },
-  {
-    "hash": "1389190922",
-    "labelMake": "AERONCA",
-    "labelModel": "65-CA",
-    "oraeroModel": "65-CA",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-CA",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-CA",
-    "sfMake": "Aeronca",
-    "sfModel": "65-CA",
-    "year": "1945"
-  },
-  {
-    "hash": "1389190923",
-    "labelMake": "AERONCA",
-    "labelModel": "65-CA",
-    "oraeroModel": "65-CA",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-CA",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-CA",
-    "sfMake": "Aeronca",
-    "sfModel": "65-CA",
-    "year": "1946"
-  },
-  {
-    "hash": "1389190924",
-    "labelMake": "AERONCA",
-    "labelModel": "65-CA",
-    "oraeroModel": "65-CA",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-CA",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-CA",
-    "sfMake": "Aeronca",
-    "sfModel": "65-CA",
-    "year": "1947"
-  },
-  {
-    "hash": "1389190949",
-    "labelMake": "AERONCA",
-    "labelModel": "65-CA",
-    "oraeroModel": "65-CA",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-CA",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-CA",
-    "sfMake": "Aeronca",
-    "sfModel": "65-CA",
-    "year": "1951"
-  },
-  {
-    "hash": "1389190954",
-    "labelMake": "AERONCA",
-    "labelModel": "65-CA",
-    "oraeroModel": "65-CA",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-CA",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-CA",
-    "sfMake": "Aeronca",
-    "sfModel": "65-CA",
-    "year": "1956"
-  },
-  {
-    "hash": "1857501597",
-    "labelMake": "AERONCA",
+    "hash": "59447919",
+    "labelMake": "Aeronca",
     "labelModel": "65-LB Super Chief",
-    "oraeroModel": "65-LB Super Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-LB Super Chief",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-LB Super Chief",
+    "year": 1940,
     "sfMake": "Aeronca",
-    "sfModel": "65-LB Super Chief",
-    "year": "1940"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1857501598",
-    "labelMake": "AERONCA",
-    "labelModel": "65-LB Super Chief",
-    "oraeroModel": "65-LB Super Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-LB Super Chief",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-LB Super Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "65-LB Super Chief",
-    "year": "1941"
-  },
-  {
-    "hash": "1857501599",
-    "labelMake": "AERONCA",
-    "labelModel": "65-LB Super Chief",
-    "oraeroModel": "65-LB Super Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-LB Super Chief",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-LB Super Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "65-LB Super Chief",
-    "year": "1942"
-  },
-  {
-    "hash": "1857501600",
-    "labelMake": "AERONCA",
-    "labelModel": "65-LB Super Chief",
-    "oraeroModel": "65-LB Super Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-LB Super Chief",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-LB Super Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "65-LB Super Chief",
-    "year": "1943"
-  },
-  {
-    "hash": "1857501601",
-    "labelMake": "AERONCA",
-    "labelModel": "65-LB Super Chief",
-    "oraeroModel": "65-LB Super Chief",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-LB Super Chief",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-LB Super Chief",
-    "sfMake": "Aeronca",
-    "sfModel": "65-LB Super Chief",
-    "year": "1944"
-  },
-  {
-    "hash": "1886045215",
-    "labelMake": "AERONCA",
+    "hash": "-508765523",
+    "labelMake": "Aeronca",
     "labelModel": "65-TL",
-    "oraeroModel": "65-TL",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-TL",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-TL",
+    "year": 1940,
     "sfMake": "Aeronca",
-    "sfModel": "65-TL",
-    "year": "1940"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1886045216",
-    "labelMake": "AERONCA",
+    "hash": "-461084069",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1940,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1268620424",
+    "labelMake": "Aeronca",
+    "labelModel": "65-CA",
+    "year": 1941,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "59447920",
+    "labelMake": "Aeronca",
+    "labelModel": "65-LB Super Chief",
+    "year": 1941,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-508765522",
+    "labelMake": "Aeronca",
     "labelModel": "65-TL",
-    "oraeroModel": "65-TL",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "65-TL",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "65-TL",
+    "year": 1941,
     "sfMake": "Aeronca",
-    "sfModel": "65-TL",
-    "year": "1941"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "847512369",
-    "labelMake": "AERONCA",
+    "hash": "1268620425",
+    "labelMake": "Aeronca",
+    "labelModel": "65-CA",
+    "year": 1942,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "59447921",
+    "labelMake": "Aeronca",
+    "labelModel": "65-LB Super Chief",
+    "year": 1942,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1268620426",
+    "labelMake": "Aeronca",
+    "labelModel": "65-CA",
+    "year": 1943,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "59447922",
+    "labelMake": "Aeronca",
+    "labelModel": "65-LB Super Chief",
+    "year": 1943,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1268620427",
+    "labelMake": "Aeronca",
+    "labelModel": "65-CA",
+    "year": 1944,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "59447923",
+    "labelMake": "Aeronca",
+    "labelModel": "65-LB Super Chief",
+    "year": 1944,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-461084065",
+    "labelMake": "Aeronca",
     "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
+    "year": 1944,
     "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1940"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "847512373",
-    "labelMake": "AERONCA",
+    "hash": "-754666860",
+    "labelMake": "Aeronca",
+    "labelModel": "11",
+    "year": 1945,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1688983602",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 1945,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-2098747827",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 1945,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1609413455",
+    "labelMake": "Aeronca",
+    "labelModel": "11CC Chief",
+    "year": 1945,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1268620428",
+    "labelMake": "Aeronca",
+    "labelModel": "65-CA",
+    "year": 1945,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1888161983",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC",
+    "year": 1945,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-461084064",
+    "labelMake": "Aeronca",
     "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
+    "year": 1945,
     "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1944"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "847512374",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
+    "hash": "1058494911",
+    "labelMake": "Aeronca",
+    "labelModel": "7BCM",
+    "year": 1945,
     "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1945"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "847512375",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1946"
-  },
-  {
-    "hash": "847512376",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1947"
-  },
-  {
-    "hash": "847512377",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1948"
-  },
-  {
-    "hash": "847512378",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1949"
-  },
-  {
-    "hash": "847512402",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1952"
-  },
-  {
-    "hash": "847512404",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1954"
-  },
-  {
-    "hash": "847512405",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1955"
-  },
-  {
-    "hash": "847512406",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1956"
-  },
-  {
-    "hash": "847512407",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1957"
-  },
-  {
-    "hash": "847512408",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1958"
-  },
-  {
-    "hash": "847512409",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1959"
-  },
-  {
-    "hash": "847512431",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1960"
-  },
-  {
-    "hash": "847512434",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1963"
-  },
-  {
-    "hash": "847512435",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1964"
-  },
-  {
-    "hash": "847512463",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1971"
-  },
-  {
-    "hash": "847512468",
-    "labelMake": "AERONCA",
-    "labelModel": "7AC Champ",
-    "oraeroModel": "7AC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7AC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7AC Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7AC Champ",
-    "year": "1976"
-  },
-  {
-    "hash": "-1082690200",
-    "labelMake": "AERONCA",
+    "hash": "1089860448",
+    "labelMake": "Aeronca",
     "labelModel": "7BCM Champ",
-    "oraeroModel": "7BCM Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7BCM Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7BCM Champ",
+    "year": 1945,
     "sfMake": "Aeronca",
-    "sfModel": "7BCM Champ",
-    "year": "1945"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "-1082690199",
-    "labelMake": "AERONCA",
-    "labelModel": "7BCM Champ",
-    "oraeroModel": "7BCM Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7BCM Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7BCM Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7BCM Champ",
-    "year": "1946"
-  },
-  {
-    "hash": "-1082690198",
-    "labelMake": "AERONCA",
-    "labelModel": "7BCM Champ",
-    "oraeroModel": "7BCM Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7BCM Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7BCM Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7BCM Champ",
-    "year": "1947"
-  },
-  {
-    "hash": "-1082690172",
-    "labelMake": "AERONCA",
-    "labelModel": "7BCM Champ",
-    "oraeroModel": "7BCM Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7BCM Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7BCM Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7BCM Champ",
-    "year": "1952"
-  },
-  {
-    "hash": "-1082690169",
-    "labelMake": "AERONCA",
-    "labelModel": "7BCM Champ",
-    "oraeroModel": "7BCM Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7BCM Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7BCM Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7BCM Champ",
-    "year": "1955"
-  },
-  {
-    "hash": "-1082690168",
-    "labelMake": "AERONCA",
-    "labelModel": "7BCM Champ",
-    "oraeroModel": "7BCM Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7BCM Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7BCM Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7BCM Champ",
-    "year": "1956"
-  },
-  {
-    "hash": "-1082690167",
-    "labelMake": "AERONCA",
-    "labelModel": "7BCM Champ",
-    "oraeroModel": "7BCM Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7BCM Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7BCM Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7BCM Champ",
-    "year": "1957"
-  },
-  {
-    "hash": "-1082690142",
-    "labelMake": "AERONCA",
-    "labelModel": "7BCM Champ",
-    "oraeroModel": "7BCM Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7BCM Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7BCM Champ",
-    "sfMake": "Aeronca",
-    "sfModel": "7BCM Champ",
-    "year": "1961"
-  },
-  {
-    "hash": "165264682",
-    "labelMake": "AERONCA",
+    "hash": "-1493662050",
+    "labelMake": "Aeronca",
     "labelModel": "7CCM",
-    "oraeroModel": "7CCM",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7CCM",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7CCM",
+    "year": 1945,
     "sfMake": "Aeronca",
-    "sfModel": "7CCM",
-    "year": "1945"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "165264683",
-    "labelMake": "AERONCA",
-    "labelModel": "7CCM",
-    "oraeroModel": "7CCM",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7CCM",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7CCM",
-    "sfMake": "Aeronca",
-    "sfModel": "7CCM",
-    "year": "1946"
-  },
-  {
-    "hash": "165264684",
-    "labelMake": "AERONCA",
-    "labelModel": "7CCM",
-    "oraeroModel": "7CCM",
-    "oraeroMake": "AERONCA",
-    "iatMake": "Aeronca",
-    "iatModel": "7CCM",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7CCM",
-    "sfMake": "Aeronca",
-    "sfModel": "7CCM",
-    "year": "1947"
-  },
-  {
-    "hash": "165264685",
-    "labelMake": "AERONCA",
-    "labelModel": "7CCM",
-    "oraeroModel": "7CCM",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7CCM",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7CCM",
-    "sfMake": "Aeronca",
-    "sfModel": "7CCM",
-    "year": "1948"
-  },
-  {
-    "hash": "165264686",
-    "labelMake": "AERONCA",
-    "labelModel": "7CCM",
-    "oraeroModel": "7CCM",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7CCM",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7CCM",
-    "sfMake": "Aeronca",
-    "sfModel": "7CCM",
-    "year": "1949"
-  },
-  {
-    "hash": "165264708",
-    "labelMake": "AERONCA",
-    "labelModel": "7CCM",
-    "oraeroModel": "7CCM",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7CCM",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7CCM",
-    "sfMake": "Aeronca",
-    "sfModel": "7CCM",
-    "year": "1950"
-  },
-  {
-    "hash": "165264709",
-    "labelMake": "AERONCA",
-    "labelModel": "7CCM",
-    "oraeroModel": "7CCM",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7CCM",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7CCM",
-    "sfMake": "Aeronca",
-    "sfModel": "7CCM",
-    "year": "1951"
-  },
-  {
-    "hash": "165264714",
-    "labelMake": "AERONCA",
-    "labelModel": "7CCM",
-    "oraeroModel": "7CCM",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7CCM",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7CCM",
-    "sfMake": "Aeronca",
-    "sfModel": "7CCM",
-    "year": "1956"
-  },
-  {
-    "hash": "165264739",
-    "labelMake": "AERONCA",
-    "labelModel": "7CCM",
-    "oraeroModel": "7CCM",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7CCM",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7CCM",
-    "sfMake": "Aeronca",
-    "sfModel": "7CCM",
-    "year": "1960"
-  },
-  {
-    "hash": "1234760531",
-    "labelMake": "AERONCA",
+    "hash": "-1341293085",
+    "labelMake": "Aeronca",
     "labelModel": "7DC Champ",
-    "oraeroModel": "7DC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7DC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7DC Champ",
+    "year": 1945,
     "sfMake": "Aeronca",
-    "sfModel": "7DC Champ",
-    "year": "1945"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1234760532",
-    "labelMake": "AERONCA",
-    "labelModel": "7DC Champ",
-    "oraeroModel": "7DC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7DC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7DC Champ",
+    "hash": "87690742",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7",
+    "year": 1945,
     "sfMake": "Aeronca",
-    "sfModel": "7DC Champ",
-    "year": "1946"
+    "sfModel": "",
+    "providers": []
   },
   {
-    "hash": "1234760533",
-    "labelMake": "AERONCA",
-    "labelModel": "7DC Champ",
-    "oraeroModel": "7DC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7DC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7DC Champ",
+    "hash": "-754666859",
+    "labelMake": "Aeronca",
+    "labelModel": "11",
+    "year": 1946,
     "sfMake": "Aeronca",
-    "sfModel": "7DC Champ",
-    "year": "1947"
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "1234760534",
-    "labelMake": "AERONCA",
-    "labelModel": "7DC Champ",
-    "oraeroModel": "7DC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7DC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7DC Champ",
+    "hash": "1688983603",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 1946,
     "sfMake": "Aeronca",
-    "sfModel": "7DC Champ",
-    "year": "1948"
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "1234760535",
-    "labelMake": "AERONCA",
-    "labelModel": "7DC Champ",
-    "oraeroModel": "7DC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7DC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7DC Champ",
+    "hash": "-2098747826",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 1946,
     "sfMake": "Aeronca",
-    "sfModel": "7DC Champ",
-    "year": "1949"
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
   },
   {
-    "hash": "1234760557",
-    "labelMake": "AERONCA",
-    "labelModel": "7DC Champ",
-    "oraeroModel": "7DC Champ",
-    "oraeroMake": "AERONCA",
-    "iatMake": "AERONCA",
-    "iatModel": "7DC Champ",
-    "rokstoneMake": "AERONCA",
-    "rokstoneModel": "7DC Champ",
+    "hash": "1609413456",
+    "labelMake": "Aeronca",
+    "labelModel": "11CC Chief",
+    "year": 1946,
     "sfMake": "Aeronca",
-    "sfModel": "7DC Champ",
-    "year": "1950"
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1268620429",
+    "labelMake": "Aeronca",
+    "labelModel": "65-CA",
+    "year": 1946,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-964515230",
+    "labelMake": "Aeronca",
+    "labelModel": "7",
+    "year": 1946,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1888161984",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC",
+    "year": 1946,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-461084063",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1946,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1058494912",
+    "labelMake": "Aeronca",
+    "labelModel": "7BCM",
+    "year": 1946,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1089860449",
+    "labelMake": "Aeronca",
+    "labelModel": "7BCM Champ",
+    "year": 1946,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1493662049",
+    "labelMake": "Aeronca",
+    "labelModel": "7CCM",
+    "year": 1946,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "255705731",
+    "labelMake": "Aeronca",
+    "labelModel": "7DC",
+    "year": 1946,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1341293084",
+    "labelMake": "Aeronca",
+    "labelModel": "7DC Champ",
+    "year": 1946,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "87690743",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7",
+    "year": 1946,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1639656949",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7BCM",
+    "year": 1946,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-754666858",
+    "labelMake": "Aeronca",
+    "labelModel": "11",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1688983604",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-2098747825",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1609413457",
+    "labelMake": "Aeronca",
+    "labelModel": "11CC Chief",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-992966319",
+    "labelMake": "Aeronca",
+    "labelModel": "15AC Sedan",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1268620430",
+    "labelMake": "Aeronca",
+    "labelModel": "65-CA",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-964515229",
+    "labelMake": "Aeronca",
+    "labelModel": "7",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1888161985",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-461084062",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1058494913",
+    "labelMake": "Aeronca",
+    "labelModel": "7BCM",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1089860450",
+    "labelMake": "Aeronca",
+    "labelModel": "7BCM Champ",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1493662048",
+    "labelMake": "Aeronca",
+    "labelModel": "7CCM",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1341293083",
+    "labelMake": "Aeronca",
+    "labelModel": "7DC Champ",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "87690744",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1639656948",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7BCM",
+    "year": 1947,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-754666857",
+    "labelMake": "Aeronca",
+    "labelModel": "11",
+    "year": 1948,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1688983605",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 1948,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-2098747824",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 1948,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1609413458",
+    "labelMake": "Aeronca",
+    "labelModel": "11CC Chief",
+    "year": 1948,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-640150253",
+    "labelMake": "Aeronca",
+    "labelModel": "15",
+    "year": 1948,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "15",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "15",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-992966318",
+    "labelMake": "Aeronca",
+    "labelModel": "15AC Sedan",
+    "year": 1948,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "15",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "15",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-964515228",
+    "labelMake": "Aeronca",
+    "labelModel": "7",
+    "year": 1948,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084061",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1948,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1493662047",
+    "labelMake": "Aeronca",
+    "labelModel": "7CCM",
+    "year": 1948,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "255705733",
+    "labelMake": "Aeronca",
+    "labelModel": "7DC",
+    "year": 1948,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1341293082",
+    "labelMake": "Aeronca",
+    "labelModel": "7DC Champ",
+    "year": 1948,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-754666856",
+    "labelMake": "Aeronca",
+    "labelModel": "11",
+    "year": 1949,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1688983606",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 1949,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-2098747823",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 1949,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1609413459",
+    "labelMake": "Aeronca",
+    "labelModel": "11CC Chief",
+    "year": 1949,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-640150252",
+    "labelMake": "Aeronca",
+    "labelModel": "15",
+    "year": 1949,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "15",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "15",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-992966317",
+    "labelMake": "Aeronca",
+    "labelModel": "15AC Sedan",
+    "year": 1949,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "15",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "15",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-964515227",
+    "labelMake": "Aeronca",
+    "labelModel": "7",
+    "year": 1949,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084060",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1949,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1493662046",
+    "labelMake": "Aeronca",
+    "labelModel": "7CCM",
+    "year": 1949,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1341293081",
+    "labelMake": "Aeronca",
+    "labelModel": "7DC Champ",
+    "year": 1949,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-754666834",
+    "labelMake": "Aeronca",
+    "labelModel": "11",
+    "year": 1950,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1688983628",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 1950,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-2098747801",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 1950,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1609413481",
+    "labelMake": "Aeronca",
+    "labelModel": "11CC Chief",
+    "year": 1950,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-640150230",
+    "labelMake": "Aeronca",
+    "labelModel": "15",
+    "year": 1950,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "15",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "15",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-992966295",
+    "labelMake": "Aeronca",
+    "labelModel": "15AC Sedan",
+    "year": 1950,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "15",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "15",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-964515205",
+    "labelMake": "Aeronca",
+    "labelModel": "7",
+    "year": 1950,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1493662024",
+    "labelMake": "Aeronca",
+    "labelModel": "7CCM",
+    "year": 1950,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1341293059",
+    "labelMake": "Aeronca",
+    "labelModel": "7DC Champ",
+    "year": 1950,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1299132366",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7EC",
+    "year": 1950,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1688983629",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 1951,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-2098747800",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 1951,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-640150229",
+    "labelMake": "Aeronca",
+    "labelModel": "15",
+    "year": 1951,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "15",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "15",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-992966294",
+    "labelMake": "Aeronca",
+    "labelModel": "15AC Sedan",
+    "year": 1951,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "15",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "15",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1268620455",
+    "labelMake": "Aeronca",
+    "labelModel": "65-CA",
+    "year": 1951,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-964515204",
+    "labelMake": "Aeronca",
+    "labelModel": "7",
+    "year": 1951,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1888162010",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC",
+    "year": 1951,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1493662023",
+    "labelMake": "Aeronca",
+    "labelModel": "7CCM",
+    "year": 1951,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1341293058",
+    "labelMake": "Aeronca",
+    "labelModel": "7DC Champ",
+    "year": 1951,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "7",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "7",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1688983630",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 1952,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-2098747799",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 1952,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084036",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1952,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1089860476",
+    "labelMake": "Aeronca",
+    "labelModel": "7BCM Champ",
+    "year": 1952,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1688983631",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 1953,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-2098747798",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 1953,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1688983632",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 1954,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-2098747797",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 1954,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084034",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1954,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-992966290",
+    "labelMake": "Aeronca",
+    "labelModel": "15AC Sedan",
+    "year": 1955,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1888162014",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC",
+    "year": 1955,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084033",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1955,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1089860479",
+    "labelMake": "Aeronca",
+    "labelModel": "7BCM Champ",
+    "year": 1955,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1299132361",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7EC",
+    "year": 1955,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1688983634",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 1956,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-2098747795",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 1956,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "rokstoneMake": "Aeronca",
+    "rokstoneModel": "11",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      },
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "Aeronca",
+        "providerModel": "11",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1268620460",
+    "labelMake": "Aeronca",
+    "labelModel": "65-CA",
+    "year": 1956,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1123292122",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1956,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084032",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1956,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1058494943",
+    "labelMake": "Aeronca",
+    "labelModel": "7BCM",
+    "year": 1956,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1089860480",
+    "labelMake": "Aeronca",
+    "labelModel": "7BCM Champ",
+    "year": 1956,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1493662018",
+    "labelMake": "Aeronca",
+    "labelModel": "7CCM",
+    "year": 1956,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1639656918",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7BCM",
+    "year": 1956,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1299132360",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7EC",
+    "year": 1956,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-992966288",
+    "labelMake": "Aeronca",
+    "labelModel": "15AC Sedan",
+    "year": 1957,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1123292123",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1957,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084031",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1957,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1089860481",
+    "labelMake": "Aeronca",
+    "labelModel": "7BCM Champ",
+    "year": 1957,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1888162017",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC",
+    "year": 1958,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084030",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1958,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1299132358",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7EC",
+    "year": 1958,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1123292125",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1959,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084029",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1959,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1299132357",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7EC",
+    "year": 1959,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1888162040",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC",
+    "year": 1960,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084007",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1960,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1493661993",
+    "labelMake": "Aeronca",
+    "labelModel": "7CCM",
+    "year": 1960,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1299132335",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7EC",
+    "year": 1960,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1830460471",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7GCB",
+    "year": 1960,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1888162041",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC",
+    "year": 1961,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1089860506",
+    "labelMake": "Aeronca",
+    "labelModel": "7BCM Champ",
+    "year": 1961,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1830460470",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7GCB",
+    "year": 1961,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1123292149",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1962,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-1830460469",
+    "labelMake": "Aeronca",
+    "labelModel": "AERONCA 7GCB",
+    "year": 1962,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1123292150",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1963,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084004",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1963,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1123292151",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1964,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461084003",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1964,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1123292152",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1965,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292153",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1966,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292154",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1967,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292155",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1968,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292156",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1969,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292178",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1970,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292179",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1971,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461083975",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1971,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "-1493661961",
+    "labelMake": "Aeronca",
+    "labelModel": "7CCM",
+    "year": 1971,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1123292180",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1972,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292181",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1973,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292182",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1974,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292183",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1975,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292184",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1976,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-461083970",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC Champ",
+    "year": 1976,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "providers": []
+  },
+  {
+    "hash": "1123292185",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1977,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292186",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1978,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292187",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1979,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292209",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1980,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292210",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1981,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292211",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1982,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292212",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1983,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292213",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1984,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292214",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1985,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292215",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1986,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292216",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1987,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292217",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1988,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292218",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1989,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292240",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1990,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292241",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1991,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292242",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1992,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292243",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1993,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292244",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1994,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292245",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1995,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292246",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1996,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292247",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1997,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292248",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1998,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123292249",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 1999,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313103",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2000,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313104",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2001,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1689004617",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC",
+    "year": 2002,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "-2098726812",
+    "labelMake": "Aeronca",
+    "labelModel": "11AC Chief",
+    "year": 2002,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "iatMake": "Aeronca",
+    "iatModel": "11AC",
+    "providers": [
+      {
+        "providerId": 1,
+        "providerCode": "iat",
+        "providerName": "IAT Insurance",
+        "providerMake": "Aeronca",
+        "providerModel": "11AC",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313105",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2002,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313106",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2003,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313107",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2004,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313108",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2005,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313109",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2006,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313110",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2007,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313111",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2008,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313112",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2009,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313134",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2010,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313135",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2011,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313136",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2012,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313137",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2013,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313138",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2014,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313139",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2015,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313140",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2016,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313141",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2017,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313142",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2018,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313143",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2019,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313165",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2020,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313166",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2021,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313167",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2022,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313168",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2023,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313169",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2024,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "hash": "1123313170",
+    "labelMake": "Aeronca",
+    "labelModel": "7AC / 7EC Series",
+    "year": 2025,
+    "sfMake": "Aeronca",
+    "sfModel": "",
+    "rokstoneMake": "American Champion",
+    "rokstoneModel": "7AC / 7EC Series",
+    "providers": [
+      {
+        "providerId": 2,
+        "providerCode": "rokstone",
+        "providerName": "Rokstone",
+        "providerMake": "American Champion",
+        "providerModel": "7AC / 7EC Series",
+        "isActive": true
+      }
+    ]
   }
 ]
